@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nexus Links Monitor</title>
+    <style>
+      :root {
+        --bg: #08111d;
+        --panel: rgba(10, 22, 37, 0.88);
+        --panel-strong: rgba(14, 29, 48, 0.96);
+        --line: rgba(138, 180, 248, 0.2);
+        --text: #e6eef9;
+        --muted: #95a8c2;
+        --accent: #6dd3ff;
+        --good: #57d18c;
+        --warn: #f2c14e;
+        --bad: #ff7b72;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "Segoe UI", system-ui, sans-serif;
+        color: var(--text);
+        background:
+          radial-gradient(circle at top left, rgba(109, 211, 255, 0.18), transparent 30%),
+          radial-gradient(circle at top right, rgba(87, 209, 140, 0.14), transparent 28%),
+          linear-gradient(180deg, #08111d 0%, #0d1828 100%);
+      }
+
+      main {
+        width: min(1100px, calc(100% - 32px));
+        margin: 32px auto;
+      }
+
+      .hero,
+      .card {
+        border: 1px solid var(--line);
+        background: var(--panel);
+        backdrop-filter: blur(16px);
+        border-radius: 20px;
+        box-shadow: 0 18px 60px rgba(0, 0, 0, 0.25);
+      }
+
+      .hero {
+        padding: 28px;
+        margin-bottom: 20px;
+      }
+
+      h1,
+      h2,
+      p {
+        margin: 0;
+      }
+
+      .eyebrow {
+        display: inline-block;
+        font-size: 12px;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--accent);
+        margin-bottom: 10px;
+      }
+
+      .hero-grid,
+      .sources {
+        display: grid;
+        gap: 16px;
+      }
+
+      .hero-grid {
+        grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+        margin-top: 22px;
+      }
+
+      .metric {
+        padding: 16px;
+        border-radius: 16px;
+        background: var(--panel-strong);
+        border: 1px solid var(--line);
+      }
+
+      .metric-label {
+        font-size: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.1em;
+        color: var(--muted);
+      }
+
+      .metric-value {
+        margin-top: 8px;
+        font-size: 24px;
+        font-weight: 700;
+      }
+
+      .sources {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      }
+
+      .card {
+        padding: 22px;
+      }
+
+      .row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+      }
+
+      .status-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .status-healthy {
+        background: rgba(87, 209, 140, 0.16);
+        color: var(--good);
+      }
+
+      .status-stale {
+        background: rgba(242, 193, 78, 0.16);
+        color: var(--warn);
+      }
+
+      .status-failed {
+        background: rgba(255, 123, 114, 0.16);
+        color: var(--bad);
+      }
+
+      .facts {
+        margin-top: 18px;
+        display: grid;
+        gap: 10px;
+      }
+
+      .fact {
+        display: flex;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 10px 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .fact:last-child {
+        border-bottom: 0;
+        padding-bottom: 0;
+      }
+
+      .fact-label {
+        color: var(--muted);
+      }
+
+      .links {
+        margin-top: 18px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      a {
+        color: var(--accent);
+        text-decoration: none;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 40px;
+        padding: 0 14px;
+        border-radius: 999px;
+        background: rgba(109, 211, 255, 0.12);
+        border: 1px solid rgba(109, 211, 255, 0.28);
+      }
+
+      .error {
+        color: var(--bad);
+        margin-top: 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <span class="eyebrow">Nexus Links</span>
+        <h1>Scraper Monitor</h1>
+        <p id="summary" style="margin-top: 10px; color: var(--muted);">
+          Loading latest scraping status...
+        </p>
+        <div class="hero-grid" id="metrics"></div>
+        <div class="links">
+          <a class="button" href="/status.json" target="_blank" rel="noreferrer">Open status.json</a>
+          <a class="button" id="actionsLink" href="#" target="_blank" rel="noreferrer">Open GitHub Actions</a>
+        </div>
+        <p class="error" id="error"></p>
+      </section>
+
+      <section class="sources" id="sources"></section>
+    </main>
+
+    <script>
+      function formatDate(value) {
+        if (!value) return "Unknown";
+        const date = new Date(value);
+        return Number.isNaN(date.getTime()) ? value : date.toLocaleString();
+      }
+
+      function formatRelative(value) {
+        if (!value) return "Unknown";
+        const date = new Date(value);
+        if (Number.isNaN(date.getTime())) return "Unknown";
+        const diffMs = Date.now() - date.getTime();
+        const diffMinutes = Math.round(diffMs / 60000);
+        if (diffMinutes < 1) return "just now";
+        if (diffMinutes < 60) return `${diffMinutes} min ago`;
+        const diffHours = Math.round(diffMinutes / 60);
+        if (diffHours < 24) return `${diffHours} h ago`;
+        const diffDays = Math.round(diffHours / 24);
+        return `${diffDays} d ago`;
+      }
+
+      function statusClass(status) {
+        if (status === "healthy") return "status-healthy";
+        if (status === "stale") return "status-stale";
+        return "status-failed";
+      }
+
+      function prettyStatus(status) {
+        if (status === "healthy") return "updated";
+        if (status === "stale") return "preserved";
+        return "failed";
+      }
+
+      function metric(label, value) {
+        const wrapper = document.createElement("div");
+        wrapper.className = "metric";
+        wrapper.innerHTML = `<div class="metric-label">${label}</div><div class="metric-value">${value}</div>`;
+        return wrapper;
+      }
+
+      function sourceCard(source) {
+        const article = document.createElement("article");
+        article.className = "card";
+        article.innerHTML = `
+          <div class="row">
+            <h2>${source.name}</h2>
+            <span class="status-pill ${statusClass(source.status)}">${prettyStatus(source.status)}</span>
+          </div>
+          <div class="facts">
+            <div class="fact"><span class="fact-label">Entries</span><strong>${source.entries ?? 0}</strong></div>
+            <div class="fact"><span class="fact-label">Updated this run</span><strong>${source.updatedThisRun ? "Yes" : "No"}</strong></div>
+            <div class="fact"><span class="fact-label">Last data refresh</span><strong>${formatDate(source.dataUpdatedAt)}</strong></div>
+            <div class="fact"><span class="fact-label">Age</span><strong>${formatRelative(source.dataUpdatedAt)}</strong></div>
+            <div class="fact"><span class="fact-label">File</span><strong>${source.file}</strong></div>
+          </div>
+          <div class="links">
+            <a class="button" href="/${source.file}" target="_blank" rel="noreferrer">Open JSON</a>
+          </div>
+        `;
+        return article;
+      }
+
+      async function loadMonitor() {
+        const errorNode = document.getElementById("error");
+        try {
+          const response = await fetch(`/status.json?ts=${Date.now()}`, { cache: "no-store" });
+          if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+          }
+
+          const status = await response.json();
+          document.getElementById("summary").textContent =
+            `Last run ${formatRelative(status.generatedAt)} on workflow #${status.runNumber}.`;
+
+          const actionsLink = document.getElementById("actionsLink");
+          actionsLink.href = status.actionsUrl || "#";
+
+          const metrics = document.getElementById("metrics");
+          metrics.appendChild(metric("Last Run", formatDate(status.generatedAt)));
+          metrics.appendChild(metric("Healthy Sources", status.summary.healthy));
+          metrics.appendChild(metric("Preserved Sources", status.summary.stale));
+          metrics.appendChild(metric("Failed Sources", status.summary.failed));
+
+          const sources = document.getElementById("sources");
+          status.sources.forEach((source) => sources.appendChild(sourceCard(source)));
+        } catch (error) {
+          errorNode.textContent = `Could not load monitor data: ${error.message}`;
+        }
+      }
+
+      loadMonitor();
+    </script>
+  </body>
+</html>

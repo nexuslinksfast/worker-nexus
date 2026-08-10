@@ -1,0 +1,95 @@
+{
+  "generatedAt": "2026-08-04T15:08:30.153Z",
+  "runId": "30918948076",
+  "runNumber": 454,
+  "repository": "NXDRAXX/nx-links",
+  "actionsUrl": "https://github.com/NXDRAXX/nx-links/actions/runs/30918948076",
+  "sources": [
+    {
+      "key": "steamrip",
+      "name": "SteamRip",
+      "file": "steamrip.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 4464,
+      "dataUpdatedAt": "2026-08-04T15:08:30.163Z"
+    },
+    {
+      "key": "fitgirl",
+      "name": "FitGirl",
+      "file": "fitgirl.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 6876,
+      "dataUpdatedAt": "2026-08-04T15:08:30.199Z"
+    },
+    {
+      "key": "freegog",
+      "name": "FreeGOG",
+      "file": "freegog.json",
+      "updatedThisRun": false,
+      "status": "stale",
+      "entries": 7688,
+      "dataUpdatedAt": null
+    },
+    {
+      "key": "onlinefix",
+      "name": "OnlineFix",
+      "file": "onlinefix.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 2400,
+      "dataUpdatedAt": "2026-08-04T15:08:30.222Z"
+    },
+    {
+      "key": "onlinefix-fixes",
+      "name": "OnlineFix Fixes",
+      "file": "onlinefix-fixes.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 515,
+      "dataUpdatedAt": "2026-08-04T15:08:30.223Z"
+    },
+    {
+      "key": "iggames",
+      "name": "IGGames",
+      "file": "iggames.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 4060,
+      "dataUpdatedAt": "2026-08-04T15:08:30.255Z"
+    },
+    {
+      "key": "instant-gaming",
+      "name": "Instant Gaming",
+      "file": "instant-gaming-deals.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 31,
+      "dataUpdatedAt": "2026-08-04T15:08:30.255Z"
+    },
+    {
+      "key": "dodi",
+      "name": "DODI",
+      "file": "dodi.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 3129,
+      "dataUpdatedAt": "2026-08-04T15:08:30.272Z"
+    },
+    {
+      "key": "rexagames",
+      "name": "RexaGames",
+      "file": "rexagames.json",
+      "updatedThisRun": true,
+      "status": "healthy",
+      "entries": 3025,
+      "dataUpdatedAt": "2026-08-04T15:08:30.277Z"
+    }
+  ],
+  "summary": {
+    "healthy": 8,
+    "stale": 1,
+    "failed": 0
+  }
+}

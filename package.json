@@ -1,0 +1,19 @@
+{
+  "name": "nexus-links-steamrip-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Autonomous SteamRIP scraper powered by Playwright and GitHub Actions",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "scrape:steamrip": "node scraper.js steamrip",
+    "scrape:fitgirl": "node scraper.js fitgirl",
+    "scrape:freegog": "node scraper.js freegog",
+    "scrape:onlinefix-fixes": "node scraper.js onlinefix-fixes"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "playwright": "^1.53.0"
+  }
+}

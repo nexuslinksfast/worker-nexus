@@ -1,0 +1,453 @@
+{
+  "name": "AnkerGames",
+  "downloads": [
+    {
+      "title": "ReStory: Chill Electronics Repairs",
+      "fileSize": "688.7 MB",
+      "uploadDate": "2026-08-07T14:53:21.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg2MSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMTAwLjg3LjE5MiIsImV4cGlyZXMiOjE3ODYyMDA4MjcsIm5vbmNlIjoiZmZhMzFhNDRmOTc3MDZkMTdhMjFiMTgwOWFiYmVkNDYifQ==/46afb401442ab6e02f103295fde7b3b2152997ae128fb4f8784bf0cc9d19ef65"
+      ]
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator",
+      "fileSize": "1.7 GB",
+      "uploadDate": "2026-08-07T14:53:40.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg3OSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMTAwLjg3LjE5MiIsImV4cGlyZXMiOjE3ODYyMDA4MjgsIm5vbmNlIjoiZGQ4MTA1MWZkZDQzN2M2MjZiNzk1NDBhMDRiMzQwYmUifQ==/f9b5e36e26f114809eed94a7f7b56202ee98e4bccfd8343ea9e6ce78a659296e"
+      ]
+    },
+    {
+      "title": "The Messenger",
+      "fileSize": "327.4 MB",
+      "uploadDate": "2026-08-07T14:53:06.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg1OCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMTAwLjg3LjE5MiIsImV4cGlyZXMiOjE3ODYyMDA4MjksIm5vbmNlIjoiMDk0ZDYxYTExN2ZjNjlhMDMzZDhmZjgyYWFlNDdkNjUifQ==/7a8c46995bf6193cd91a949e3cc587d667c0bcf40f09836af2328e2c695df918"
+      ]
+    },
+    {
+      "title": "Doloc Town",
+      "fileSize": "1.1 GB",
+      "uploadDate": "2026-08-07T14:52:14.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg1NywidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMTAwLjg3LjE5MiIsImV4cGlyZXMiOjE3ODYyMDA4MzAsIm5vbmNlIjoiZDVjYmVmZTc5YTYxOTBlNjAyODIxZjRkZmE5YWZhZWIifQ==/10ea6045e4fb65fc73ed8c3a97e9db55bb8c4b10a6a04c3b59fe09931173bd01"
+      ]
+    },
+    {
+      "title": "Big Walk",
+      "fileSize": "3.1 GB",
+      "uploadDate": "2026-08-07T14:53:28.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgxNywidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMTAwLjg3LjE5MiIsImV4cGlyZXMiOjE3ODYyMDA4MzIsIm5vbmNlIjoiYmZjNzRjY2E1ZDI2OTY4Y2MxMzNiNDJlNWY1NDY4ZTQifQ==/91817cc0e97f476d8cd1e2fb34ea1895df392f9bf5630296b3da7feba87e6c46"
+      ]
+    },
+    {
+      "title": "Leafy Corner",
+      "fileSize": "447.2 MB",
+      "uploadDate": "2026-08-07T14:51:19.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgxMiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMjIwLjEwMS44IiwiZXhwaXJlcyI6MTc4NjIwMDgzNiwibm9uY2UiOiIzMTk1MjBmOTYwYThhOTI5YjQ5OTA0MjIzY2FiOWIzZSJ9/a848676db78e5f4825b0f6869138abe126c6d6c08cb5cb1b49393dc954fca4f6"
+      ]
+    },
+    {
+      "title": "Ugoku Sushi Bar",
+      "fileSize": "398.2 MB",
+      "uploadDate": "2026-08-07T14:52:35.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgxMCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMjIwLjEwMS44IiwiZXhwaXJlcyI6MTc4NjIwMDgzNywibm9uY2UiOiJjODllODQxZTZiZjExOTkzZDNhMTI4ODI2ZDc4YzE1ZCJ9/982417f7f75835572231e57fcf24fe9a58b4bd2cd5a64dffae56b4598e30a532"
+      ]
+    },
+    {
+      "title": "The Roottrees are Dead",
+      "fileSize": "623.3 MB",
+      "uploadDate": "2026-08-07T14:51:47.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgxNCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMjIwLjEwMS44IiwiZXhwaXJlcyI6MTc4NjIwMDgzOCwibm9uY2UiOiI2OTlhZjZmOTNkNjAzYzlhMmU5MzcyOWMxYmVlYzdiMiJ9/946e4e1e189f33f13f8a28274a17f107723f795dfe1eeea4c8eff14b212d80ef"
+      ]
+    },
+    {
+      "title": "Cat Quest II",
+      "fileSize": "224.3 MB",
+      "uploadDate": "2026-08-07T14:52:07.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgxMywidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMjIwLjEwMS44IiwiZXhwaXJlcyI6MTc4NjIwMDgzOSwibm9uY2UiOiI3ZjNjZmE3MzRjNGRmNzg3NTlhNTk5YzJjMThmNzE1NSJ9/b3ad4c2121382e548fb5910eb2b06e235fc71b6202ead91ef527ff7aa9544738"
+      ]
+    },
+    {
+      "title": "Crimson Desert",
+      "fileSize": "96.5 GB",
+      "uploadDate": "2026-08-07T14:53:33.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgwOSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxODUuMjIwLjEwMS44IiwiZXhwaXJlcyI6MTc4NjIwMDg0MCwibm9uY2UiOiIzY2NhYTI5MTY3NWZhZjY0YjU4NTk0OGZlZjg4MmMwNCJ9/2809d537eca06b9780d0a2e20ca428cbbeabd0027f63039cbc4085e664c7207e"
+      ]
+    },
+    {
+      "title": "Avatar: Frontiers of Pandora",
+      "fileSize": "130.0 GB",
+      "uploadDate": "2026-08-07T14:52:17.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgyOCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjE0IiwiZXhwaXJlcyI6MTc4NjIwMDg0NSwibm9uY2UiOiIwYjU0NWZkODE0NzA5NDc0ZGExZmE2MDI5ZDMwNGZiNiJ9/b33d852e8befe1cafae08f6c7cddf84ac06c2e0d30a9f3e4979a82795ca2d0bf"
+      ]
+    },
+    {
+      "title": "My Card Is Better Than Your Card!",
+      "fileSize": "526.5 MB",
+      "uploadDate": "2026-08-07T14:53:40.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc4NSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjE0IiwiZXhwaXJlcyI6MTc4NjIwMDg0Nywibm9uY2UiOiJjZDM2MjU3NjNjYzAzOWY3MTI2OWVkMWI1MmQzYjZkOSJ9/2e295483ec4434ec69545fbe5baaf08ebd2f2e50bf2506f4961d8aaf7b893145"
+      ]
+    },
+    {
+      "title": "E-Shop Tycoon",
+      "fileSize": "440.3 MB",
+      "uploadDate": "2026-08-07T14:53:31.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg3MywidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjE0IiwiZXhwaXJlcyI6MTc4NjIwMDg0Nywibm9uY2UiOiI0ZWQ0MWVmY2NmZmMwYWI0NTQzZDExMTAzYWFmMGM1MSJ9/dae7365eb0d318dfd44ac797bb59429e2ba31851cab18882e0712d43a33f8822"
+      ]
+    },
+    {
+      "title": "Echoes of the End",
+      "fileSize": "42.1 GB",
+      "uploadDate": "2026-08-07T14:47:58.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc4NCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjE0IiwiZXhwaXJlcyI6MTc4NjIwMDg0OSwibm9uY2UiOiI5NDllMzkzNzVjZjkwOThkNmZiMjg3MjM1ZTQ5ZTk5MCJ9/713f7f95fc68a2eb3bdfb23cdff3a085e7624c82a8cc25edf90313190653284a"
+      ]
+    },
+    {
+      "title": "The Executive - Movie Industry Tycoon",
+      "fileSize": "433.4 MB",
+      "uploadDate": "2026-08-07T14:52:48.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc4MiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjE0IiwiZXhwaXJlcyI6MTc4NjIwMDg1MCwibm9uY2UiOiJlMWRhZWQxMmU2ZTViYTdiNTQ4YmIxZmY3NzNmNzM5MyJ9/a0fc296cb7de41b4747355cdffdbae4fc9f2ac42428c49c15d510c415772add5"
+      ]
+    },
+    {
+      "title": "Mall Together",
+      "fileSize": "2.8 GB",
+      "uploadDate": "2026-08-07T14:51:23.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg0OSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxNzYuNjUuMTQ5Ljk2IiwiZXhwaXJlcyI6MTc4NjIwMDg1Niwibm9uY2UiOiJmMTM3NTEzNmQ5YzEzMWM2Yjk5MGI5NmM4MTg5NGJmYSJ9/c11ecda245a69409b8966457a3ee4fdd740f9aa2e8ac12bfb54a8932c3b3cba6"
+      ]
+    },
+    {
+      "title": "Quasimorph",
+      "fileSize": "1.5 GB",
+      "uploadDate": "2026-08-07T14:53:22.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg3OCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxNzYuNjUuMTQ5Ljk2IiwiZXhwaXJlcyI6MTc4NjIwMDg1Nywibm9uY2UiOiI0NzNhOTQ1Zjk3NTUyNWE2YTg5OWYxMmJkNjM0YWQ3ZCJ9/22aa56f247c1c47c969e6dd5f388fd74ce0fa412601364a1be4319a239f4b49b"
+      ]
+    },
+    {
+      "title": "Cloudpunk",
+      "fileSize": "8.7 GB",
+      "uploadDate": "2026-08-07T14:52:42.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc2NCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxNzYuNjUuMTQ5Ljk2IiwiZXhwaXJlcyI6MTc4NjIwMDg1OCwibm9uY2UiOiJiMzAwMTI2MmZjMmY1Zjg1ODI0MzU3YzAyZmI0YWRhOCJ9/aa8545f820d69688fbeb97ecbc186ee6ac3e5602249a05166af61ddd829e0ab5"
+      ]
+    },
+    {
+      "title": "Kingdom Rush Frontiers - Tower Defense",
+      "fileSize": "436.8 MB",
+      "uploadDate": "2026-08-07T14:47:59.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc2NiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxNzYuNjUuMTQ5Ljk2IiwiZXhwaXJlcyI6MTc4NjIwMDg1OSwibm9uY2UiOiJiNzEwNzgzYjhhOGIyNzU1NTU5ZTQyYjRlODVmZThkOCJ9/7bbbbefb4f4f4cec86477a2166c47e6a02a74be19fb64d241c93be074dd2581a"
+      ]
+    },
+    {
+      "title": "Corsair Cove",
+      "fileSize": "17.3 GB",
+      "uploadDate": "2026-08-07T14:51:16.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg3NSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxNzYuNjUuMTQ5Ljk2IiwiZXhwaXJlcyI6MTc4NjIwMDg2MCwibm9uY2UiOiIxMTJmNGNkNTZkNDM3ODQ2ODM1ZWU0ODMwYzhlYzVhNyJ9/f89378045d6f993a55de88ee9ab858ed66ee09a47695f18eabb851febe68e634"
+      ]
+    },
+    {
+      "title": "Machine Party",
+      "fileSize": "443.2 MB",
+      "uploadDate": "2026-08-07T14:52:55.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgyOSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwOSIsImV4cGlyZXMiOjE3ODYyMDA4NjcsIm5vbmNlIjoiNTcwMjMxZDMzOWNkMTQzYzZkMjdiYmJhZWZhYmFiYzEifQ==/73074aa22f96dc113479807af2d9cc79c0dd8e8e137335d7bf7025be261dea9f"
+      ]
+    },
+    {
+      "title": "DRAGON QUEST VII Reimagined",
+      "fileSize": "6.1 GB",
+      "uploadDate": "2026-08-07T14:51:13.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc2MCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwOSIsImV4cGlyZXMiOjE3ODYyMDA4NjgsIm5vbmNlIjoiZTYxZGExMzhhOGJjNmNmMzI5M2U2ZDA4YmZlNzA2ZWYifQ==/979afea21b4b10388d66929904dd97e86d8c36e20da66acb178f0d55fb4ee9e5"
+      ]
+    },
+    {
+      "title": "Beast of Reincarnation",
+      "fileSize": "31.5 GB",
+      "uploadDate": "2026-08-07T14:52:51.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc4OCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwOSIsImV4cGlyZXMiOjE3ODYyMDA4NjksIm5vbmNlIjoiYzc3NWY1NjVjNDhlZDQ5MWRkNjRmNjBkM2I1N2U2YTgifQ==/52fb4f673967afb09f26d5b0a6ebcb54125e14d3cf8dee817554a075256d6dd1"
+      ]
+    },
+    {
+      "title": "Escape from Ever After",
+      "fileSize": "2.9 GB",
+      "uploadDate": "2026-08-07T14:51:19.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDczNCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwOSIsImV4cGlyZXMiOjE3ODYyMDA4NzAsIm5vbmNlIjoiM2M0ZjFhNWE2YzU2YzVmNDg5NjA4YjQzODhiNzI0NmIifQ==/0831653fb390c34126695350a2e83e0dc64a2626d9d1d065c438e6c05633d5e1"
+      ]
+    },
+    {
+      "title": "SimCity 4",
+      "fileSize": "1.0 GB",
+      "uploadDate": "2026-08-07T14:52:41.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc2NSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwOSIsImV4cGlyZXMiOjE3ODYyMDA4NzIsIm5vbmNlIjoiMTEzOWFhNmNhZGY2ZGRhMDE2NDQ2ZjNjNGMwMTkxNjIifQ==/6aee23812ad30226813efd845d7ab132652f0c31d80812f000d2adcc6fdbde6d"
+      ]
+    },
+    {
+      "title": "Death Road to Canada",
+      "fileSize": "93.2 MB",
+      "uploadDate": "2026-08-07T14:48:47.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDczMywidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjUiLCJleHBpcmVzIjoxNzg2MjAwODgwLCJub25jZSI6Ijk2ZDBiNzlkODcxZTFlMjgwNTUxYzgxM2QyMjM1ZDE3In0=/4826b770d6fcc5e0d7fb580e8f2ad1001a78bfbbbbc5b05b85d8485336be9694"
+      ]
+    },
+    {
+      "title": "Overcooked! 2",
+      "fileSize": "7.0 GB",
+      "uploadDate": "2026-08-07T14:52:27.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDczMiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjUiLCJleHBpcmVzIjoxNzg2MjAwODgyLCJub25jZSI6ImZmZTRiNmM2M2UyZmY2ZjljZWQ2Y2I0Y2EyOWE3YTYwIn0=/3561324cb0e977894279e9eca06b098865ad6569a68e4e33f386712aecee290f"
+      ]
+    },
+    {
+      "title": "How Many Dudes?",
+      "fileSize": "348.2 MB",
+      "uploadDate": "2026-08-07T14:48:54.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg1MSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjUiLCJleHBpcmVzIjoxNzg2MjAwODg0LCJub25jZSI6IjU4N2RjZDNmNGNmZDZlYjdkYjhjM2RkZDBkMTBmMjI4In0=/a17d9d02bfbed7b64cf039e8b5757ae931a900b6bcf854d739dd469c00dac18e"
+      ]
+    },
+    {
+      "title": "Bills Must Be Paid",
+      "fileSize": "327.6 MB",
+      "uploadDate": "2026-08-07T14:53:22.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDY5NywidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjUiLCJleHBpcmVzIjoxNzg2MjAwODg3LCJub25jZSI6ImNkNGMwZmRhNjNlZTljY2NjZDA1OWFmMjA5ODE3MzBhIn0=/a58d2589bb7bb64431ae55b559fc5b75a24a2a5c984711ef84b4edb692b46ac3"
+      ]
+    },
+    {
+      "title": "The Incident at Galley House",
+      "fileSize": "1.2 GB",
+      "uploadDate": "2026-08-07T14:53:17.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDczNSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjUiLCJleHBpcmVzIjoxNzg2MjAwODkwLCJub25jZSI6IjQ5ZjBkY2Y5NTIyZDI1MDk2NmRkYTA4NTJmZjllNjIwIn0=/722927b4261816c211ddca3da4eb3b7537de48a0ed575e69f2a0b39efac3e907"
+      ]
+    },
+    {
+      "title": "Sherlock Holmes The Awakened",
+      "fileSize": "25.9 GB",
+      "uploadDate": "2026-08-07T14:51:31.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDY4OSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjE1IiwiZXhwaXJlcyI6MTc4NjIwMDg5Nywibm9uY2UiOiJhNjFhMTMyZmQ1M2MzMjI0YjBjODRiZmI1YTI1MzJkOSJ9/17553845069d543e1b79cab6db537c2a0a2c722769ef08e56ab7422b6d8856db"
+      ]
+    },
+    {
+      "title": "Sir, We Have an Orc Problem",
+      "fileSize": "184.3 MB",
+      "uploadDate": "2026-08-07T14:53:06.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc5NiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjE1IiwiZXhwaXJlcyI6MTc4NjIwMDg5OSwibm9uY2UiOiIxYmJkOTBlMzFkYjMyMzI3ZDIzMmUyYWEyMDNkNDU5NyJ9/62462b40ef959af4cf08c4f8672fcc5c392445f8f4ec912d646ec129bd97db27"
+      ]
+    },
+    {
+      "title": "Class of '09",
+      "fileSize": "742.8 MB",
+      "uploadDate": "2026-08-07T14:52:18.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDY4NSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjE1IiwiZXhwaXJlcyI6MTc4NjIwMDkwMCwibm9uY2UiOiI3MDRjNWU3MjFmZWRlZjdjN2YzZWJiZDA0OTYyOGZhNyJ9/529dede3b1ffe8a1ebb563a9a021f474fffa818b2564c38c5212e76613abdda5"
+      ]
+    },
+    {
+      "title": "Kingdoms of Amalur: Re-Reckoning",
+      "fileSize": "38.5 GB",
+      "uploadDate": "2026-08-07T14:53:26.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDY4NiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjE1IiwiZXhwaXJlcyI6MTc4NjIwMDkwMSwibm9uY2UiOiI0ZGVjMTIyNjJkMDM4NmNiMDc1NWIzYTZmYjRkOGE3NiJ9/9871680cfad8fe4e2e64579507a7ffc7f202175a9718b98320f120131b39cfe9"
+      ]
+    },
+    {
+      "title": "Drone Sector",
+      "fileSize": "1.9 GB",
+      "uploadDate": "2026-08-07T14:50:47.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDczNiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjE1IiwiZXhwaXJlcyI6MTc4NjIwMDkwMywibm9uY2UiOiJiMDFjZTY3NTIxNjA2MDQyNDNkNjE5YWQxNDY0MDdkYiJ9/cd227e19f3d991ae14e8d5c1ed5df0042d48b7b1981558f46f243a1464982dc7"
+      ]
+    },
+    {
+      "title": "Class of '09: The Flip Side",
+      "fileSize": "1.0 GB",
+      "uploadDate": "2026-08-07T14:52:52.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDY2MiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwNSIsImV4cGlyZXMiOjE3ODYyMDA5MDgsIm5vbmNlIjoiYWU0ZmNmOGUzODIxOTVkOWY0ZGY0MWZhNGE1MzhhMzkifQ==/28f4d3e7fd3b9ca4f8daef8b33f5efe61a775048d0c1cd68a641bb4aa7330c6b"
+      ]
+    },
+    {
+      "title": "Endacopia",
+      "fileSize": "1.6 GB",
+      "uploadDate": "2026-08-07T14:48:28.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgwNCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwNSIsImV4cGlyZXMiOjE3ODYyMDA5MTAsIm5vbmNlIjoiMmQ2ZjE0YmEzYzM4OTViMjIwZDA5N2FhNjk2ZDAyYzUifQ==/1b489d3cef58f78122d02601cefe09ea3b78c8f80554344e60f378cbd3723938"
+      ]
+    },
+    {
+      "title": "METAL SLUG 3",
+      "fileSize": "71.1 MB",
+      "uploadDate": "2026-08-07T14:50:20.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDYzNywidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwNSIsImV4cGlyZXMiOjE3ODYyMDA5MTIsIm5vbmNlIjoiYmUwNDliNjYxNWQ0YmM2MTcwMmYyZGZhMjU3NzliNWUifQ==/834719bead1f5b5c9353866de4fa8346c8f61ca9b86d8f6190c1cb76b60dfaf5"
+      ]
+    },
+    {
+      "title": "Parcel Simulator",
+      "fileSize": "2.5 GB",
+      "uploadDate": "2026-08-07T14:50:10.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgyNSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwNSIsImV4cGlyZXMiOjE3ODYyMDA5MTMsIm5vbmNlIjoiYzkwMjU5YzlhY2Y1ZDQ0YThjNDdkMGM2NDA1YzBhMGUifQ==/89aced37d1706174b33f3e3fcd721d3398ba0e3f4981d04ef76515f48aeea5f6"
+      ]
+    },
+    {
+      "title": "Dinoblade",
+      "fileSize": "11.8 GB",
+      "uploadDate": "2026-08-07T14:53:13.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc1NywidXNlcl9pZCI6bnVsbCwiaXAiOiIxOTIuNDIuMTE2LjEwNSIsImV4cGlyZXMiOjE3ODYyMDA5MTYsIm5vbmNlIjoiNDY4NmZlODQ0NjI0ZTVmNjhkMzQ4ZjNlYWQ4NzFlNmEifQ==/bc768005c54ea7c3ab17bb6b063744d69f296c85cc37649cea81dd12eec9d9ce"
+      ]
+    },
+    {
+      "title": "Class of '09: The Re-Up",
+      "fileSize": "1.1 GB",
+      "uploadDate": "2026-08-07T14:53:03.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDYzNiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjIiLCJleHBpcmVzIjoxNzg2MjAwOTIzLCJub25jZSI6IjkwMmRlYTc0ZWMwYzc2ZTU0MzViMzk5YjVlMjdjNWY5In0=/1e63cc81b5639932b914b06f11cbe731763663014f856b80eb48410b4fea6f48"
+      ]
+    },
+    {
+      "title": "ONE PIECE World Seeker",
+      "fileSize": "22.9 GB",
+      "uploadDate": "2026-08-07T14:51:43.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDYyNiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjIiLCJleHBpcmVzIjoxNzg2MjAwOTI0LCJub25jZSI6Ijk5ZTA0YzA0ZGEzNWE1OGFkNjEwYmY0NDljODMzZTlkIn0=/af42b6e51a753245f5d33fe63bb3487afcb4803d0c2a8d938d3f1da6c410f4f9"
+      ]
+    },
+    {
+      "title": "Bulletstorm: Full Clip Edition",
+      "fileSize": "9.6 GB",
+      "uploadDate": "2026-08-07T14:50:16.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDYwOSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjIiLCJleHBpcmVzIjoxNzg2MjAwOTI2LCJub25jZSI6Ijk4NWQxZmY1NmM3NTc2MGY0NTY5YTM2ODJjZWQyMzljIn0=/faeb41e5427c890e3b030d54241008b18392f9370d84a17443c3bb7c2a8aa942"
+      ]
+    },
+    {
+      "title": "Kingdom Rush  - Tower Defense",
+      "fileSize": "344.2 MB",
+      "uploadDate": "2026-08-07T14:48:28.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDYwOCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjIiLCJleHBpcmVzIjoxNzg2MjAwOTI4LCJub25jZSI6Ijc5MmQ3NTE2OWJhMmE0N2MzNmU4YWMyNTI5MDQ2MzNiIn0=/6caad83fc89f5044b3c20a0d04074b33c3089afc3bc7a6e03eb738ed2f189a14"
+      ]
+    },
+    {
+      "title": "Boba Cafe Simulator",
+      "fileSize": "2.7 GB",
+      "uploadDate": "2026-08-07T14:52:04.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDgzMSwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDkuNzAuMTAwLjIiLCJleHBpcmVzIjoxNzg2MjAwOTMwLCJub25jZSI6ImNjYzRhMjI5MzNlMWZiNDlmNmM2NjZlZGQzMDNjMGUwIn0=/bf66d9979497f74bff9506f2b01c14e23801b829d67bce94e41fecced49fedd5"
+      ]
+    },
+    {
+      "title": "The First Berserker: Khazan",
+      "fileSize": "26.5 GB",
+      "uploadDate": "2026-08-07T14:51:47.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDU4OCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDcuMTg5LjMuMTEiLCJleHBpcmVzIjoxNzg2MjAwOTM1LCJub25jZSI6ImVlOTExNTk2YjdlM2NmNDBhYmE0NWVhM2Y1MmFhNTE3In0=/15974885d0b60e423b69b766f75a24bc801d9ec69fa4ea8698b33d9006003928"
+      ]
+    },
+    {
+      "title": "Welcome to the Game III",
+      "fileSize": "4.5 GB",
+      "uploadDate": "2026-08-07T14:50:13.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc0MywidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDcuMTg5LjMuMTEiLCJleHBpcmVzIjoxNzg2MjAwOTM2LCJub25jZSI6ImVhZTYwMDQzYzg1ZWEwMTYwMDE3YTYxNmQyNzJkM2RmIn0=/23b894257bffb8756990cca6d7653d5311b0b34d90e35ec797e4563087991b72"
+      ]
+    },
+    {
+      "title": "Pass the Fear",
+      "fileSize": "3.2 GB",
+      "uploadDate": "2026-08-07T14:50:13.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDg0MiwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDcuMTg5LjMuMTEiLCJleHBpcmVzIjoxNzg2MjAwOTM3LCJub25jZSI6ImIxZWFhNzUyMTE3YzA5ZDBmODhjODBiYzI1ZGFjZTQxIn0=/724cc9b4b0332e993b66652c8a41a8409f4b15f437baf360aa8fd98fc3bc4b7d"
+      ]
+    },
+    {
+      "title": "DragonSword : Awakening",
+      "fileSize": "16.4 GB",
+      "uploadDate": "2026-08-07T14:53:25.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDU5MywidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDcuMTg5LjMuMTEiLCJleHBpcmVzIjoxNzg2MjAwOTM5LCJub25jZSI6ImIzNWI3MTE5NDAyMDU3NDAwM2JlNzlhYjg5OWFkYWI3In0=/a89475f8c9f4d62567cd1f5f67c2f59d6dd248af9eabdd8c6e52a7d992b57f0d"
+      ]
+    },
+    {
+      "title": "Halo: Campaign Evolved",
+      "fileSize": "68.3 GB",
+      "uploadDate": "2026-08-07T14:53:13.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDU4NCwidXNlcl9pZCI6bnVsbCwiaXAiOiIxMDcuMTg5LjMuMTEiLCJleHBpcmVzIjoxNzg2MjAwOTQwLCJub25jZSI6IjZlMGU0YmUyZGYyMDg0MmM5NDE0ODZiMjk4YzJmNjgwIn0=/ad028d66a5773e8b066ee71c8274a14ec83dfbd047e0d0ab4b810ca63ca887c4"
+      ]
+    },
+    {
+      "title": "Avatar Legends: The Fighting Game",
+      "fileSize": "5.4 GB",
+      "uploadDate": "2026-08-07T14:50:49.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc0NSwidXNlcl9pZCI6bnVsbCwiaXAiOiI5NC43Mi4xMDQuMTM1IiwiZXhwaXJlcyI6MTc4NjIwMDk1Miwibm9uY2UiOiIxMDM5NTMxMDk4ODk5MjVhN2RhZGM5YzJiZThjYzQ1ZSJ9/9fee105cbfb621b411ec91cba3ef1970aad1b7c2d59ea771a640f9d14cc22836"
+      ]
+    },
+    {
+      "title": "A Game About Chopping Trees",
+      "fileSize": "2.5 GB",
+      "uploadDate": "2026-08-07T14:48:14.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDY0MywidXNlcl9pZCI6bnVsbCwiaXAiOiI5NC43Mi4xMDQuMTM1IiwiZXhwaXJlcyI6MTc4NjIwMDk1NSwibm9uY2UiOiJiNThlNGMzZTNhYTUxMDEwY2Q4ZDllZjQ0YTQxOGVmZCJ9/dc51033b721cee9fb64f0d20f29c35ed3a2e3ea9c7960bc0dbbe4811a20a519a"
+      ]
+    },
+    {
+      "title": "Dirty Business",
+      "fileSize": "4.4 GB",
+      "uploadDate": "2026-08-07T14:51:03.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDU1OSwidXNlcl9pZCI6bnVsbCwiaXAiOiI5NC43Mi4xMDQuMTM1IiwiZXhwaXJlcyI6MTc4NjIwMDk2MCwibm9uY2UiOiJiYjQ5ZDQ4NTMwMjU1ZTAzN2UzZjE0YjRjN2E1ODcwZSJ9/a0adb3930b0456d2ff270f0543e69f3b63348c7c3cc8412c9cfad454921f3aaf"
+      ]
+    },
+    {
+      "title": "Denshattack!",
+      "fileSize": "7.1 GB",
+      "uploadDate": "2026-08-07T14:51:29.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDY1MywidXNlcl9pZCI6bnVsbCwiaXAiOiI5NC43Mi4xMDQuMTM1IiwiZXhwaXJlcyI6MTc4NjIwMDk2Miwibm9uY2UiOiJjZGU2N2NkNjliMjhhM2ZjNmVlZmYxMzRlN2NlMTM2YiJ9/41a48f96e85a2f63fe3097f14ccd76033adb2b6bdf0f680d1b9dbf3a5d121bcb"
+      ]
+    },
+    {
+      "title": "Tears of Metal",
+      "fileSize": "2.7 GB",
+      "uploadDate": "2026-08-07T14:48:18.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDc3NCwidXNlcl9pZCI6bnVsbCwiaXAiOiI5NC43Mi4xMDQuMTM1IiwiZXhwaXJlcyI6MTc4NjIwMDk2Nywibm9uY2UiOiI0ZTg1ODk4YjJiOGQwYzgxZDI5N2RiNjRhMzAwNTY4NiJ9/4b65c0d632d694d46b6ff9200bedf388a76f85482f2158a342967a24923f648b"
+      ]
+    },
+    {
+      "title": "Shift At Midnight",
+      "fileSize": "413.2 MB",
+      "uploadDate": "2026-08-07T14:53:42.000Z",
+      "uris": [
+        "https://ankergames.net/download/eyJkb3dubG9hZF9pZCI6NDU0MiwidXNlcl9pZCI6bnVsbCwiaXAiOiI0NS44NC4xMDcuOTciLCJleHBpcmVzIjoxNzg2MjAwOTc0LCJub25jZSI6Ijg4MmRlNzUyZjM0NGYwZWMwZThmZTAyODVhOTY3MmE3In0=/cb52a1eb0fc82dbc23aae37bbc63183ed36d088a2d950941712b4836e87ba33b"
+      ]
+    }
+  ]
+}
