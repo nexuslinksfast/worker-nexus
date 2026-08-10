@@ -1,11 +1,11 @@
 {
-  "last_update": "2026-08-10T08:37:10+00:00",
+  "last_update": "2026-08-10T15:34:05+00:00",
   "hero": [
     {
       "title": "",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1786351020",
+      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1786376034",
       "url": "https://www.instant-gaming.com/en/l/2kpublishersale"
     }
   ],
@@ -14,7 +14,7 @@
       "title": "Shift At Midnight - PC (Steam)",
       "price": "$9.47",
       "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
       "release": null
     },
@@ -22,7 +22,7 @@
       "title": "The Mound: Omen of Cthulhu - PC (Steam)",
       "price": "$21.38",
       "discount": "-29%",
-      "image": "https://gaming-cdn.com/images/products/21085/380x218/the-mound-omen-of-cthulhu-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/21085/380x218/the-mound-omen-of-cthulhu-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/21085-buy-the-mound-omen-of-cthulhu-pc-steam/",
       "release": null
     },
@@ -30,56 +30,56 @@
       "title": "Corsair Cove - PC (Steam)",
       "price": "$26.58",
       "discount": "-34%",
-      "image": "https://gaming-cdn.com/images/products/22395/380x218/corsair-cove-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/22395/380x218/corsair-cove-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/22395-buy-corsair-cove-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "MARVEL Tōkon: Fighting Souls - PC (Steam)",
+      "price": "$50.86",
+      "discount": "-15%",
+      "image": "https://gaming-cdn.com/images/products/22521/380x218/marvel-tokon-fighting-souls-pc-steam-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/22521-buy-marvel-tokon-fighting-souls-pc-steam/",
       "release": null
     },
     {
       "title": "Gothic 1 Remake - PC (Steam)",
       "price": "$32.71",
       "discount": "-35%",
-      "image": "https://gaming-cdn.com/images/products/6518/380x218/gothic-1-remake-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/6518/380x218/gothic-1-remake-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/6518-buy-gothic-1-remake-pc-steam/",
       "release": null
     },
     {
-      "title": "Le Mans Ultimate - US Track Pass - PC (Steam)",
-      "price": "$31.55",
-      "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/23327/380x218/le-mans-ultimate-us-track-pass-pc-steam-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/23327-buy-le-mans-ultimate-us-track-pass-pc-steam/",
+      "title": "Sovereign Tower - PC (Steam)",
+      "price": "$13.75",
+      "discount": "-31%",
+      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/22763-buy-sovereign-tower-pc-steam/",
       "release": null
     },
     {
       "title": "Scrap Mechanic - PC (Steam)",
       "price": "$25.42",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/5722/380x218/scrap-mechanic-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/5722/380x218/scrap-mechanic-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/5722-buy-scrap-mechanic-pc-steam/",
       "release": null
     },
     {
-      "title": "Forza Horizon 6 - PC & Xbox Series X|S (Microsoft Store)",
-      "price": "$56.18",
-      "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/19535/380x218/forza-horizon-6-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/19535-buy-forza-horizon-6-xbox-series-x-s-pc-microsoft-store/",
+      "title": "Quasimorph - PC (Steam)",
+      "price": "$5.88",
+      "discount": "-76%",
+      "image": "https://gaming-cdn.com/images/products/15121/380x218/quasimorph-pc-game-steam-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/15121-buy-quasimorph-pc-game-steam/",
       "release": null
     },
     {
-      "title": "Splatoon Raiders - Switch 2",
-      "price": "$52.59",
-      "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/19573/380x218/splatoon-raiders-switch-2-nintendo-eshop-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/19573-buy-splatoon-raiders-switch-2-nintendo-eshop/",
-      "release": null
-    },
-    {
-      "title": "Outbound - PC (Steam)",
-      "price": "$16.06",
-      "discount": "-36%",
-      "image": "https://gaming-cdn.com/images/products/16817/380x218/outbound-pc-steam-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/16817-buy-outbound-pc-steam/",
+      "title": "Le Mans Ultimate - US Track Pass - PC (Steam)",
+      "price": "$31.55",
+      "discount": "-30%",
+      "image": "https://gaming-cdn.com/images/products/23327/380x218/le-mans-ultimate-us-track-pass-pc-steam-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/23327-buy-le-mans-ultimate-us-track-pass-pc-steam/",
       "release": null
     }
   ],
@@ -88,31 +88,31 @@
       "title": "Hell Let Loose: Vietnam - PC (Steam)",
       "price": "$33.52",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/20187-buy-hell-let-loose-vietnam-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 2 days"
-    },
-    {
-      "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
-      "price": "$67.04",
-      "discount": "-26%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-advanced-access-pc-steam-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-advanced-access-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        16 September 2026"
     },
     {
       "title": "Resonance: A Plague Tale Legacy - PC (Steam)",
       "price": "$43.34",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/19517-buy-resonance-a-plague-tale-legacy-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 16 days"
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
+      "price": "$67.04",
+      "discount": "-26%",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-advanced-access-pc-steam-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-advanced-access-pc-steam/",
+      "release": "Pre-order\n                    \n\n                        16 September 2026"
     },
     {
       "title": "Gears of War: E-Day Premium Edition + Advanced access - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$80.92",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/22979-buy-gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                         5 October 2026"
     },
@@ -120,7 +120,7 @@
       "title": "Dragon's Dogma 2: Dark Arisen Expansion - PC (Steam)",
       "price": "$26",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/23079/380x218/dragon-s-dogma-2-dark-arisen-expansion-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/23079/380x218/dragon-s-dogma-2-dark-arisen-expansion-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/23079-buy-dragon-s-dogma-2-dark-arisen-expansion-pc-steam/",
       "release": "Pre-order\n                    \n\n                         8 October 2026"
     },
@@ -128,7 +128,7 @@
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$99.99",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/22745-buy-call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        22 October 2026"
     }
@@ -138,23 +138,15 @@
       "title": "Roblox - 1000 Robux",
       "price": "$12.13",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
-      "release": null
-    },
-    {
-      "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
       "release": null
     },
     {
       "title": "Minecraft: Java & Bedrock Edition - PC & Mac",
       "price": "$18.60",
       "discount": "-46%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-mac-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-mac-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc-mac/",
       "release": null
     },
@@ -162,15 +154,23 @@
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.32",
       "discount": "-62%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
+      "release": null
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
       "release": null
     },
     {
       "title": "Shift At Midnight - PC (Steam)",
       "price": "$9.47",
       "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
       "release": null
     },
@@ -178,31 +178,39 @@
       "title": "Marvel’s Spider-Man: Miles Morales - PC (Steam)",
       "price": "$17.33",
       "discount": "-70%",
-      "image": "https://gaming-cdn.com/images/products/12953/380x218/marvel-s-spider-man-miles-morales-pc-game-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/12953/380x218/marvel-s-spider-man-miles-morales-pc-game-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/12953-buy-marvel-s-spider-man-miles-morales-pc-game-steam/",
-      "release": null
-    },
-    {
-      "title": "Xbox Gift Card 25$ (Microsoft Store)",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/3014/380x218/xbox-gift-card-25-25-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-united-states-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/3014-buy-xbox-gift-card-25-25-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-united-states/",
       "release": null
     },
     {
       "title": "PlayStation Store gift card 25$",
       "price": "$22.88",
       "discount": "-8%",
-      "image": "https://gaming-cdn.com/images/products/9987/380x218/playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/9987/380x218/playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/9987-buy-playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states/",
+      "release": null
+    },
+    {
+      "title": "Xbox Gift Card 25$ (Microsoft Store)",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/3014/380x218/xbox-gift-card-25-25-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-united-states-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/3014-buy-xbox-gift-card-25-25-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-united-states/",
+      "release": null
+    },
+    {
+      "title": "Marvel's Spider-Man Remastered - PC (Steam)",
+      "price": "$23",
+      "discount": "-67%",
+      "image": "https://gaming-cdn.com/images/products/11907/380x218/marvel-s-spider-man-remastered-pc-game-steam-cover.jpg?v=1786374000",
+      "url": "https://www.instant-gaming.com/en/11907-buy-marvel-s-spider-man-remastered-pc-game-steam/",
       "release": null
     },
     {
       "title": "The Mound: Omen of Cthulhu - PC (Steam)",
       "price": "$21.38",
       "discount": "-29%",
-      "image": "https://gaming-cdn.com/images/products/21085/380x218/the-mound-omen-of-cthulhu-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/21085/380x218/the-mound-omen-of-cthulhu-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/21085-buy-the-mound-omen-of-cthulhu-pc-steam/",
       "release": null
     },
@@ -210,23 +218,24 @@
       "title": "MARVEL Tōkon: Fighting Souls - PC (Steam)",
       "price": "$50.86",
       "discount": "-15%",
-      "image": "https://gaming-cdn.com/images/products/22521/380x218/marvel-tokon-fighting-souls-pc-steam-cover.jpg?v=1786348800",
+      "image": "https://gaming-cdn.com/images/products/22521/380x218/marvel-tokon-fighting-souls-pc-steam-cover.jpg?v=1786374000",
       "url": "https://www.instant-gaming.com/en/22521-buy-marvel-tokon-fighting-souls-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Corsair Cove - PC (Steam)",
-      "price": "$26.58",
-      "discount": "-34%",
-      "image": "https://gaming-cdn.com/images/products/22395/380x218/corsair-cove-pc-steam-cover.jpg?v=1786348800",
-      "url": "https://www.instant-gaming.com/en/22395-buy-corsair-cove-pc-steam/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "LEGO Harry Potter Collection",
+      "game_image": "https://gaming-cdn.com/images/products/11486/450x258/lego-harry-potter-collection-collection-xbox-one-game-microsoft-store-europe-cover.jpg?v=1786374000",
+      "game_url": "https://www.instant-gaming.com/en/11486-buy-lego-harry-potter-collection-collection-xbox-one-game-microsoft-store-europe/",
+      "user": "Lego_fan_2026",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "like",
+      "content": "Great for all Lego fans.\n\nShowing it's age now,.when compared to Skywalker and Batman Legacy but still great games in their own right.\n\nAll movies are there and completed the first one 100%,.sadly there is two bugs in the second one that prevented me from completing the second game, which could.only be corrected.by starting the game again.\n\nI'm hoping these glitches have long since been fixed, but either way, I'm looking forward to playing them.again.\n\n\n\nI've only used Instant_Gaming twice, only just having discovered it. I wouldn't have thought to look for activation keys for games but saw it come up in a generic Google search and decided to give them a try.\n\nI've now bought two keys, one for Lwgo Potter and one for Lego Jurassic World, both keys were available straightaway and worked perfectly, despite being skeptical at first.\n\nNo need to have worried.at all and look forward to future purchases."
+    },
+    {
       "game": "LEGO Jurassic World",
-      "game_image": "https://gaming-cdn.com/images/products/7363/450x258/lego-jurassic-world-xbox-one-game-microsoft-store-europe-cover.jpg?v=1786348800",
+      "game_image": "https://gaming-cdn.com/images/products/7363/450x258/lego-jurassic-world-xbox-one-game-microsoft-store-europe-cover.jpg?v=1786374000",
       "game_url": "https://www.instant-gaming.com/en/7363-buy-lego-jurassic-world-xbox-one-game-microsoft-store-europe/",
       "user": "Lego_fan_2026",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -235,7 +244,7 @@
     },
     {
       "game": "Gothic 1 Remake",
-      "game_image": "https://gaming-cdn.com/images/products/6518/450x258/gothic-1-remake-pc-steam-cover.jpg?v=1786348800",
+      "game_image": "https://gaming-cdn.com/images/products/6518/450x258/gothic-1-remake-pc-steam-cover.jpg?v=1786374000",
       "game_url": "https://www.instant-gaming.com/en/6518-buy-gothic-1-remake-pc-steam/",
       "user": "Adam",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -244,21 +253,12 @@
     },
     {
       "game": "Kingdom Come: Deliverance II",
-      "game_image": "https://gaming-cdn.com/images/products/8988/450x258/kingdom-come-deliverance-ii-pc-steam-cover.jpg?v=1786348800",
+      "game_image": "https://gaming-cdn.com/images/products/8988/450x258/kingdom-come-deliverance-ii-pc-steam-cover.jpg?v=1786374000",
       "game_url": "https://www.instant-gaming.com/en/8988-buy-kingdom-come-deliverance-ii-pc-steam/",
       "user": "gamer-1b337df",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
       "sentiment": "like",
       "content": "At first I thought this was a scam, but after getting the code everything worked. Even Steam didn't see it and I've had the game over weeks now and I am playing it today. Overall this website is worth it 100% and the game is peak!"
-    },
-    {
-      "game": "Hitman World of Assassination",
-      "game_image": "https://gaming-cdn.com/images/products/12619/450x258/hitman-world-of-assassination-pc-steam-cover.jpg?v=1786348800",
-      "game_url": "https://www.instant-gaming.com/en/12619-buy-hitman-world-of-assassination-pc-steam/",
-      "user": "Luka Review",
-      "avatar": "https://gaming-cdn.com/images/avatars/31742708-1782248102.jpg",
-      "sentiment": "like",
-      "content": "**Game: HITMAN World of Assassination**\n\n\n\n**Genre: Stealth / Action / Sandbox**\n\n\n\n Pros:\n\n\n\n**Gameplay & Freedom** – One of the best things about HITMAN is the freedom it gives you. There are countless ways to eliminate your targets, from carefully planned accidents to completely improvised approaches.\n\n\n\n**Maps & Level Design** – The locations are incredibly detailed and offer tons of opportunities to explore, disguise yourself, and create unique assassination setups. Every map feels different and encourages experimentation.\n\n\n\n**Replayability** – The game has an insane amount of replay value. With different challenges, disguises, weapons, starting locations, and assassination methods, you can replay the same mission many times and still discover something new.\n\n\n\nCons:\n\n\n\n**Some Repetitive Challenges** – While there is a huge amount of content, some challenges can start feeling repetitive after playing the same locations for a long time.\n\n\n\n**AI Can Be Strange** – NPC and guard AI can occasionally behave in weird or unpredictable ways, which can sometimes break immersion.\n\n\n\n**Online Requirements** – Some progression and features depend on being connected to the servers, which can be frustrating when the servers are unavailable.\n\n\n\nScore: 9.5/10\n\n\n\nOne of the best stealth games I’ve ever played. The freedom, creativity, and insane amount of content make HITMAN World of Assassination incredibly fun to play. It rewards both careful planning and complete chaos, and there is always another way to complete a mission."
     }
   ],
   "weekly_deals": []
