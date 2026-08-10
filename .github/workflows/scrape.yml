@@ -1,0 +1,301 @@
+name: Scrape Sources
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-sources
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        source:
+          - id: steamrip
+            output: steamrip.json
+            expected_name: SteamRip
+            mode: python
+            script: scripts/download_steamrip.py
+            needs_flaresolverr: true
+            needs_selenium: false
+          - id: fitgirl
+            output: fitgirl.json
+            expected_name: FitGirl
+            mode: node
+            needs_flaresolverr: false
+            needs_selenium: false
+          - id: freegog
+            output: freegog.json
+            expected_name: FreeGOG
+            mode: python
+            script: scripts/download_gog.py
+            needs_flaresolverr: false
+            needs_selenium: false
+          - id: onlinefix
+            output: onlinefix.json
+            expected_name: OnlineFix
+            mode: python
+            script: scripts/download_onlinefix.py
+            needs_flaresolverr: true
+            needs_selenium: false
+          - id: onlinefix-fixes
+            output: onlinefix-fixes.json
+            expected_name: OnlineFix Fixes
+            mode: python
+            script: scripts/download_online-fix_fixes.py
+            needs_flaresolverr: false
+            needs_selenium: false
+            needs_brave: true
+          - id: iggames
+            output: iggames.json
+            expected_name: IGGames
+            mode: python
+            script: scripts/download_iggames.py
+            needs_flaresolverr: false
+            needs_selenium: true
+          - id: insaneramzes
+            output: InsaneRamZes.json
+            expected_name: InsaneRamZes
+            mode: python
+            script: scripts/download_InsaneRamZes.py
+            needs_flaresolverr: false
+            needs_selenium: true
+          - id: instant-gaming
+            output: instant-gaming-deals.json
+            expected_name: Instant Gaming Deals
+            mode: python
+            script: scripts/download_instant-gaming.py
+            needs_flaresolverr: false
+            needs_selenium: true
+          - id: dodi
+            output: dodi.json
+            expected_name: DODI
+            mode: python
+            script: scripts/download_dodi.py
+            needs_flaresolverr: true
+            needs_selenium: false
+          - id: rexagames
+            output: rexagames.json
+            expected_name: RexaGames
+            mode: python
+            script: scripts/download_rexagames.py
+            needs_flaresolverr: true
+            needs_selenium: false
+
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+      selenium:
+        image: selenium/standalone-chromium:latest
+        ports:
+          - 4444:4444
+        options: >-
+          --shm-size=2g
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Python
+        if: matrix.source.mode == 'python'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Node dependencies
+        if: matrix.source.mode == 'node'
+        run: npm ci
+
+      - name: Install Playwright Chromium
+        if: matrix.source.mode == 'node'
+        run: node node_modules/playwright/cli.js install --with-deps chromium
+      
+      - name: Install Python dependencies
+        if: matrix.source.mode == 'python'
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install aiohttp beautifulsoup4 selenium requests undetected-chromedriver setuptools
+          
+      - name: Install Brave Browser
+        if: matrix.source.needs_brave
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl
+          sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
+          echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg] https://brave-browser-apt-release.s3.brave.com/ stable main" | sudo tee /etc/apt/sources.list.d/brave-browser-release.list
+          sudo apt-get update
+          sudo apt-get install -y brave-browser
+
+      - name: Wait for FlareSolverr
+        if: matrix.source.needs_flaresolverr
+        run: |
+          for i in $(seq 1 30); do
+            if curl -fsS http://127.0.0.1:8191/health > /dev/null; then
+              echo "FlareSolverr is ready."
+              exit 0
+            fi
+            echo "Waiting for FlareSolverr..."
+            sleep 2
+          done
+          echo "FlareSolverr did not become ready in time."
+          exit 1
+
+      - name: Wait for Selenium
+        if: matrix.source.needs_selenium
+        run: |
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:4444/status > /dev/null || curl -fsS http://127.0.0.1:4444/wd/hub/status > /dev/null; then
+              echo "Selenium is ready."
+              exit 0
+            fi
+            echo "Waiting for Selenium..."
+            sleep 3
+          done
+          echo "Selenium did not become ready in time."
+          exit 1
+
+      - name: Run Node scraper
+        id: run_node
+        if: matrix.source.mode == 'node'
+        continue-on-error: true
+        env:
+          ONLINEFIX_USERNAME: ${{ secrets.ONLINEFIX_USERNAME }}
+          ONLINEFIX_PASSWORD: ${{ secrets.ONLINEFIX_PASSWORD }}
+          FLARESOLVERR_URL: http://127.0.0.1:8191/v1
+          SELENIUM_URL: http://127.0.0.1:4444/wd/hub
+        run: node scraper.js ${{ matrix.source.id }}
+
+      - name: Run Python downloader
+        id: run_python
+        if: matrix.source.mode == 'python'
+        continue-on-error: true
+        env:
+          ONLINEFIX_USERNAME: ${{ secrets.ONLINEFIX_USERNAME }}
+          ONLINEFIX_PASSWORD: ${{ secrets.ONLINEFIX_PASSWORD }}
+          INSANERAMZES_USERNAME: ${{ secrets.INSANERAMZES_USERNAME }}
+          INSANERAMZES_PASSWORD: ${{ secrets.INSANERAMZES_PASSWORD }}
+          FLARESOLVERR_URL: http://127.0.0.1:8191/v1
+          SELENIUM_URL: http://127.0.0.1:4444/wd/hub
+          HEADLESS: "1"
+        run: python ${{ matrix.source.script }}
+
+      - name: Validate generated JSON
+        id: validate_json
+        if: |
+          (matrix.source.mode == 'node' && steps.run_node.outcome == 'success') ||
+          (matrix.source.mode == 'python' && steps.run_python.outcome == 'success')
+        continue-on-error: true
+        run: node src/tools/validate-json.js public/${{ matrix.source.output }} "${{ matrix.source.expected_name }}" "${{ matrix.source.id }}"
+
+      - name: Prepare artifact
+        if: steps.validate_json.outcome == 'success'
+        run: |
+          mkdir -p artifact
+          cp public/${{ matrix.source.output }} artifact/${{ matrix.source.output }}
+
+      - name: Upload artifact
+        if: steps.validate_json.outcome == 'success'
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraped-${{ matrix.source.id }}
+          path: artifact/${{ matrix.source.output }}
+          if-no-files-found: error
+
+  publish:
+    runs-on: ubuntu-latest
+    needs: scrape
+    if: always()
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Download scraped artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: downloaded-artifacts
+          pattern: scraped-*
+          merge-multiple: true
+        continue-on-error: true
+
+      - name: Merge valid JSON files
+        run: |
+          mkdir -p public
+          if [ -d downloaded-artifacts ]; then
+            find downloaded-artifacts -maxdepth 1 -type f -name '*.json' -exec cp {} public/ \;
+          fi
+
+      - name: Generate monitoring status JSON
+        env:
+          REPOSITORY: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_NUMBER: ${{ github.run_number }}
+          SERVER_URL: ${{ github.server_url }}
+        run: |
+          STEAMRIP_UPDATED=false
+          FITGIRL_UPDATED=false
+          FREEGOG_UPDATED=false
+          ONLINEFIX_UPDATED=false
+          ONLINEFIX_FIXES_UPDATED=false
+          IGGAMES_UPDATED=false
+          INSANERAMZES_UPDATED=false
+          INSTANT_GAMING_UPDATED=false
+          DODI_UPDATED=false
+          REXAGAMES_UPDATED=false
+          if [ -f downloaded-artifacts/steamrip.json ]; then STEAMRIP_UPDATED=true; fi
+          if [ -f downloaded-artifacts/fitgirl.json ]; then FITGIRL_UPDATED=true; fi
+          if [ -f downloaded-artifacts/freegog.json ]; then FREEGOG_UPDATED=true; fi
+          if [ -f downloaded-artifacts/onlinefix.json ]; then ONLINEFIX_UPDATED=true; fi
+          if [ -f downloaded-artifacts/onlinefix-fixes.json ]; then ONLINEFIX_FIXES_UPDATED=true; fi
+          if [ -f downloaded-artifacts/iggames.json ]; then IGGAMES_UPDATED=true; fi
+          if [ -f downloaded-artifacts/InsaneRamZes.json ]; then INSANERAMZES_UPDATED=true; fi
+          if [ -f downloaded-artifacts/instant-gaming-deals.json ]; then INSTANT_GAMING_UPDATED=true; fi
+          if [ -f downloaded-artifacts/dodi.json ]; then DODI_UPDATED=true; fi
+          if [ -f downloaded-artifacts/rexagames.json ]; then REXAGAMES_UPDATED=true; fi
+          STEAMRIP_UPDATED=$STEAMRIP_UPDATED FITGIRL_UPDATED=$FITGIRL_UPDATED FREEGOG_UPDATED=$FREEGOG_UPDATED ONLINEFIX_UPDATED=$ONLINEFIX_UPDATED ONLINEFIX_FIXES_UPDATED=$ONLINEFIX_FIXES_UPDATED IGGAMES_UPDATED=$IGGAMES_UPDATED INSANERAMZES_UPDATED=$INSANERAMZES_UPDATED INSTANT_GAMING_UPDATED=$INSTANT_GAMING_UPDATED DODI_UPDATED=$DODI_UPDATED REXAGAMES_UPDATED=$REXAGAMES_UPDATED node src/tools/generate-status.js
+
+      - name: Verify public JSON files
+        run: |
+          ls -la public || true
+
+      - name: Commit updated JSON files
+        id: commit_step
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/*.json public/monitor.html
+          if git diff --cached --quiet; then
+            echo "created=false" >> "$GITHUB_OUTPUT"
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update scraped data"
+            echo "created=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push changes
+        if: steps.commit_step.outputs.created == 'true'
+        run: git push
