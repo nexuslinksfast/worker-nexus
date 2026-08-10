@@ -13,16 +13,26 @@ FLARESOLVERR_URL = "http://localhost:8191/v1"
 FLARESOLVERR_HEALTH_URL = "http://localhost:8191/health"
 OUTPUT_FILE = "public/steamrip.json"
 
-LIST_URLS = [
-    "https://steamrip.com/games-list-page/"
-]
+# Secciones
+UPDATED_GAMES_URL = "https://steamrip.com/updated-games/"
+HOME_URL = "https://steamrip.com/"
+AJAX_URL = "https://steamrip.com/wp-admin/admin-ajax.php"
 
-SOCIAL_HOSTS = {"discord.gg", "discord.com", "facebook.com", "instagram.com", "patreon.com", 
-                 "reddit.com", "telegram.me", "t.me", "tiktok.com", "twitter.com", "x.com", "youtube.com", "youtu.be"}
+# Configuración del botón "Load More"
+MAX_LOAD_MORE_CLICKS = 3  # Máximo 3 cargas adicionales
 
-DOWNLOAD_HOSTS = {"1fichier.com", "buzzheavier.com", "bzzhr.to", "ddownload.com", "fuckingfast.co", "gofile.io", 
-                  "krakenfiles.com", "mediafire.com", "mega.nz", "megadb.net", "multiup.io", "pixeldrain.com", 
-                  "qiwi.gg", "rapidgator.net", "send.cm", "sendcm.com", "upload.ee", "vikingfile.com"}
+SOCIAL_HOSTS = {
+    "discord.gg", "discord.com", "facebook.com", "instagram.com", "patreon.com", 
+    "reddit.com", "telegram.me", "t.me", "tiktok.com", "twitter.com", "x.com", 
+    "youtube.com", "youtu.be"
+}
+
+DOWNLOAD_HOSTS = {
+    "1fichier.com", "buzzheavier.com", "bzzhr.to", "ddownload.com", "fuckingfast.co", 
+    "gofile.io", "krakenfiles.com", "mediafire.com", "mega.nz", "megadb.net", 
+    "multiup.io", "pixeldrain.com", "qiwi.gg", "rapidgator.net", "send.cm", 
+    "sendcm.com", "upload.ee", "vikingfile.com"
+}
 
 
 # --- RECOLECCIÓN DE SESIÓN CLOUDFLARE ---
@@ -33,7 +43,7 @@ def check_flaresolverr():
     except Exception:
         return False
 
-def get_list_and_session_via_flaresolverr(url):
+def get_page_and_session_via_flaresolverr(url):
     payload = {
         "cmd": "request.get",
         "url": url,
@@ -50,7 +60,7 @@ def get_list_and_session_via_flaresolverr(url):
             return html, cookies, user_agent
         return "", [], ""
     except Exception as e:
-        print(f"[x] Error al conectar con FlareSolverr: {e}")
+        print(f"[x] Error al conectar con FlareSolverr para {url}: {e}")
         return "", [], ""
 
 
@@ -58,7 +68,6 @@ def get_list_and_session_via_flaresolverr(url):
 def clean_title(title):
     if not title:
         return ""
-    # Quitamos paréntesis, corchetes y coletillas comunes para enlazar el juego de forma unívoca por su ID/Nombre base
     title = re.sub(r'\(.*?\)', '', title)  
     title = re.sub(r'\[.*?\]', '', title)  
     title = title.replace("Free Download", "")
@@ -88,50 +97,147 @@ def load_existing_json():
         print("[*] No se encontró un JSON previo. Se creará una base de datos nueva.")
     return existing_map
 
-def extract_game_links(html_content):
+def extract_updated_games(html_content):
+    """ Extrae tarjetas de la sección /updated-games/ """
     soup = BeautifulSoup(html_content, 'html.parser')
     games = []
     unique_urls = set()
 
-    containers = soup.find_all(class_="az-list-container")
-    if not containers:
-        containers = [soup.find(["article", "main"]) or soup.find(class_=["entry-content", "td-post-content"]) or soup.body]
+    cards = soup.find_all("a", class_="updated-card")
+    if not cards:
+        cards = soup.find_all("a", href=True)
 
-    for container in containers:
-        if not container:
+    for anchor in cards:
+        raw_href = anchor.get("href", "").strip()
+        if not raw_href:
             continue
-        anchors = container.find_all("a", href=True)
-        for anchor in anchors:
-            raw_href = anchor["href"].strip()
-            text = anchor.get_text().strip()
 
-            href = urljoin(BASE_URL, raw_href)
+        href = urljoin(BASE_URL, raw_href)
 
-            if not href.startswith("https://steamrip.com/"):
-                continue
-            if any(x in href for x in ["/games-list-page/", "/all-games-list/", "/updated-games/", "/category/", "/tag/", "/faq/", "/discord", "#"]):
-                continue
-            if len(text) < 3:
-                continue
+        if not href.startswith("https://steamrip.com/"):
+            continue
+        if any(x in href for x in ["/games-list-page/", "/all-games-list/", "/category/", "/tag/", "/faq/", "/discord", "#"]):
+            continue
+        if href.rstrip('/') == "https://steamrip.com/updated-games":
+            continue
 
-            if re.search(r'free download', text, re.IGNORECASE) or "free-download" in href.lower():
-                if href not in unique_urls:
-                    unique_urls.add(href)
-                    # Si el texto del enlace era muy corto o raro, usamos una versión limpia basada en la URL
-                    clean_text = text if len(text) > 5 else raw_href.strip("/").split("/")[-1].replace("-", " ").title()
-                    games.append({"title": clean_text, "url": href})
+        title_el = anchor.find(class_="updated-card-title")
+        text = title_el.get_text().strip() if title_el else anchor.get_text().strip()
+
+        if len(text) < 3:
+            continue
+
+        if href not in unique_urls:
+            unique_urls.add(href)
+            clean_text = text if len(text) > 5 else raw_href.strip("/").split("/")[-1].replace("-", " ").title()
+            games.append({"title": clean_text, "url": href})
+
+    return games
+
+def parse_recently_added_posts(soup):
+    """ Extrae solo los posts pertenecientes al bloque 'Recently Added' """
+    games = []
+    # Nos centramos únicamente en la lista principal de entradas
+    container = soup.find("ul", class_="posts-items") or soup
+    posts_items = container.find_all("li", class_="post-item")
+
+    for item in posts_items:
+        anchor = item.find("a", href=True)
+        if not anchor:
+            continue
+
+        raw_href = anchor.get("href", "").strip()
+        href = urljoin(BASE_URL, raw_href)
+
+        text = (
+            anchor.get("aria-label", "").strip() or 
+            (anchor.find("h2").get_text().strip() if anchor.find("h2") else "") or
+            anchor.get_text().strip()
+        )
+
+        if not href.startswith("https://steamrip.com/") or len(text) < 3:
+            continue
+
+        games.append({"title": text, "url": href})
+
+    return games
+
+def fetch_recently_added_with_load_more(session, initial_html):
+    """
+    Lee la Home inicial e invoca directamente la API AJAX de WordPress
+    para simular los clics de 'Load More' (hasta MAX_LOAD_MORE_CLICKS veces).
+    """
+    soup = BeautifulSoup(initial_html, 'html.parser')
+    games = parse_recently_added_posts(soup)
+    print(f"   └─ Inicial (Página 1): Encontrados {len(games)} juegos.")
+
+    # Intentamos obtener los parámetros que WordPress necesita para el AJAX Load More
+    # Normalmente están almacenados en la etiqueta o botón con la clase 'tie-pagination-load-more'
+    load_more_btn = soup.find(class_=["tie-pagination-load-more", "load-more-button"])
+    
+    # Si no se localiza mediante botón, usamos la configuración estandard del tema JNews / TieLabs
+    block_data = {}
+    if load_more_btn:
+        block_data = {
+            "action": load_more_btn.get("data-action", "tie_blocks_load_more"),
+            "block": load_more_btn.get("data-block", {}),
+            "max_num_pages": load_more_btn.get("data-max", 100),
+            "page": 1
+        }
+    
+    # Si no pudimos extraer los atributos exactos automáticamente, preparamos un payload fallback estándar del tema
+    page_num = 2
+    for click_i in range(1, MAX_LOAD_MORE_CLICKS + 1):
+        print(f"   └─ Simulando clic #{click_i} en 'Load More' (Cargando página AJAX {page_num})...")
+        
+        # Petición a la API AJAX de WordPress
+        ajax_payload = {
+            "action": "tie_blocks_load_more",
+            "page": page_num,
+            "block[type]": "posts-list",
+            "block[number]": 18,
+            "block[pagination]": "load-more"
+        }
+        
+        try:
+            res = session.post(AJAX_URL, data=ajax_payload, timeout=15)
+            if res.status_code == 200:
+                try:
+                    data = res.json()
+                    html_code = data.get("code", "") or data.get("html", "") or res.text
+                except Exception:
+                    html_code = res.text
+
+                ajax_soup = BeautifulSoup(html_code, 'html.parser')
+                new_games = parse_recently_added_posts(ajax_soup)
+
+                if new_games:
+                    print(f"      [ok] +{len(new_games)} juegos obtenidos en la iteración #{click_i}.")
+                    games.extend(new_games)
+                else:
+                    print(f"      [!] No se encontraron nuevos juegos en el clic #{click_i}.")
+                    break
+            else:
+                print(f"      [x] Error HTTP {res.status_code} al llamar al endpoint AJAX.")
+                break
+
+        except Exception as e:
+            print(f"      [x] No se pudo realizar la carga AJAX: {e}")
+            break
+
+        page_num += 1
+        time.sleep(0.5)
+
     return games
 
 def extract_post_details(html_content, game_title):
     soup = BeautifulSoup(html_content, 'html.parser')
     
-    # 1. Intentar capturar el título exacto actual de la página (ej: v1.9.0)
     current_title = game_title
     h1_title = soup.find("h1", class_=["entry-title", "td-page-title"])
     if h1_title:
         current_title = h1_title.get_text().strip()
 
-    # 2. Fecha de publicación
     upload_date = None
     meta_date = soup.find("meta", property="article:published_time")
     if meta_date and meta_date.get("content"):
@@ -143,7 +249,6 @@ def extract_post_details(html_content, game_title):
 
     article = soup.find(class_=["entry-content", "td-post-content"]) or soup.find("article") or soup.body
 
-    # 3. Tamaño del archivo
     file_size = None
     if article:
         body_text = " ".join(article.get_text().split())
@@ -151,7 +256,6 @@ def extract_post_details(html_content, game_title):
         if size_match:
             file_size = size_match.group(1).strip()
 
-    # 4. Enlaces de descarga legítimos
     uris = []
     if article:
         for anchor in article.find_all("a", href=True):
@@ -182,7 +286,7 @@ def extract_post_details(html_content, game_title):
             anchor_text = anchor.get_text().lower()
             parent_text = anchor.parent.get_text().lower() if anchor.parent else ""
 
-            keywords = ["download", "mirror", "gofile", "buzzheavier", "bzzhr", "pixeldrain", "vikingfile", "qiwi","megadb"]
+            keywords = ["download", "mirror", "gofile", "buzzheavier", "bzzhr", "pixeldrain", "vikingfile", "qiwi", "megadb", "fuckingfast"]
             looks_like_download = (
                 hostname in DOWNLOAD_HOSTS or 
                 any(hostname.endswith(f".{dh}") for dh in DOWNLOAD_HOSTS) or
@@ -203,9 +307,9 @@ def extract_post_details(html_content, game_title):
 
 # --- PROCESO PRINCIPAL ---
 def main():
-    print("=" * 58)
-    print("  Scraper SteamRIP Inteligente V2 (Sincronización de Updates)")
-    print("=" * 58)
+    print("=" * 65)
+    print("  Scraper SteamRIP (Sincronización: Updated & Recently Added)")
+    print("=" * 65)
 
     if not check_flaresolverr():
         print("[x] FlareSolverr no está corriendo en localhost:8191.")
@@ -215,98 +319,81 @@ def main():
     existing_map = load_existing_json()
     session = requests.Session()
     
-    # 1. Bypass Cloudflare e índice de la web
-    games = []
-    for list_url in LIST_URLS:
-        print(f"[*] Solicitando bypass inicial a FlareSolverr para: {list_url}")
-        html, cookies, user_agent = get_list_and_session_via_flaresolverr(list_url)
-        
-        if html:
-            games = extract_game_links(html)
-            if games:
-                print(f"[ok] ¡Bypass exitoso! Encontrados {len(games)} juegos en el índice de la web.")
-                session.headers.update({"User-Agent": user_agent})
-                for cookie in cookies:
-                    session.cookies.set(cookie['name'], cookie['value'], domain=cookie['domain'])
-                break
-        time.sleep(1)
-        
-    if not games:
-        print("[x] No se pudo obtener la sesión válida de Cloudflare.")
+    collected_games = []
+    seen_urls = set()
+
+    # 1. Extraer juegos de /updated-games/
+    print(f"\n[*] Solicitando lista de actualizados a FlareSolverr: {UPDATED_GAMES_URL}")
+    html_updated, cookies, user_agent = get_page_and_session_via_flaresolverr(UPDATED_GAMES_URL)
+    if html_updated:
+        updated_list = extract_updated_games(html_updated)
+        print(f"[ok] Encontrados {len(updated_list)} juegos en /updated-games/")
+        for g in updated_list:
+            if g['url'] not in seen_urls:
+                seen_urls.add(g['url'])
+                collected_games.append(g)
+
+        # Configurar la sesión con los headers/cookies devueltos por FlareSolverr
+        session.headers.update({"User-Agent": user_agent})
+        for cookie in cookies:
+            session.cookies.set(cookie['name'], cookie['value'], domain=cookie['domain'])
+
+    # 2. Extraer juegos de Recently Added en la Home (con hasta 3 clics en Load More)
+    print(f"\n[*] Solicitando juegos 'Recently Added' (Home + Load More) a FlareSolverr...")
+    html_home, _, _ = get_page_and_session_via_flaresolverr(HOME_URL)
+    if html_home:
+        recently_added_list = fetch_recently_added_with_load_more(session, html_home)
+        print(f"[ok] Total capturado en 'Recently Added': {len(recently_added_list)} juegos.")
+        for g in recently_added_list:
+            if g['url'] not in seen_urls:
+                seen_urls.add(g['url'])
+                collected_games.append(g)
+
+    total_games = len(collected_games)
+    if total_games == 0:
+        print("[x] No se pudieron obtener juegos de ninguna de las fuentes.")
         sys.exit(1)
 
-    results = []
-    reused_count = 0
+    print(f"\n[*] Procesando {total_games} juegos únicos conseguidos...")
+    
     updated_count = 0
     scraped_count = 0
-    
-    juegos_a_procesar = games 
-    total_games = len(juegos_a_procesar)
-    
-    print(f"\n[*] Procesando {total_games} juegos evaluando actualizaciones...")
     start_time = time.time()
 
-    for idx, game in enumerate(juegos_a_procesar, 1):
+    for idx, game in enumerate(collected_games, 1):
         game_key = clean_title(game['title'])
         cached_item = existing_map.get(game_key)
         
         try:
-            # Consultamos la web nativamente a toda velocidad
             response = session.get(game['url'], timeout=15)
             if response.status_code == 200:
                 details = extract_post_details(response.text, game['title'])
                 
-                # Si el juego ya existía en el JSON local...
-                if cached_item:
-                    # COMPARACIÓN INTELIGENTE DOBLE: Validamos fecha Y título exacto (versión)
-                    if cached_item["uploadDate"] == details["uploadDate"] and cached_item["title"] == details["title"]:
-                        # No ha cambiado absolutamente nada: Reutilizamos la caché
-                        results.append({
-                            "title": cached_item["title"],
-                            "uploadDate": cached_item["uploadDate"],
-                            "fileSize": cached_item["fileSize"],
-                            "uris": cached_item["uris"]
-                        })
-                        reused_count += 1
-                        # LOG INDIVIDUAL ACTIVADO PARA ELEMENTOS EN CACHÉ:
-                        print(f"[{idx}/{total_games}] [cache] Sin cambios: {cached_item['title']}")
+                if details["uris"]:
+                    if cached_item:
+                        updated_count += 1
+                        print(f"[{idx}/{total_games}] [ACTUALIZADO] {cached_item['title']} -> {details['title']} ({details['fileSize']})")
                     else:
-                        # ¡O la fecha o la versión han cambiado en la web! Fuerza la actualización
-                        if details["uris"]:
-                            results.append(details)
-                            updated_count += 1
-                            print(f"[{idx}/{total_games}] [ACTUALIZACIÓN] {cached_item['title']} -> {details['title']} ({details['fileSize']})")
-                        else:
-                            # Si da un fallo raro de enlaces, conservamos lo que había
-                            results.append(cached_item)
-                            reused_count += 1
-                            print(f"[{idx}/{total_games}] [cache] Sin cambios (Fallo links en web): {cached_item['title']}")
-                else:
-                    # Es un juego completamente nuevo en la web
-                    if details["uris"]:
-                        results.append(details)
                         scraped_count += 1
                         print(f"[{idx}/{total_games}] [NUEVO] {details['title']} ({details['fileSize']})")
-                    else:
-                        print(f"[{idx}/{total_games}] [!] Saltado (Sin enlaces utilizables): {game['title']}")
+                    
+                    existing_map[game_key] = details
+                else:
+                    print(f"[{idx}/{total_games}] [!] Saltado (Sin enlaces utilizables): {game['title']}")
             else:
                 print(f"[{idx}/{total_games}] [x] HTTP Error {response.status_code} en {game['title']}")
-                if cached_item:  # Conservar caché si la web da error temporal
-                    results.append(cached_item)
-                    reused_count += 1
         except Exception as e:
             print(f"[{idx}/{total_games}] [x] Error en {game['title']}: {e}")
-            if cached_item:
-                results.append(cached_item)
-                reused_count += 1
             
-        time.sleep(0.2) # Control prudente de peticiones concurrentes
+        time.sleep(0.2)
 
-    # 3. Guardar resultados consolidados
-    results.sort(key=lambda x: x["title"])
+    # Guardar resultados consolidados
+    consolidated_results = list(existing_map.values())
+    consolidated_results.sort(key=lambda x: x["title"])
+
     output_data = {
         "name": "SteamRip",
-        "downloads": results
+        "downloads": consolidated_results
     }
     
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
@@ -314,14 +401,13 @@ def main():
         json.dump(output_data, f, ensure_ascii=False, indent=2)
         
     end_time = time.time()
-    print(f"\n" + "="*58)
-    print(f"[ok] ¡Sincronización de Updates Finalizada!")
-    print(f"[*] Guardados totales en JSON: {len(results)}")
+    print(f"\n" + "="*65)
+    print(f"[ok] ¡Sincronización Finalizada con Éxito!")
+    print(f"[*] Juegos totales guardados en JSON: {len(consolidated_results)}")
     print(f"[*] Juegos nuevos añadidos: {scraped_count}")
-    print(f"[*] Versiones actualizadas indexadas: {updated_count}")
-    print(f"[*] Juegos sin cambios (Caché): {reused_count}")
+    print(f"[*] Juegos actualizados: {updated_count}")
     print(f"[*] Tiempo de ejecución: {end_time - start_time:.2f} segundos.")
-    print("="*58)
+    print("="*65)
 
 
 if __name__ == "__main__":
