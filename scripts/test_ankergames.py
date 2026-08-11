@@ -41,6 +41,8 @@ def get_direct_download_url(game_url: str) -> Optional[str]:
     real_cdn_url: Optional[str] = None
 
     with sync_playwright() as p:
+        # Usamos headless=False a nivel de Playwright pero activamos --headless=new por Chromium
+        # Esto hace que Cloudflare y la web piensen que es un navegador completo con interfaz
         browser = p.chromium.launch(
             headless=False,
             args=[
@@ -49,6 +51,7 @@ def get_direct_download_url(game_url: str) -> Optional[str]:
                 "--no-sandbox",
                 "--disable-setuid-sandbox",
                 "--disable-infobars",
+                "--disable-dev-shm-usage",
             ]
         )
 
@@ -58,6 +61,13 @@ def get_direct_download_url(game_url: str) -> Optional[str]:
             locale="es-ES",
             ignore_https_errors=True,
         )
+
+        # Inyectar script para ocultar rastros de automatización en el navegador
+        context.add_init_script("""
+            Object.defineProperty(navigator, 'webdriver', {
+                get: () => undefined
+            });
+        """)
 
         page = context.new_page()
 
@@ -91,10 +101,12 @@ def get_direct_download_url(game_url: str) -> Optional[str]:
             modal_download_btn = "a.download-button, button.download-button"
             page.wait_for_selector(modal_download_btn, state="attached", timeout=12000)
 
-            # 3. Hacer clic para obtener la URL intermedia de la cuenta atrás
+            # 3. Disparar el clic simulando interacción real del usuario
             page.evaluate("""() => {
                 const btn = document.querySelector('a.download-button, button.download-button');
-                if (btn) btn.click();
+                if (btn) {
+                    btn.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true, view: window }));
+                }
             }""")
 
             waited = 0
@@ -107,7 +119,7 @@ def get_direct_download_url(game_url: str) -> Optional[str]:
                 return None
 
             log(f"    [🔗] Página de descarga obtenida: {intermediate_url[:65]}...")
-            log("    [⏳] Entrando a la página de descarga y esperando los 5 segundos de cuenta atrás...")
+            log("    [⏳] Entrando a la página de descarga y esperando la cuenta atrás...")
 
             # 4. Escuchar peticiones hacia dlproxy o archivos directos
             def intercept_cdn_request(request):
@@ -118,10 +130,9 @@ def get_direct_download_url(game_url: str) -> Optional[str]:
 
             page.on("request", intercept_cdn_request)
 
-            # 5. Navegar a la página intermedia y esperar a que pase el timer
+            # 5. Navegar a la página intermedia y esperar el timer
             page.goto(intermediate_url, wait_until="domcontentloaded", timeout=30000)
 
-            # Esperar 8 segundos para asegurar que pasen los 5s de la cuenta atrás de la web y el JS haga el click/fetch
             waited_cdn = 0
             while waited_cdn < 10000 and not real_cdn_url:
                 page.wait_for_timeout(500)
