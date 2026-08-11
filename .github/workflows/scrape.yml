@@ -89,6 +89,14 @@ jobs:
             script: scripts/download_rexagames.py
             needs_flaresolverr: true
             needs_selenium: false
+          - id: ankergames
+            output: ankergames.json
+            expected_name: AnkerGames
+            mode: python
+            script: scripts/download_ankergames.py
+            needs_flaresolverr: false
+            needs_selenium: false
+            needs_playwright: true
 
     services:
       flaresolverr:
@@ -132,6 +140,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install aiohttp beautifulsoup4 selenium requests undetected-chromedriver setuptools
+
+      - name: Install Playwright (Python)
+        if: matrix.source.needs_playwright
+        run: |
+          python -m pip install playwright
+          python -m playwright install --with-deps chromium
           
       - name: Install Brave Browser
         if: matrix.source.needs_brave
@@ -266,6 +280,7 @@ jobs:
           INSTANT_GAMING_UPDATED=false
           DODI_UPDATED=false
           REXAGAMES_UPDATED=false
+          ANKERGAMES_UPDATED=false
           if [ -f downloaded-artifacts/steamrip.json ]; then STEAMRIP_UPDATED=true; fi
           if [ -f downloaded-artifacts/fitgirl.json ]; then FITGIRL_UPDATED=true; fi
           if [ -f downloaded-artifacts/freegog.json ]; then FREEGOG_UPDATED=true; fi
@@ -276,7 +291,8 @@ jobs:
           if [ -f downloaded-artifacts/instant-gaming-deals.json ]; then INSTANT_GAMING_UPDATED=true; fi
           if [ -f downloaded-artifacts/dodi.json ]; then DODI_UPDATED=true; fi
           if [ -f downloaded-artifacts/rexagames.json ]; then REXAGAMES_UPDATED=true; fi
-          STEAMRIP_UPDATED=$STEAMRIP_UPDATED FITGIRL_UPDATED=$FITGIRL_UPDATED FREEGOG_UPDATED=$FREEGOG_UPDATED ONLINEFIX_UPDATED=$ONLINEFIX_UPDATED ONLINEFIX_FIXES_UPDATED=$ONLINEFIX_FIXES_UPDATED IGGAMES_UPDATED=$IGGAMES_UPDATED INSANERAMZES_UPDATED=$INSANERAMZES_UPDATED INSTANT_GAMING_UPDATED=$INSTANT_GAMING_UPDATED DODI_UPDATED=$DODI_UPDATED REXAGAMES_UPDATED=$REXAGAMES_UPDATED node src/tools/generate-status.js
+          if [ -f downloaded-artifacts/ankergames.json ]; then ANKERGAMES_UPDATED=true; fi
+          STEAMRIP_UPDATED=$STEAMRIP_UPDATED FITGIRL_UPDATED=$FITGIRL_UPDATED FREEGOG_UPDATED=$FREEGOG_UPDATED ONLINEFIX_UPDATED=$ONLINEFIX_UPDATED ONLINEFIX_FIXES_UPDATED=$ONLINEFIX_FIXES_UPDATED IGGAMES_UPDATED=$IGGAMES_UPDATED INSANERAMZES_UPDATED=$INSANERAMZES_UPDATED INSTANT_GAMING_UPDATED=$INSTANT_GAMING_UPDATED DODI_UPDATED=$DODI_UPDATED REXAGAMES_UPDATED=$REXAGAMES_UPDATED ANKERGAMES_UPDATED=$ANKERGAMES_UPDATED node src/tools/generate-status.js
 
       - name: Verify public JSON files
         run: |

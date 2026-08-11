@@ -71,13 +71,13 @@ def main() -> int:
 
     with sync_playwright() as p:
         browser = p.chromium.launch(
-            headless=False,
+            headless=True,
             args=[
-                "--headless=new",
                 "--disable-blink-features=AutomationControlled",
                 "--no-sandbox",
                 "--disable-setuid-sandbox",
                 "--disable-infobars",
+                "--disable-dev-shm-usage",
             ]
         )
 

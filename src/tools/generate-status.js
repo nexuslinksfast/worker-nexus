@@ -120,6 +120,12 @@ function main() {
       name: "RexaGames",
       file: "rexagames.json",
       updatedThisRun: process.env.REXAGAMES_UPDATED === "true"
+    },
+    {
+      key: "ankergames",
+      name: "AnkerGames",
+      file: "ankergames.json",
+      updatedThisRun: process.env.ANKERGAMES_UPDATED === "true"
     }
   ];
 
