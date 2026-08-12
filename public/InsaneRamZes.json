@@ -466,19 +466,27 @@
       ]
     },
     {
+      "title": "Total Chaos (RUS|ENG|MULTi11) [P]",
+      "fileSize": "29.07 GB",
+      "uploadDate": "2026-08-12T15:59:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:7cadb5234599fc07f7ffa23f50f798e8d86a3edf&dn=Total%20Chaos%20%28RUS%7CENG%7CMULTi11%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "System Shock (Atari) (RUS|ENG|MULTi13) [DL|GOG]",
+      "fileSize": "5.14 GB",
+      "uploadDate": "2026-08-12T14:38:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:add4468fcc38cdccf7e8a28baa16ecf61fd04ad7&dn=System%20Shock%20%28Atari%29%20%28RUS%7CENG%7CMULTi13%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
       "title": "Quake (RUS/ENG/MULTi6) [Repack]",
       "fileSize": "562 MB",
       "uploadDate": "2026-08-12T12:27:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:7a3ad6d0eaee5a3098c1be20a91fc8096b63cfb0&dn=Quake%20%28RUS/ENG/MULTi6%29%20%5BRepack%5D"
-      ]
-    },
-    {
-      "title": "DISORDER (RUS/ENG/MULTI10) [Repack]",
-      "fileSize": "11.46 GB",
-      "uploadDate": "2026-08-12T11:48:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:a6d52e8cf1ba2a40c9785aa5ef90b0514802e4e7&dn=DISORDER%20%28RUS/ENG/MULTI10%29%20%5BRepack%5D"
       ]
     },
     {
@@ -511,14 +519,6 @@
       "uploadDate": "2026-08-12T00:15:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:3f61c8b7dfae25735a4d3de409992736a6f6b2bc&dn=KIBORG%20%28Sobaka%20Studio%29%20%28RUS%7CENG%7CMULTi12%29%20%5BDL%7CGOG%5D"
-      ]
-    },
-    {
-      "title": "Total Chaos (RUS|ENG|MULTi11) [P]",
-      "fileSize": "29.07 GB",
-      "uploadDate": "2026-08-12T00:10:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:7cadb5234599fc07f7ffa23f50f798e8d86a3edf&dn=Total%20Chaos%20%28RUS%7CENG%7CMULTi11%29%20%5BP%5D"
       ]
     },
     {
@@ -1318,7 +1318,7 @@
       "fileSize": "1.7 GB",
       "uploadDate": "2026-07-09T23:39:00.000Z",
       "uris": [
-        "magnet:?xt=urn:btih:dcf5a4b61adebee2dd0bbd9673ac98264dc6ed3d&dn=Clone%20Drone%20in%20the%20Danger%20Zone%20%28RUS/ENG/MULTi12%29%20%5BP%5D"
+        "magnet:?xt=urn:btih:7ba4ea0b388306ec71afe23be99f53654fdcbebe&dn=Clone%20Drone%20in%20the%20Danger%20Zone%20%28RUS/ENG/MULTi12%29%20%5BP%5D"
       ]
     },
     {
@@ -3439,14 +3439,6 @@
       "uploadDate": "2026-03-21T19:47:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:df2e9d385565a9ae480ef464276a6b3b6a22e867&dn=Metal%20Eden%20%28RUS%7CENG%7CMULTi12%29%20%5BP%5D"
-      ]
-    },
-    {
-      "title": "System Shock (Atari) (RUS|ENG|MULTi13) [DL|GOG]",
-      "fileSize": "5.14 GB",
-      "uploadDate": "2026-03-21T01:02:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:add4468fcc38cdccf7e8a28baa16ecf61fd04ad7&dn=System%20Shock%20%28Atari%29%20%28RUS%7CENG%7CMULTi13%29%20%5BDL%7CGOG%5D"
       ]
     },
     {
@@ -9080,6 +9072,14 @@
       ]
     },
     {
+      "title": "DISORDER (RUS/ENG/MULTI10) [Repack]",
+      "fileSize": "11.46 GB",
+      "uploadDate": "2025-01-23T19:32:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:a6d52e8cf1ba2a40c9785aa5ef90b0514802e4e7&dn=DISORDER%20%28RUS/ENG/MULTI10%29%20%5BRepack%5D"
+      ]
+    },
+    {
       "title": "DISORDER (GRUMPY) (RUS/ENG/MULTi10) [L]",
       "fileSize": "13.71 GB",
       "uploadDate": "2025-01-23T18:14:00.000Z",
@@ -11269,14 +11269,6 @@
       "uploadDate": "2024-07-08T19:37:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:6b2e5df4cbdf15f13e56a8b1c3d7955c38b7aae9&dn=Over%20Islands%20%28ENG/FRA%29%20%5BRepack%5D"
-      ]
-    },
-    {
-      "title": "SOUTH PARK: SNOW DAY Digital Deluxe Edition (THQ Nordic GmbH) (ENG|GER|MULTI9) [DL|NfRG|GOG] / [Windows]",
-      "fileSize": "26.36 GB",
-      "uploadDate": "2024-07-08T15:52:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:f25b4d1b347d547b5a76404d3ac8a55f74051245&dn=SOUTH%20PARK%3A%20SNOW%20DAY%20Digital%20Deluxe%20Edition%20%28THQ%20Nordic%20GmbH%29%20%28ENG%7CGER%7CMULTI9%29%20%5BDL%7CNfRG%7CGOG%5D%20/%20%5BWindows%5D"
       ]
     },
     {
