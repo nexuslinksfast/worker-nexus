@@ -2,6 +2,2046 @@
   "name": "OnlineFix",
   "downloads": [
     {
+      "fileSize": "20.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6d5c11ca520d1c8112054390289d12c09eec28c4&amp;dn=Grounded+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Grounded 2 0.5.0.2.3054196",
+      "uploadDate": "2026-08-12T14:02:17.000Z"
+    },
+    {
+      "fileSize": "300.4 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:c840eb5fcf8be4babdc3cd73fb6aa14dcfdd7684&amp;dn=Project+Breakout&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Project Breakout 1.0.5",
+      "uploadDate": "2026-08-12T14:06:03.000Z"
+    },
+    {
+      "fileSize": "6.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:80fa2139eb3897d2e2a7bb41e1ab70eddf79efeb&amp;dn=Meta+Ghost+Breaking+Show&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Meta Ghost Breaking Show 1.0.0.3",
+      "uploadDate": "2026-08-12T14:04:56.000Z"
+    },
+    {
+      "fileSize": "31.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0e1aacf2498b9c43200f6f684aa762574b0e33eb&amp;dn=DRAGON+BALL+XENOVERSE+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "DRAGON BALL XENOVERSE 2 1.26.01",
+      "uploadDate": "2026-08-12T13:46:10.000Z"
+    },
+    {
+      "fileSize": "31.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:220512e1ff2022027865561cfef611144f43ffe3&amp;dn=FATAL+FURY+City+of+the+Wolves&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "FATAL FURY City of the Wolves 3.0.1.160202E",
+      "uploadDate": "2026-08-12T13:55:32.000Z"
+    },
+    {
+      "fileSize": "10.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0b8e1086472489b7e9254a92f76b3f5ae0b1f250&amp;dn=EverRail&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "EverRail 0.2.6",
+      "uploadDate": "2026-08-12T13:53:24.000Z"
+    },
+    {
+      "fileSize": "831.4 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:0a7a93f9ce2a10c910bcfdcdb205748780825563&amp;dn=Aquapark+Tycoon&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Aquapark Tycoon 0.5.4",
+      "uploadDate": "2026-08-12T13:44:53.000Z"
+    },
+    {
+      "fileSize": "2.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f5fa9e0b74a584c82e5adcff6ce9ee8a98b7d542&amp;dn=Bookshop+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Bookshop Simulator 1.0.1224",
+      "uploadDate": "2026-08-12T13:45:09.000Z"
+    },
+    {
+      "fileSize": "1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c4679c4b2a140e6c7296ba9ccc8e5a5895581bfb&amp;dn=Dig%2C+Dig%2C+Die&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dig, Dig, Die 1.0.61.6",
+      "uploadDate": "2026-08-12T13:45:33.000Z"
+    },
+    {
+      "fileSize": "3.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fb2935ad1e5b36e7e7877d25ed0e7a703f227ac8&amp;dn=Approximately+Up&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Approximately Up 1.0.009",
+      "uploadDate": "2026-08-12T13:43:55.000Z"
+    },
+    {
+      "fileSize": "6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:604e93d2a803603f2adc61ee79f604539834686b&amp;dn=Saints+Row+Gat+out+of+Hell&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Saints Row Gat out of Hell Complete Edition",
+      "uploadDate": "2026-08-06T10:19:15.000Z"
+    },
+    {
+      "fileSize": "2.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b538a62d7840e77d4ce37c516cb7059fe47fe882&amp;dn=Risk+of+Rain+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Risk of Rain 2 1.4.1.886",
+      "uploadDate": "2026-01-26T18:18:14.000Z"
+    },
+    {
+      "fileSize": "32 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d3efa6f24f862474e046f34328f5fc8b4dae4eef&amp;dn=Incursion+Red+River&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Incursion Red River 1.3.0.5",
+      "uploadDate": "2026-03-13T16:54:56.000Z"
+    },
+    {
+      "fileSize": "303 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:06c6f5b47da6ac014d815f699014221bdc343c78&amp;dn=Content+Warning&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Content Warning 1.24.0",
+      "uploadDate": "2026-05-12T14:45:03.000Z"
+    },
+    {
+      "fileSize": "300.8 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:42cad714d0345d71e6b5c721e53063297aaea6d5&amp;dn=Backpack+Battles&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Backpack Battles 1.1.5b",
+      "uploadDate": "2026-06-01T13:28:36.000Z"
+    },
+    {
+      "fileSize": "3.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:3a7c6933a54bfbf2df7f07b33d9c1291de2d733d&amp;dn=The+Planet+Crafter&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Planet Crafter Build 09042026",
+      "uploadDate": "2026-04-13T13:42:52.000Z"
+    },
+    {
+      "fileSize": "3.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f179d4ed5b1ce21e22b0388bdc69c1ccb4696853&amp;dn=FEAR+3&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "FEAR 3 v16.00.20.1060",
+      "uploadDate": "2026-06-01T21:26:51.000Z"
+    },
+    {
+      "fileSize": "3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7174704985e51d2ac865e8bae406f2fc917c28f0&amp;dn=ASTRONEER&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "ASTRONEER 1.42.3.0",
+      "uploadDate": "2026-08-06T13:03:09.000Z"
+    },
+    {
+      "fileSize": "313.7 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:917465aa2377f5b56efbfa4517b432b9fc054998&amp;dn=Castle+Crashers&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Castle Crashers 3.0",
+      "uploadDate": "2025-08-29T11:43:14.000Z"
+    },
+    {
+      "fileSize": "61.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:aae5a41d23c3986ffe1ba6ecc1a490df06bd76ff&amp;dn=Dead+Rising+4&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dead Rising 4 Update 4",
+      "uploadDate": "2026-08-06T10:09:35.000Z"
+    },
+    {
+      "fileSize": "27.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8f398678c85dde424343a923d100748229a454da&amp;dn=No+Mans+Sky&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "No Mans Sky 6.42.0.0",
+      "uploadDate": "2026-06-02T12:47:16.000Z"
+    },
+    {
+      "fileSize": "5.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b52e17e5270908d6f44b7f877a0a992840994acc&amp;dn=Factorio&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Factorio 2.0.73",
+      "uploadDate": "2026-03-11T17:08:38.000Z"
+    },
+    {
+      "fileSize": "138.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ad184e87001fbd8d95b531a423d08cb886914a48&amp;dn=Borderlands+3&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Borderlands 3 Build 08082024",
+      "uploadDate": "2026-06-17T11:11:55.000Z"
+    },
+    {
+      "fileSize": "49.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:12b29a1583850caee15df9aa3de76533213d7c63&amp;dn=PAYDAY+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "PAYDAY 2 1.151.268",
+      "uploadDate": "2026-05-21T15:54:56.000Z"
+    },
+    {
+      "fileSize": "32.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:892baaa6864b6725c774fe80766423166ca53ed9&amp;dn=Dying+Light&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dying Light 1.52.0",
+      "uploadDate": "2025-08-13T16:59:50.000Z"
+    },
+    {
+      "fileSize": "1.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:01a25c2a2274067de13fe76134417ec24c19e8af&amp;dn=Tabletop+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Tabletop Simulator 14.2.1 Hotfix 3",
+      "uploadDate": "2026-03-03T17:08:25.000Z"
+    },
+    {
+      "fileSize": "336.7 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:dd36f775af7a43059d5f07193a5d9b0a713e36e3&amp;dn=Duck+Game&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Duck Game Build 21052022",
+      "uploadDate": "2026-03-20T14:35:27.000Z"
+    },
+    {
+      "fileSize": "2.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:e135f46261d49d1319ca4cf1d9edeeaf58460c48&amp;dn=Raft&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Raft 1.1.07",
+      "uploadDate": "2026-01-23T21:28:24.000Z"
+    },
+    {
+      "fileSize": "9.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:541412b34bbb2652319cc7f4dc92dadc3d026978&amp;dn=The+Blackout+Club&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Blackout Club Build 13082021",
+      "uploadDate": "2024-10-25T13:48:39.000Z"
+    },
+    {
+      "fileSize": "1.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:a023d3392d626f0186d5e51e6053c32aa8df735d&amp;dn=Kingdom+Two+Crowns&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Kingdom Two Crowns 2.1.4",
+      "uploadDate": "2025-05-09T09:48:53.000Z"
+    },
+    {
+      "fileSize": "8.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:394db7fa6538156921557261d42769f32d795e39&amp;dn=Friday+the+13th+The+Game&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Friday the 13th The Game B12507",
+      "uploadDate": "2025-01-14T11:33:41.000Z"
+    },
+    {
+      "fileSize": "72.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:915950a5e67a89f21d9f495467c6e0e5df4906ed&amp;dn=theHunter+Call+of+the+Wild&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "theHunter Call of the Wild Build 24022026",
+      "uploadDate": "2026-03-10T10:45:15.000Z"
+    },
+    {
+      "fileSize": "3.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:78e77245f90fe896abe01f395a68ad0aed80e191&amp;dn=Deep+Rock+Galactic&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Deep Rock Galactic 1.40.134249.0",
+      "uploadDate": "2026-02-18T12:00:39.000Z"
+    },
+    {
+      "fileSize": "1017.8 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:948ba5d532505c618a8c10bd8b22eb9f26df1af0&amp;dn=No+Captain+Allowed!&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "No Captain Allowed!",
+      "uploadDate": "2026-06-17T21:19:33.000Z"
+    },
+    {
+      "fileSize": "3.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c8a524d090424ce01f00a3131801601b657ad010&amp;dn=Eco&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Eco 0.11.1.8",
+      "uploadDate": "2025-02-19T21:24:39.000Z"
+    },
+    {
+      "fileSize": "562 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:ce7543358aaf56e2da7dfc4abc41dc9fb16e2e74&amp;dn=Unrailed!&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Unrailed! 2.1.399F91AB7",
+      "uploadDate": "2025-02-10T15:53:24.000Z"
+    },
+    {
+      "fileSize": "2.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f0aeeb979d527aa015e3c671e826dd79c22f684c&amp;dn=Dollhouse&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dollhouse",
+      "uploadDate": "2026-06-17T21:17:07.000Z"
+    },
+    {
+      "fileSize": "1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:cac61f1169f834aef3e5ab188dd471a70f7d48e4&amp;dn=Gang+Beasts&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Gang Beasts 1.28.1687.0",
+      "uploadDate": "2025-10-21T10:03:31.000Z"
+    },
+    {
+      "fileSize": "37.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d041919ab90be5606fa494a4b8b8824c5b8e588c&amp;dn=MechWarrior+5+Mercenaries&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "MechWarrior 5 Mercenaries 1.13.381",
+      "uploadDate": "2026-01-16T18:39:56.000Z"
+    },
+    {
+      "fileSize": "1.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8004add0a74b55f5ab09e06a6c899f7d18da3a4a&amp;dn=Pummel+Party&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Pummel Party 1.14.1k",
+      "uploadDate": "2026-04-29T11:03:31.000Z"
+    },
+    {
+      "fileSize": "2.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:3437fd05e79856223ef7fa8b9345fcd006e3f1a2&amp;dn=Human+Fall+Flat&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Human Fall Flat 1096141",
+      "uploadDate": "2026-05-13T14:15:55.000Z"
+    },
+    {
+      "fileSize": "17.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:efc22799da4e2b738510b00a8d20ef2907ac9678&amp;dn=State+of+Decay+2+Juggernaut+Edition&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "State of Decay 2 Juggernaut Edition Build 26112024",
+      "uploadDate": "2024-12-05T13:01:15.000Z"
+    },
+    {
+      "fileSize": "537.2 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:063043892eac8f94c5eb249669548a3f93b7c3a5&amp;dn=Stardew+Valley&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Stardew Valley 1.6.15",
+      "uploadDate": "2025-03-19T18:38:27.000Z"
+    },
+    {
+      "fileSize": "11.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d900d503cba4f0e0ed9a0e930788e2f4a3188e90&amp;dn=Scrap+Mechanic&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Scrap Mechanic 1.0.1.869",
+      "uploadDate": "2026-07-27T11:48:32.000Z"
+    },
+    {
+      "fileSize": "11.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:849ec0749fb3e6408212e08eca065e3770406aa8&amp;dn=Tropico+6&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Tropico 6 Build 01042025",
+      "uploadDate": "2025-10-15T16:40:53.000Z"
+    },
+    {
+      "fileSize": "6.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:26fa1d9a1ae2f1c6968429e285eef8e8a470574e&amp;dn=Hearts+of+Iron+IV&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Hearts of Iron IV 1.19.2.0",
+      "uploadDate": "2026-07-20T13:18:20.000Z"
+    },
+    {
+      "fileSize": "16.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:58669456d5b29f312073652afa04a9623a304eaa&amp;dn=Stellaris&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Stellaris 4.3.7",
+      "uploadDate": "2026-05-12T14:49:06.000Z"
+    },
+    {
+      "fileSize": "5.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:da795a5fcbba5d62338edad73191ba1e89326658&amp;dn=Project+Zomboid&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Project Zomboid 42.20.1",
+      "uploadDate": "2026-08-05T16:23:00.000Z"
+    },
+    {
+      "fileSize": "1.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c499e9a5db432feaf6d2fd6e67a06df80565add0&amp;dn=Forts&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Forts 1.37.0.r21352",
+      "uploadDate": "2026-06-03T11:17:20.000Z"
+    },
+    {
+      "fileSize": "650.4 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:faa61fb3f68dad14ee3b0262a4f0adc206cf6021&amp;dn=Terraria&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Terraria 1.4.5.3",
+      "uploadDate": "2026-02-03T13:37:50.000Z"
+    },
+    {
+      "fileSize": "7.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b089526cdd42d301b437e63633ab0156ea2dce28&amp;dn=Europa+Universalis+IV&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Europa Universalis IV 1.37.5.0",
+      "uploadDate": "2025-03-06T16:28:24.000Z"
+    },
+    {
+      "fileSize": "1.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:bda1a736e71ab283137a8101c3c8a07dae0d0e3e&amp;dn=Project+Winter&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Project Winter 1.29.990.0",
+      "uploadDate": "2025-06-05T16:27:32.000Z"
+    },
+    {
+      "fileSize": "1.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:832abca92b7b5de9cd69c5eaa6c0052f8dbd689c&amp;dn=The+Binding+of+Isaac+Rebirth&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Binding of Isaac Rebirth 1.9.7.15",
+      "uploadDate": "2025-11-05T15:36:26.000Z"
+    },
+    {
+      "fileSize": "1.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:78b5d8b2ca2c5c799b2cde8cdcadb3f4b2047f12&amp;dn=Barotrauma&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Barotrauma 1.13.4.0",
+      "uploadDate": "2026-07-07T13:07:34.000Z"
+    },
+    {
+      "fileSize": "2.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:157dcd3d57e85f9b85546335efac8cfc17ebe885&amp;dn=Northgard&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Northgard 4.0.2.43046",
+      "uploadDate": "2025-12-15T00:16:31.000Z"
+    },
+    {
+      "fileSize": "3.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:34f9ad2c89a494504712b09d2f8bde6e61a78e92&amp;dn=Gunfire+Reborn&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Gunfire Reborn Build 09052026",
+      "uploadDate": "2026-06-04T14:41:06.000Z"
+    },
+    {
+      "fileSize": "70.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fb1ea8d857467b759d1b05558e1d6aabcc7d7c69&amp;dn=Conan+Exiles&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Conan Exiles Build 31012025",
+      "uploadDate": "2025-02-12T14:40:44.000Z"
+    },
+    {
+      "fileSize": "6.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c6989f9c7f163eabc2ef6061d6ce200a943d9378&amp;dn=Folklore+Hunter&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Folklore Hunter 1.0.4",
+      "uploadDate": "2026-06-11T15:32:17.000Z"
+    },
+    {
+      "fileSize": "2.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6af05de9d41fda1c7f5168e487e2188cf9ddfb76&amp;dn=Minecraft+Dungeons&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Minecraft Dungeons 1.17.0.0",
+      "uploadDate": "2025-07-31T10:19:42.000Z"
+    },
+    {
+      "fileSize": "5.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:037d00178f56e161d7b6073f6b7753a9915e4c6e&amp;dn=Stationeers&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Stationeers 0.2.6227.27061",
+      "uploadDate": "2026-05-12T14:47:31.000Z"
+    },
+    {
+      "fileSize": "1.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:12b2477358eb7084377b8294a71558996f49cb44&amp;dn=Bloons+TD+6&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Bloons TD 6 51.2.9998",
+      "uploadDate": "2025-10-29T11:49:25.000Z"
+    },
+    {
+      "fileSize": "16.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:09d79eb70d66e3f2c5b482eb09314244e15d8f77&amp;dn=7+Days+To+Die&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "7 Days To Die 3.0.1.B4",
+      "uploadDate": "2026-07-20T13:12:21.000Z"
+    },
+    {
+      "fileSize": "10.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:24bea2cb67205cc965f116dbf2bc4aa105907d42&amp;dn=Grounded&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Grounded 1.4.7.4815",
+      "uploadDate": "2025-05-21T18:18:58.000Z"
+    },
+    {
+      "fileSize": "9.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:36f8c1308dcc244ca3f54477fa673ce7269917d3&amp;dn=Crusader+Kings+III&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Crusader Kings III 1.19.0.3",
+      "uploadDate": "2026-04-22T13:38:35.000Z"
+    },
+    {
+      "fileSize": "649.1 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:b16e4c0a4497f670dd294fc66b576f90ef9f98ee&amp;dn=Among+Us&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Among Us 2026.3.312.0",
+      "uploadDate": "2026-04-30T14:08:57.000Z"
+    },
+    {
+      "fileSize": "1.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6ca1d91d5ae2b97547087055868a1f35f02389c3&amp;dn=Barony&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Barony 5.0.0.2026.01.31",
+      "uploadDate": "2026-02-02T14:22:03.000Z"
+    },
+    {
+      "fileSize": "1.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:4dfef8d256f6b2eff1ac8a6b3050728d46a1a7eb&amp;dn=Offworld+Trading+Company&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Offworld Trading Company 1.23.65337",
+      "uploadDate": "2025-01-28T12:07:33.000Z"
+    },
+    {
+      "fileSize": "427.5 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:16da633ffc46b691868b288ce6621d83f524a4ba&amp;dn=The+Long+Drive&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Long Drive Build 26112024",
+      "uploadDate": "2025-02-26T12:44:44.000Z"
+    },
+    {
+      "fileSize": "18.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:14eba1ae02d58a3cf9f548e388739b47859a9e5c&amp;dn=Phasmophobia&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Phasmophobia 0.18.0.1",
+      "uploadDate": "2026-07-28T12:01:52.000Z"
+    },
+    {
+      "fileSize": "1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7d70c942657daee25dba20b5bc85a6b93f531a5d&amp;dn=Hacktag&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Hacktag 1.2.45385",
+      "uploadDate": "2025-05-13T10:41:06.000Z"
+    },
+    {
+      "fileSize": "10.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8d4100e290baa72558de47a7ff49d90c122600c1&amp;dn=Labyrinthine&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Labyrinthine Build 11092025",
+      "uploadDate": "2025-11-17T12:43:42.000Z"
+    },
+    {
+      "fileSize": "1.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:087384faa3e43dabc0a7f05970f9cc873feb199c&amp;dn=Door+Kickers+2+Task+Force+North&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Door Kickers 2 Task Force North 1.04",
+      "uploadDate": "2025-02-19T21:24:09.000Z"
+    },
+    {
+      "fileSize": "20.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ea95327c52832b5ef4486703521ebcf178e7691f&amp;dn=BeamNG+Drive&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "BeamNG Drive 0.39.2.1",
+      "uploadDate": "2026-08-05T16:13:10.000Z"
+    },
+    {
+      "fileSize": "212.1 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:6105fc77d82aa8a50a59af4d68a09d6ec0e0b900&amp;dn=Colony+Survival&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Colony Survival 0.14.0.5",
+      "uploadDate": "2025-10-30T11:49:43.000Z"
+    },
+    {
+      "fileSize": "5.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ac25af95b71a58b04d592ecfa8b242a8b9b2500d&amp;dn=Roboquest&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Roboquest 1.6.2-51812",
+      "uploadDate": "2026-08-04T11:04:57.000Z"
+    },
+    {
+      "fileSize": "28.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:e055bc2661ae2b12a87ae620ce268b0347138819&amp;dn=DRAGON+BALL+XENOVERSE+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "DRAGON BALL XENOVERSE 2 1.25.02",
+      "uploadDate": "2026-02-02T14:12:39.000Z"
+    },
+    {
+      "fileSize": "1.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:37db943dc1af52f045ff95064961248651209826&amp;dn=Valheim&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Valheim 0.221.12",
+      "uploadDate": "2026-03-03T17:09:16.000Z"
+    },
+    {
+      "fileSize": "11.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:eb507b34f682fe2eeddf908de1959bb4f1b7bc6b&amp;dn=Ranch+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Ranch Simulator Build 25092025",
+      "uploadDate": "2025-11-20T00:57:24.000Z"
+    },
+    {
+      "fileSize": "7.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:24ed5771188acc5a461fe3e6cccee0e9bb3fc695&amp;dn=Overcooked!+All+You+Can+Eat&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Overcooked! All You Can Eat 1277",
+      "uploadDate": "2026-07-07T13:40:37.000Z"
+    },
+    {
+      "fileSize": "119.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:abda4610264a1aeede855f48fa3a70d0e426074e&amp;dn=Automobilista+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Automobilista 2 1.6.3.6.2820",
+      "uploadDate": "2025-03-20T14:19:25.000Z"
+    },
+    {
+      "fileSize": "5.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8f3706088876d3debfd8293d9fd453a7e1de3c00&amp;dn=DRAGON+BALL+FighterZ&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "DRAGON BALL FighterZ 2.2.27.0",
+      "uploadDate": "2026-05-05T16:07:46.000Z"
+    },
+    {
+      "fileSize": "42.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:bc2518aeb800bc90f475aeba5585a9a826dff8e8&amp;dn=Ground+Branch&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Ground Branch Build 31072025",
+      "uploadDate": "2025-09-05T15:05:45.000Z"
+    },
+    {
+      "fileSize": "74.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:e000fa38ad3a67088cd1436251b197477177eca8&amp;dn=Call+to+Arms+Gates+of+Hell+Ostfront&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Call to Arms Gates of Hell Ostfront 1.063.0",
+      "uploadDate": "2026-06-09T11:34:07.000Z"
+    },
+    {
+      "fileSize": "35.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:90b404c46c9d4d9e9677348e099c42950b97cd42&amp;dn=Euro+Truck+Simulator+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Euro Truck Simulator 2 1.58.1.4s",
+      "uploadDate": "2026-03-20T14:18:31.000Z"
+    },
+    {
+      "fileSize": "23.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:49a064e34b4a5273d5d3c33f345a0b3257c3d951&amp;dn=American+Truck+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "American Truck Simulator 1.56.1.10s",
+      "uploadDate": "2025-11-03T14:13:14.000Z"
+    },
+    {
+      "fileSize": "3.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2768a89043871aca5e84cce5605718b12e913e54&amp;dn=The+Greatest+Penguin+Heist+of+All+Time&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Greatest Penguin Heist of All Time Build 16082024",
+      "uploadDate": "2024-10-09T16:32:13.000Z"
+    },
+    {
+      "fileSize": "5.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8eec5a4e5172beeee094586575244bb1ca1e9561&amp;dn=Police+Simulator+Patrol+Officers&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Police Simulator Patrol Officers 22.3.2",
+      "uploadDate": "2026-08-06T13:11:22.000Z"
+    },
+    {
+      "fileSize": "7.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f9d1fdcbec01108b444740e26c04393fe261b52f&amp;dn=MELTY+BLOOD+TYPE+LUMINA&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "MELTY BLOOD TYPE LUMINA Build 24052024",
+      "uploadDate": "2025-04-11T11:21:02.000Z"
+    },
+    {
+      "fileSize": "6.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fb083367c1225722264961ad26e8d5e545d94de3&amp;dn=Trailmakers&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Trailmakers 233.510.856.0",
+      "uploadDate": "2026-05-12T14:51:27.000Z"
+    },
+    {
+      "fileSize": "1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:123a005de70ac4aef961d4e3218af74ba419dc1d&amp;dn=Circuit+Superstars&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Circuit Superstars Build 22092022",
+      "uploadDate": "2025-09-08T15:08:35.000Z"
+    },
+    {
+      "fileSize": "19.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:29d1412f9d053b79eb7f26fdbf72fbfadb93a455&amp;dn=Escape+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Escape Simulator v36344r",
+      "uploadDate": "2025-09-30T15:20:01.000Z"
+    },
+    {
+      "fileSize": "168.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d0cd1da7ddc17eb090d1f975d0b40da7818f0614&amp;dn=Forza+Horizon+5&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Forza Horizon 5 1.688.109.0",
+      "uploadDate": "2026-07-01T13:00:50.000Z"
+    },
+    {
+      "fileSize": "13.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1c38d8061ec7ac668524bb11e80be3e124c344da&amp;dn=PowerWash+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "PowerWash Simulator Build 04032025",
+      "uploadDate": "2025-04-10T15:45:00.000Z"
+    },
+    {
+      "fileSize": "2.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:05a72e47ecd59a0de41e84ccdb4de80f19638ee6&amp;dn=Motor+Town+Behind+The+Wheel&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Motor Town Behind The Wheel Build 17052025",
+      "uploadDate": "2025-06-05T22:02:57.000Z"
+    },
+    {
+      "fileSize": "39.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:e409ea29ef11e6f7772e443d13d4683990872fa6&amp;dn=Ready+or+Not&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Ready or Not Build 05052026",
+      "uploadDate": "2026-05-11T12:58:53.000Z"
+    },
+    {
+      "fileSize": "8.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f98146a8d77933e35c2a3047b2edfb5e0909c8a1&amp;dn=Tribes+of+Midgard&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Tribes of Midgard 5.01-21622",
+      "uploadDate": "2026-06-17T11:31:57.000Z"
+    },
+    {
+      "fileSize": "3.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2731391ba33e5a8b7f01b722606ee43205ec1394&amp;dn=Tetris+Effect+Connected&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Tetris Effect Connected 2.0.2",
+      "uploadDate": "2025-06-10T15:22:16.000Z"
+    },
+    {
+      "fileSize": "3.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c75f190fb17e43d00b23cd297a348afe30fa6660&amp;dn=Worms+Rumble&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Worms Rumble 2016.748356",
+      "uploadDate": "2025-09-08T15:38:02.000Z"
+    },
+    {
+      "fileSize": "486.4 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:331d874a6572a5e49ba95b1ab5cfa17c5e818bae&amp;dn=QUAKE&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "QUAKE Build 02122021",
+      "uploadDate": "2025-09-08T15:36:03.000Z"
+    },
+    {
+      "fileSize": "1.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:a52178ac9d5d3ff215de0b1b9a6d360df40656b1&amp;dn=Hidden+Deep&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Hidden Deep Build 11012026",
+      "uploadDate": "2026-04-24T13:30:01.000Z"
+    },
+    {
+      "fileSize": "16.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:26146611781e23cc78d711d577fe59ffcd70d569&amp;dn=BlazBlue+Centralfiction&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "BlazBlue Centralfiction Build 02062023",
+      "uploadDate": "2024-10-11T11:30:52.000Z"
+    },
+    {
+      "fileSize": "148.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b8c937d0fce72f66f5b842583ae4d3d672fec4da&amp;dn=Mortal+Kombat+11&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Mortal Kombat 11 4.0.47.0",
+      "uploadDate": "2025-11-06T15:11:41.000Z"
+    },
+    {
+      "fileSize": "11.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7f921741f1f9a9d2a8122e576e86e620997e746f&amp;dn=We+Were+Here+Forever&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "We Were Here Forever 1.2.3",
+      "uploadDate": "2025-10-17T00:03:35.000Z"
+    },
+    {
+      "fileSize": "889.9 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:6ccde4546f0370f859d2724d2927b79d151c2dcc&amp;dn=Ember+Knights&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Ember Knights 2.0.1.4519",
+      "uploadDate": "2024-10-25T13:48:10.000Z"
+    },
+    {
+      "fileSize": "5.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d98446fd57884aca9fc51ebe45a782c08dfb2cff&amp;dn=Emergency+Call+112+The+Fire+Fighting+Simulation+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Emergency Call 112 The Fire Fighting Simulation 2 1.2.17200b",
+      "uploadDate": "2024-10-10T12:34:43.000Z"
+    },
+    {
+      "fileSize": "69.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:46f2b8d0f171dcf744186bb0468547c209a8699b&amp;dn=Elden+Ring&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Elden Ring 1.16.2",
+      "uploadDate": "2026-06-17T10:48:09.000Z"
+    },
+    {
+      "fileSize": "9.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0403e9c825e084a8e8e35ce6cbda34ee401960d5&amp;dn=The+Anacrusis&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Anacrusis 4.1",
+      "uploadDate": "2025-09-08T15:36:55.000Z"
+    },
+    {
+      "fileSize": "15.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:522ccd11ae4a2609266be07f1f33dddec79cf9d9&amp;dn=Wargame+Red+Dragon&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Wargame Red Dragon Build 20042022",
+      "uploadDate": "2026-06-17T11:32:57.000Z"
+    },
+    {
+      "fileSize": "1.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:080fbe818742c9b5d8db40c85cb9aaaccb058942&amp;dn=Across+the+Obelisk&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Across the Obelisk 1.6.22",
+      "uploadDate": "2025-10-01T11:24:54.000Z"
+    },
+    {
+      "fileSize": "3.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:918fdd61f1cb9597d82e6bb53869e662592a9665&amp;dn=Longvinter&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Longvinter Build 27012026",
+      "uploadDate": "2026-04-03T13:43:22.000Z"
+    },
+    {
+      "fileSize": "8.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:742973195a4b4a5fec3977b996a7189a6abd5e70&amp;dn=Inside+the+Backrooms&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Inside the Backrooms 0.5.3",
+      "uploadDate": "2025-02-04T11:48:49.000Z"
+    },
+    {
+      "fileSize": "946.1 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:0857618fd88b3c2124f007e876a8309169a14480&amp;dn=Dinkum&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dinkum 1.0.7",
+      "uploadDate": "2025-11-06T15:25:10.000Z"
+    },
+    {
+      "fileSize": "399.7 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:8e011fd102b083ebca03cbdf910c4669278b5b00&amp;dn=Necesse&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Necesse Build 19102025",
+      "uploadDate": "2025-10-20T14:34:59.000Z"
+    },
+    {
+      "fileSize": "26 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fccb9f43043601bccca6e36c312aa6b3941d10cd&amp;dn=Escape+the+Backrooms&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Escape the Backrooms 1.3.2",
+      "uploadDate": "2026-07-21T11:51:34.000Z"
+    },
+    {
+      "fileSize": "101.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:dcd6691cdbcfaf9ee69165cdfb3c336a89f797e4&amp;dn=Dying+Light+2+Stay+Human&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dying Light 2 Stay Human 1.28.0c",
+      "uploadDate": "2026-06-16T13:36:02.000Z"
+    },
+    {
+      "fileSize": "31.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:55d6a29757955c1464d1ea3a66ab86c5b7cec739&amp;dn=Call+of+the+Wild+The+Angler&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Call of the Wild The Angler Build 28112024",
+      "uploadDate": "2025-09-12T10:56:45.000Z"
+    },
+    {
+      "fileSize": "658.5 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:36b56536933c131b8903e276f3cff069145b69cc&amp;dn=You+Suck+at+Parking&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "You Suck at Parking 1.3.8+53",
+      "uploadDate": "2025-09-08T15:38:39.000Z"
+    },
+    {
+      "fileSize": "72.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:a1a34abd98c0e4c09a7a21ef8ec111cbecce3afc&amp;dn=Mount+%26+Blade+II+Bannerlord&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Mount &amp; Blade II Bannerlord 1.3.15.110062",
+      "uploadDate": "2026-05-27T12:26:38.000Z"
+    },
+    {
+      "fileSize": "26.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:cbbe46fda13aa27dfd42a4814ed511387e55619e&amp;dn=Chivalry+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Chivalry 2 1.0.48.0",
+      "uploadDate": "2026-03-24T16:37:33.000Z"
+    },
+    {
+      "fileSize": "7.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:3e4803615477ad98b00d20d08a9ae07a2dd2236d&amp;dn=WolfQuest+Anniversary+Edition&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "WolfQuest Anniversary Edition 2.0.3d",
+      "uploadDate": "2025-08-25T11:48:21.000Z"
+    },
+    {
+      "fileSize": "8.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c6509565be1549a33d1635a63cf039ca01d7fe6d&amp;dn=Victoria+3&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Victoria 3 1.10.4",
+      "uploadDate": "2025-10-07T15:07:12.000Z"
+    },
+    {
+      "fileSize": "87.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1c144be28b69d95745773f8adfaf02ded2bb76b3&amp;dn=Warhammer+40000+Darktide&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Warhammer 40000 Darktide 1.12.6294.0",
+      "uploadDate": "2026-07-13T13:53:27.000Z"
+    },
+    {
+      "fileSize": "1.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:bed86faeb436b3dba953fec2f85cf24f79e63c61&amp;dn=Ship+of+Fools&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Ship of Fools 1.5.3",
+      "uploadDate": "2026-03-09T15:31:17.000Z"
+    },
+    {
+      "fileSize": "13.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:883ac1853a43a9de41b090bc23dc1c984f208022&amp;dn=Backrooms+Escape+Together&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Backrooms Escape Together Build 06012026",
+      "uploadDate": "2026-06-08T10:38:20.000Z"
+    },
+    {
+      "fileSize": "5.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8d785c3834b9f37e4f5a4dc4949daa454bd8e5ca&amp;dn=Goat+Simulator+3&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Goat Simulator 3 1.1.2.0.383035",
+      "uploadDate": "2024-12-23T12:18:23.000Z"
+    },
+    {
+      "fileSize": "3.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:3fe3b6e0092cbb59bf1af56629b51bc1a809d325&amp;dn=Teardown&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Teardown Build 12032026",
+      "uploadDate": "2026-03-16T13:52:05.000Z"
+    },
+    {
+      "fileSize": "52 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:954369592fbda065860b9c7648a759da8c112bd4&amp;dn=Returnal&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Returnal 1.3.195864",
+      "uploadDate": "2026-06-17T11:26:55.000Z"
+    },
+    {
+      "fileSize": "21.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7dba3339d484befea041a25b3f7993c8f596bf7b&amp;dn=SCP+5K&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "SCP 5K 0.17.1.64",
+      "uploadDate": "2026-02-25T15:36:50.000Z"
+    },
+    {
+      "fileSize": "10.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1ad4c446a54f906052ba8530172ea50c9d33b747&amp;dn=Paranormal+Cleanup&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Paranormal Cleanup 1.4.3b",
+      "uploadDate": "2025-11-13T15:10:31.000Z"
+    },
+    {
+      "fileSize": "23.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:df8853a36c824493faa0223f53cbac800a79f58f&amp;dn=Age+of+Wonders+4&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Age of Wonders 4 1.014.005.120707",
+      "uploadDate": "2026-04-16T12:58:03.000Z"
+    },
+    {
+      "fileSize": "12.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2cb6f1800aa86ca50b50f6b7f15d5904019d4df5&amp;dn=Midnight+Ghost+Hunt&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Midnight Ghost Hunt 1.6.4",
+      "uploadDate": "2025-10-22T17:37:45.000Z"
+    },
+    {
+      "fileSize": "8.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:a5eb54eb683748a9bd951338fa7c39a66017cda9&amp;dn=For+The+King+II&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "For The King II 0.0.95.0",
+      "uploadDate": "2026-05-21T15:51:04.000Z"
+    },
+    {
+      "fileSize": "29.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:3bf4fac4abafd47fb6ba997c27a7a7f891b3a95f&amp;dn=Demonologist&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Demonologist Build 13022026",
+      "uploadDate": "2026-03-02T16:30:27.000Z"
+    },
+    {
+      "fileSize": "12.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d38585c9774fb03224eb56c85c90b094c8de73df&amp;dn=Smalland+Survive+the+Wilds&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Smalland Survive the Wilds Build 26082025",
+      "uploadDate": "2025-09-02T12:15:50.000Z"
+    },
+    {
+      "fileSize": "20.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:77ff12c22bfc2c9c9addc022ea8a4e606af58439&amp;dn=Six+Days+in+Fallujah&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Six Days in Fallujah Build 25022026",
+      "uploadDate": "2026-03-23T13:13:36.000Z"
+    },
+    {
+      "fileSize": "265 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:44e83750742f6e7f5634259da47e5dd13c2644bd&amp;dn=Mars+First+Logistics&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Mars First Logistics 202509271553",
+      "uploadDate": "2025-10-02T11:18:58.000Z"
+    },
+    {
+      "fileSize": "46.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:682d99240213b9afbc66e9b48b435e393856c999&amp;dn=ICARUS&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "ICARUS Build 17072026",
+      "uploadDate": "2026-07-21T12:53:32.000Z"
+    },
+    {
+      "fileSize": "29.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d1fc111702156b07f8118545cf23a1bd04999944&amp;dn=GUILTY+GEAR+STRIVE&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "GUILTY GEAR STRIVE 1.3.5.0",
+      "uploadDate": "2026-07-07T13:17:37.000Z"
+    },
+    {
+      "fileSize": "63.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:55b3687e0d9cd5e3106a22c4c8822c277df05a9e&amp;dn=Dead+Island+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dead Island 2 7.0.0.1243375",
+      "uploadDate": "2025-10-23T16:48:29.000Z"
+    },
+    {
+      "fileSize": "4.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:bb76fdcd77b3c949c82aeddae073ed5956d00e69&amp;dn=My+Garage&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "My Garage 0.9016",
+      "uploadDate": "2026-02-23T09:11:03.000Z"
+    },
+    {
+      "fileSize": "37.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2af96a0eca23e877cef77fcfe2f66d12f99456c4&amp;dn=The+Texas+Chain+Saw+Massacre&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Texas Chain Saw Massacre 1.0.48.0",
+      "uploadDate": "2026-07-02T14:35:21.000Z"
+    },
+    {
+      "fileSize": "28.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:134dc47e76569543a63f8d950ed8d676cd9c15ec&amp;dn=OPERATOR&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "OPERATOR Build 08012026",
+      "uploadDate": "2026-03-25T16:48:13.000Z"
+    },
+    {
+      "fileSize": "23.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:4a6a0ff6658e9903779eae33c23919fb73fbba0a&amp;dn=HumanitZ&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "HumanitZ 1.01.A",
+      "uploadDate": "2026-02-16T11:16:20.000Z"
+    },
+    {
+      "fileSize": "3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:89d2e030a0d37ba73b8276a46f20d9daaadc827a&amp;dn=Void+Crew&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Void Crew 1.2.1.1001161229",
+      "uploadDate": "2025-10-22T17:42:13.000Z"
+    },
+    {
+      "fileSize": "51.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:80573c6475bfdb8c442daea9c2ebb2528bf35ab4&amp;dn=PAYDAY+3&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "PAYDAY 3 1.0.0.0.965392",
+      "uploadDate": "2026-07-15T11:41:09.000Z"
+    },
+    {
+      "fileSize": "686.2 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:dca19b19e3b66c7a68281b7af4b839eee8160c0a&amp;dn=Lethal+Company&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Lethal Company 81",
+      "uploadDate": "2026-04-07T13:02:44.000Z"
+    },
+    {
+      "fileSize": "17.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:e10f14b7d39206e8ecee4c76ffee5a39cb9e887a&amp;dn=The+Lord+of+the+Rings+Return+to+Moria&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Lord of the Rings Return to Moria 1.6.4.217558",
+      "uploadDate": "2025-11-25T13:37:51.000Z"
+    },
+    {
+      "fileSize": "8.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8eb2fec5ea340c307e0587a02ad1adb93b04c8c0&amp;dn=Hellsweeper+VR&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Hellsweeper VR Build 20299997",
+      "uploadDate": "2025-11-10T11:53:41.000Z"
+    },
+    {
+      "fileSize": "165.3 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:799866c058b8b62f22b7a844fd25f189fd097de9&amp;dn=Bopl+Battle&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Bopl Battle 2.5.1",
+      "uploadDate": "2026-05-12T14:43:41.000Z"
+    },
+    {
+      "fileSize": "29.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2e57c4c375bcc61689fe23b227fa0475e74d7644&amp;dn=NARUTO+X+BORUTO+Ultimate+Ninja+STORM+CONNECTIONS&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS 1.60",
+      "uploadDate": "2025-10-15T16:36:49.000Z"
+    },
+    {
+      "fileSize": "3.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d83e0962532dc3f5d62569d8bc0db0713843b429&amp;dn=Railroader&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Railroader Build 03102025",
+      "uploadDate": "2026-03-06T13:36:37.000Z"
+    },
+    {
+      "fileSize": "11.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c06ea28285d18fd21510a97d785ea7989ce9efdc&amp;dn=LEGO+2K+Drive&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "LEGO 2K Drive 3169716",
+      "uploadDate": "2026-02-25T15:33:27.000Z"
+    },
+    {
+      "fileSize": "1.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:47f37bb8b610281a811bc0d9486236aeb9394c7a&amp;dn=Oxygen+Not+Included&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Oxygen Not Included Build 07072026",
+      "uploadDate": "2026-07-13T13:39:19.000Z"
+    },
+    {
+      "fileSize": "16 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6853c4b867794a18736af566728a42d199176727&amp;dn=Wartales&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Wartales 1.0.42273.0",
+      "uploadDate": "2026-05-25T13:18:19.000Z"
+    },
+    {
+      "fileSize": "36.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0b37c28ba2164245a342b911bbe9d58d89ec8d23&amp;dn=Warhammer+40+000+Rogue+Trader&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Warhammer 40 000 Rogue Trader 1.6.1.495",
+      "uploadDate": "2026-07-07T13:45:49.000Z"
+    },
+    {
+      "fileSize": "1.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:79fa5a38f41ea1ab01b6fd1200fd888ded5c44d1&amp;dn=Clone+Drone+in+the+Danger+Zone&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Clone Drone in the Danger Zone 1.9.0.114",
+      "uploadDate": "2026-05-12T14:44:05.000Z"
+    },
+    {
+      "fileSize": "3.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:44a1fe55bc0d33dd7fa5e62f5975fd6a6cac95a7&amp;dn=We+Were+Here+Expeditions+The+FriendShip&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "We Were Here Expeditions The FriendShip 1.0.3",
+      "uploadDate": "2026-03-18T15:13:52.000Z"
+    },
+    {
+      "fileSize": "4.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:721c628b2d96ddac2c38a6054ace87337bdcc5ce&amp;dn=UNDER+NIGHT+IN-BIRTH+II+Sys+Celes&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "UNDER NIGHT IN-BIRTH II Sys Celes Build 24122025",
+      "uploadDate": "2026-05-18T16:47:37.000Z"
+    },
+    {
+      "fileSize": "29.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:5e3ce20887bde52bb35171d998c86d02a047027a&amp;dn=Enshrouded&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Enshrouded Build 11052026",
+      "uploadDate": "2026-05-25T13:04:13.000Z"
+    },
+    {
+      "fileSize": "3.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8445c0c30be3e3c47b5f40b05508a0a7c8df2f74&amp;dn=Kebab+Chefs!+Restaurant+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Kebab Chefs! Restaurant Simulator Build 04072026",
+      "uploadDate": "2026-07-21T13:08:18.000Z"
+    },
+    {
+      "fileSize": "1.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fba223a67bc16c2cd4017150e09c17d926453325&amp;dn=Nuclear+Option&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Nuclear Option Build 03052026",
+      "uploadDate": "2026-05-21T15:54:08.000Z"
+    },
+    {
+      "fileSize": "457.4 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:80b37044b0b919a006aebc3ec9cf54db84bc859e&amp;dn=My+Summer+Car&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "My Summer Car Build 29092025Версия модификации: 0.2.13Версия Launcher: 1.1.9.2",
+      "uploadDate": "2025-11-03T14:05:10.000Z"
+    },
+    {
+      "fileSize": "32 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:4139fbc7c1332bf1abaa7c9f972f085ab4a6dadb&amp;dn=Palworld&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Palworld 1.0.2.101103",
+      "uploadDate": "2026-08-04T10:55:52.000Z"
+    },
+    {
+      "fileSize": "11.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ea757cd33bc0aa26ce126308652246821828327b&amp;dn=Sons+Of+The+Forest&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Sons Of The Forest Build 03102025",
+      "uploadDate": "2025-11-18T13:12:46.000Z"
+    },
+    {
+      "fileSize": "3.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ccc9483b046c7dc99672be0ced0f5f3104d308e2&amp;dn=Godsworn&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Godsworn 0.3.23241409",
+      "uploadDate": "2026-04-27T12:48:06.000Z"
+    },
+    {
+      "fileSize": "1.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2d72c1a28ea6453a40a290f707936463c9b52580&amp;dn=Microsoft+Flight+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Microsoft Flight Simulator 1.39.12.0",
+      "uploadDate": "2026-07-20T13:20:32.000Z"
+    },
+    {
+      "fileSize": "3.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:a07bd175728a38e334e9b878a0f57fbb1f29f19c&amp;dn=Lightyear+Frontier&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Lightyear Frontier 0.8.2139",
+      "uploadDate": "2026-03-18T15:12:58.000Z"
+    },
+    {
+      "fileSize": "22.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:9a8444678c9c6a05bd66048f41907ead367de565&amp;dn=Bellwright&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Bellwright Build 16022026",
+      "uploadDate": "2026-02-19T08:43:48.000Z"
+    },
+    {
+      "fileSize": "63.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b3ba01910d7054395b2cfb9562974a515210f003&amp;dn=Ghost+of+Tsushima+DIRECTORS+CUT&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Ghost of Tsushima DIRECTORS CUT Build 16122025",
+      "uploadDate": "2026-03-20T14:21:51.000Z"
+    },
+    {
+      "fileSize": "618.8 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:2e7cc4484ba544327742d7466555a7c59f959a57&amp;dn=Rabbit+and+Steel&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Rabbit and Steel Build 02032026",
+      "uploadDate": "2026-03-04T14:00:48.000Z"
+    },
+    {
+      "fileSize": "2.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:bf1ce659ddf8216c6f78047a56e6481ddfe17dcd&amp;dn=Abiotic+Factor&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Abiotic Factor 1.4.0.27939",
+      "uploadDate": "2026-07-23T10:23:45.000Z"
+    },
+    {
+      "fileSize": "1.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:56625acf869b675a851a0f8c5b6f15231de60297&amp;dn=Rotwood&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Rotwood 716224",
+      "uploadDate": "2026-03-06T13:37:12.000Z"
+    },
+    {
+      "fileSize": "39.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:058081177070be76d2bab779965fbb9032294174&amp;dn=Bodycam&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Bodycam Build 28112025",
+      "uploadDate": "2025-12-03T12:28:12.000Z"
+    },
+    {
+      "fileSize": "22.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:90d64882b785af465c264f421dea7aa8f314cf52&amp;dn=Soulmask&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Soulmask 1.0.1",
+      "uploadDate": "2026-04-13T13:40:49.000Z"
+    },
+    {
+      "fileSize": "15.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:36dad37920dd5c508e02e9a11a7eac8aa0e78f4b&amp;dn=PANICORE&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "PANICORE 1.3.1",
+      "uploadDate": "2026-02-05T23:53:45.000Z"
+    },
+    {
+      "fileSize": "2.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:304916e637c1fa1a6da25202e443b3fb372f083e&amp;dn=Lost+Castle+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Lost Castle 2 1.0.0.7",
+      "uploadDate": "2026-06-17T11:25:27.000Z"
+    },
+    {
+      "fileSize": "12.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1532477e28f01ab2ea19b777b1e7fbf4c677a547&amp;dn=Project+Unknown&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Project Unknown 1.0.3.7894",
+      "uploadDate": "2025-11-07T14:31:13.000Z"
+    },
+    {
+      "fileSize": "12.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0b6a184fe1cf4f09ae692e8eb4c5955d06a010e5&amp;dn=Satisfactory&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Satisfactory Build 24062026",
+      "uploadDate": "2026-07-22T11:37:36.000Z"
+    },
+    {
+      "fileSize": "528.7 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:0f34edee7811bb58ea00fc2ec3b52ad9629a5ce0&amp;dn=Core+Keeper&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Core Keeper 1.2.1.3",
+      "uploadDate": "2026-05-25T13:03:23.000Z"
+    },
+    {
+      "fileSize": "17.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:58d6b4f5cb0a5a60f7ce3cb8e941ef1de02dad03&amp;dn=Into+the+Radius+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Into the Radius 2 Build 06052026",
+      "uploadDate": "2026-05-26T10:17:03.000Z"
+    },
+    {
+      "fileSize": "4.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:842a434719ab9e0e8d3af61c7ce8c17e2ce68b67&amp;dn=PARANOIA+PLACE&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "PARANOIA PLACE 1.05",
+      "uploadDate": "2026-01-28T11:31:50.000Z"
+    },
+    {
+      "fileSize": "2.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:a2133b1886cf91cfe36760dad91dd2151f296d5c&amp;dn=LOCKDOWN+Protocol&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "LOCKDOWN Protocol Build 16122025",
+      "uploadDate": "2026-03-05T11:20:42.000Z"
+    },
+    {
+      "fileSize": "34.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ccd418c78ccf7a8d7196467fa5a2715dae9b4d2a&amp;dn=DRAGON+BALL+Sparking!+ZERO&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "DRAGON BALL Sparking! ZERO Build 29072026",
+      "uploadDate": "2026-08-10T12:40:58.000Z"
+    },
+    {
+      "fileSize": "1001.9 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:2f80772ad20f0c34daaeb5cd81e83c38a3b83489&amp;dn=The+Spell+Brigade&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "The Spell Brigade 1.0.2.16727",
+      "uploadDate": "2026-05-14T22:50:32.000Z"
+    },
+    {
+      "fileSize": "1.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2734bb21eb5d44c2e011662ecd3b27aa6b5eb9dc&amp;dn=Unrailed+2+Back+on+Track&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Unrailed 2 Back on Track Build 13072026",
+      "uploadDate": "2026-07-23T10:24:42.000Z"
+    },
+    {
+      "fileSize": "33.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:bc576b75e8c812538ac65b0ee2ab4d28060a5c37&amp;dn=Farming+Simulator+25&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Farming Simulator 25 1.20.0.0",
+      "uploadDate": "2026-07-24T13:58:57.000Z"
+    },
+    {
+      "fileSize": "14.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:dc695b23fa8bbe12d755e6f6cad9728f622c98c0&amp;dn=House+Flipper+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "House Flipper 2 Build 02072026",
+      "uploadDate": "2026-07-08T11:07:16.000Z"
+    },
+    {
+      "fileSize": "3.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:8e3cf851693446fda3cbb54b7f4726dcadbd97b0&amp;dn=Dark+Hours&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dark Hours 1.0.25170",
+      "uploadDate": "2026-03-17T18:10:37.000Z"
+    },
+    {
+      "fileSize": "2.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:e4267efee8b254dfaf7df2ad87ad54b2e617ffef&amp;dn=Windblown&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Windblown 0.9.4.2.a7007c8f",
+      "uploadDate": "2026-05-27T12:48:03.000Z"
+    },
+    {
+      "fileSize": "115.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ca1f82d32e9eba067c4f99eedd12425db70566b1&amp;dn=MechWarrior+5+Clans&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "MechWarrior 5 Clans 1.0.132",
+      "uploadDate": "2026-01-16T13:45:04.000Z"
+    },
+    {
+      "fileSize": "8.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:52b130f0cc3a2675f6c27ec83ae046730115a812&amp;dn=ICBM+Escalation&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "ICBM Escalation 1.1.3",
+      "uploadDate": "2026-06-10T14:11:43.000Z"
+    },
+    {
+      "fileSize": "1.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ec845d55148c1dde85900470173d71a28fce6193&amp;dn=Temtem+Swarm&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Temtem Swarm 1.0.6",
+      "uploadDate": "2026-04-22T13:41:10.000Z"
+    },
+    {
+      "fileSize": "1.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7c10203d632da70c928797771890d835b98c51b1&amp;dn=KLETKA&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "KLETKA 1.0.4",
+      "uploadDate": "2026-02-23T09:09:59.000Z"
+    },
+    {
+      "fileSize": "632.3 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:2e8996710a6eda731a1b17492f1e9e15b08dab46&amp;dn=R.E.P.O&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "R.E.P.O 0.4.4.3",
+      "uploadDate": "2026-06-15T14:10:17.000Z"
+    },
+    {
+      "fileSize": "534.2 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:28b0fd9798c158e1b67a938046866dc12e878eb0&amp;dn=Nine-Ball+Roulette&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Nine-Ball Roulette 1.1.5",
+      "uploadDate": "2026-05-13T14:17:12.000Z"
+    },
+    {
+      "fileSize": "2.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:58ac8537b884c759acb6e2d82e4cc178a4dfa9f3&amp;dn=33+Immortals&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "33 Immortals 1.0.0.13772",
+      "uploadDate": "2026-06-15T13:50:01.000Z"
+    },
+    {
+      "fileSize": "15.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:5ad538ff151e7e836467dc0033d37c2de5bb7038&amp;dn=Drive+Beyond+Horizons&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Drive Beyond Horizons Build 31032026",
+      "uploadDate": "2026-04-22T13:39:41.000Z"
+    },
+    {
+      "fileSize": "2.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:561382931b9250f0948b22e221446b60fab342eb&amp;dn=Schedule+I&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Schedule I 0.4.5f2",
+      "uploadDate": "2026-05-18T16:39:27.000Z"
+    },
+    {
+      "fileSize": "11.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fcecfd114118235eb253bec7e55f214b1f162314&amp;dn=Lost+Skies&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Lost Skies 0.1.227.53308",
+      "uploadDate": "2026-01-22T21:15:16.000Z"
+    },
+    {
+      "fileSize": "2.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b418cb0d0a90137132e4f9df8e041c405cd223db&amp;dn=Darkwater&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Darkwater 1.0.00",
+      "uploadDate": "2026-04-02T13:12:52.000Z"
+    },
+    {
+      "fileSize": "39.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:29a2ff67de0ef8c6f879ca0f95ae2fe1a0a7b147&amp;dn=FATAL+FURY+City+of+the+Wolves&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "FATAL FURY City of the Wolves 2.0.3.142636",
+      "uploadDate": "2026-05-21T15:38:34.000Z"
+    },
+    {
+      "fileSize": "6.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:533bc956ddb7b40bc56b057db790898968824855&amp;dn=DARK+SOULS+REMASTERED&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "DARK SOULS REMASTERED 1.03.1",
+      "uploadDate": "2025-12-17T23:34:20.000Z"
+    },
+    {
+      "fileSize": "6.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ce88d389ccb370eec65c7338a00fbe9fc8db2011&amp;dn=Neighbors+Suburban+Warfare&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Neighbors Suburban Warfare 0.9.5.68",
+      "uploadDate": "2026-02-25T15:35:52.000Z"
+    },
+    {
+      "fileSize": "18.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:e7eb94a4107f1a4317afd49ffe90405f11f5010f&amp;dn=RuneScape+Dragonwilds&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "RuneScape Dragonwilds 0.12.0.8",
+      "uploadDate": "2026-07-08T11:34:01.000Z"
+    },
+    {
+      "fileSize": "1.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:eb9d2c9f734389c245f7c625b6903378e9083a58&amp;dn=Another+Try+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Another Try 2 0.0.2.1",
+      "uploadDate": "2026-03-12T18:19:17.000Z"
+    },
+    {
+      "fileSize": "257.5 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:bab02d94e45af7cf3c3f82fe789d32921e3dfaa8&amp;dn=Sephiria&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Sephiria 1.0.23",
+      "uploadDate": "2026-08-05T16:30:11.000Z"
+    },
+    {
+      "fileSize": "27 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7728dd4b38b6996d3bc4e109829d6eb9748c894d&amp;dn=ELDEN+RING+NIGHTREIGN&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "ELDEN RING NIGHTREIGN 1.03.3",
+      "uploadDate": "2026-07-07T13:08:38.000Z"
+    },
+    {
+      "fileSize": "10.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:455159dc92d51e7c2972e40d7f2e1439199fb535&amp;dn=Stronghold+Crusader+Definitive+Edition&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Stronghold Crusader Definitive Edition 2.7.1",
+      "uploadDate": "2026-05-25T13:15:16.000Z"
+    },
+    {
+      "fileSize": "8.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b4a7c91a802766c9488e9b2d82921fee5991f0df&amp;dn=Crime+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Crime Simulator 1.42a",
+      "uploadDate": "2026-04-09T15:48:11.000Z"
+    },
+    {
+      "fileSize": "1.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:87ff54d997f80f3b7bfb466e5e6bf4761ebd3d80&amp;dn=PEAK&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "PEAK 1.64.a",
+      "uploadDate": "2026-07-21T13:12:09.000Z"
+    },
+    {
+      "fileSize": "55.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:cd09a4cddeea50b61eb467f331f0fe6201cd30e8&amp;dn=SCUM&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "SCUM 1.2.1.1.106289",
+      "uploadDate": "2026-03-05T11:24:47.000Z"
+    },
+    {
+      "fileSize": "150.6 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:ded581e5f868de0e5d5be361519612b18a84519b&amp;dn=A+Few+Quick+Matches&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "A Few Quick Matches Build 26112025",
+      "uploadDate": "2025-12-09T23:18:32.000Z"
+    },
+    {
+      "fileSize": "5.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:095ddccafbf4f42bb66054fbb5995024ce179923&amp;dn=GONE+Fishing&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "GONE Fishing 6.3.2",
+      "uploadDate": "2026-03-11T17:10:53.000Z"
+    },
+    {
+      "fileSize": "17.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c8392b4a9ac6fa16d20c1bce612e0d07faba94a7&amp;dn=Grounded+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Grounded 2 0.4.0.2.2673661",
+      "uploadDate": "2026-05-07T11:44:45.000Z"
+    },
+    {
+      "fileSize": "5.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fc20cf2e631167e1de622cc15c6c75eeca67a0a8&amp;dn=Abyssus&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Abyssus 1.3.62055",
+      "uploadDate": "2026-07-15T10:47:36.000Z"
+    },
+    {
+      "fileSize": "26.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:9e97b4a03d237ece3e8c05657a547de39ef578fb&amp;dn=MotoGP+25&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "MotoGP 25 Build 09032026",
+      "uploadDate": "2026-04-15T09:43:20.000Z"
+    },
+    {
+      "fileSize": "1.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:994aa3f192d8e1bb8cf615ea9b36f95ca8c894c0&amp;dn=Ratatan&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Ratatan 0.7.14",
+      "uploadDate": "2026-07-14T12:33:31.000Z"
+    },
+    {
+      "fileSize": "3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:76e131ed44969371746869a8580d4d7b201a777f&amp;dn=SWORN&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "SWORN 1.1.3.0.1183",
+      "uploadDate": "2026-02-25T15:39:04.000Z"
+    },
+    {
+      "fileSize": "65.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:cec3a27e9f6c035475ce77075ddfcc5be9e6ad23&amp;dn=Dying+Light+The+Beast+Restored+Land&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Dying Light The Beast Restored Land 1.6.3c",
+      "uploadDate": "2026-04-24T13:25:13.000Z"
+    },
+    {
+      "fileSize": "1.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6ac6cf6bf8769a1915e4ae4c194231706c089662&amp;dn=A+Gentlemen's+Dispute&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "A Gentlemen's Dispute Build 17022026",
+      "uploadDate": "2026-02-25T15:31:21.000Z"
+    },
+    {
+      "fileSize": "10.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f0ee339bb44a93700ec2d08129da53b0995f766b&amp;dn=Jump+Space&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Jump Space 0.6.13.158",
+      "uploadDate": "2026-04-10T15:48:45.000Z"
+    },
+    {
+      "fileSize": "6.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:53903b761c0cb3cbad0c9d9a40e15722917002c3&amp;dn=Shape+of+Dreams&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Shape of Dreams Build 17032026",
+      "uploadDate": "2026-03-17T18:11:38.000Z"
+    },
+    {
+      "fileSize": "9.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d69c12f396f4af3422ec8aaccd9ffa73c4a91d67&amp;dn=Voyagers+of+Nera&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Voyagers of Nera 0.16.12.44294",
+      "uploadDate": "2026-05-19T12:15:17.000Z"
+    },
+    {
+      "fileSize": "1.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:296b3207923a010bf4f3997adfe082ec6b311d72&amp;dn=Supermarket+Simulator&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Supermarket Simulator 1.28.186",
+      "uploadDate": "2026-04-29T11:03:56.000Z"
+    },
+    {
+      "fileSize": "4.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:870eee8bb5a7db015da903946d6de78d0b2e5dbb&amp;dn=Species+Unknown&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Species Unknown 0.22.4",
+      "uploadDate": "2026-06-11T15:36:19.000Z"
+    },
+    {
+      "fileSize": "8.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b96004edaf9503835033ffd34150ac99fa47a43e&amp;dn=Europa+Universalis+V&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Europa Universalis V 1.2.5",
+      "uploadDate": "2026-06-11T15:22:05.000Z"
+    },
+    {
+      "fileSize": "1.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:2f4a766228b607b70bddd25bf3db0403fe52608d&amp;dn=MIMESIS&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "MIMESIS 0.3.1",
+      "uploadDate": "2026-08-06T13:10:47.000Z"
+    },
+    {
+      "fileSize": "1.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:81f2ff4f024a754cc9eb552a15da07bee272fcdd&amp;dn=RV+There+Yet&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "RV There Yet 1.2.17120",
+      "uploadDate": "2026-04-08T08:18:43.000Z"
+    },
+    {
+      "fileSize": "2.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:eb8327365a0c1a7564424d2d8a3352b1724c3777&amp;dn=MISERY&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "MISERY Build 23052026",
+      "uploadDate": "2026-05-26T10:14:17.000Z"
+    },
+    {
+      "fileSize": "16.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b94feded8814d43e750eddcd831e136f9578bf38&amp;dn=Restaurats&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Restaurats 0.19.1.16",
+      "uploadDate": "2025-12-17T23:38:37.000Z"
+    },
+    {
+      "fileSize": "43.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d2497dc3c2505da83226abcc95731fa7946acb51&amp;dn=NASCAR+25&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "NASCAR 25 Build 11032026",
+      "uploadDate": "2026-03-20T14:29:22.000Z"
+    },
+    {
+      "fileSize": "58.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0aef509a9adcf22a1883c7edc4d7647821e3b2e9&amp;dn=INAZUMA+ELEVEN+Victory+Road&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "INAZUMA ELEVEN Victory Road 7.1.2",
+      "uploadDate": "2026-08-10T12:49:46.000Z"
+    },
+    {
+      "fileSize": "20.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ea6ad659d202ea47d92274b338784cd8d7f01d6a&amp;dn=Voidtrain&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Voidtrain 1.05",
+      "uploadDate": "2026-03-10T10:56:26.000Z"
+    },
+    {
+      "fileSize": "16.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:17d17accdf61cf20eeb65d792cd4aaa84a5e4413&amp;dn=Cloudheim&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Cloudheim Build 02062026",
+      "uploadDate": "2026-06-03T11:15:10.000Z"
+    },
+    {
+      "fileSize": "7.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:fb341fc090ad1452ba573203726a0fe63d6a0e0d&amp;dn=CRYO&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "CRYO Build 17032026",
+      "uploadDate": "2026-03-26T09:59:05.000Z"
+    },
+    {
+      "fileSize": "1.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d8d9a5ab40a1d18066c15411b5aaac5c613f2ad2&amp;dn=Hytale&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Hytale 0.5.2",
+      "uploadDate": "2026-05-28T14:46:27.000Z"
+    },
+    {
+      "fileSize": "143.5 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:d611e6128901066f52eecffdf1bb9460aa1f048b&amp;dn=Scam+Line&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Scam Line Build 23042026",
+      "uploadDate": "2026-04-03T13:43:48.000Z"
+    },
+    {
+      "fileSize": "2.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:99df3bd13d53b49308bf560350901a000db9d3de&amp;dn=LORT&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "LORT 0.7.2",
+      "uploadDate": "2026-04-16T13:01:30.000Z"
+    },
+    {
+      "fileSize": "12.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:874aa7b089e82a3c0fd4c04d0df7840ee3f12b80&amp;dn=StarRupture&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "StarRupture 0.2.0.118258-S",
+      "uploadDate": "2026-04-15T09:45:54.000Z"
+    },
+    {
+      "fileSize": "1.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:37620e51188dc1ecebdfff9859f47d697438c3c6&amp;dn=Super+Battle+Golf&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Super Battle Golf 1.2.1-593",
+      "uploadDate": "2026-07-28T12:04:12.000Z"
+    },
+    {
+      "fileSize": "12.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:a4c55eca0d7257f5a30e951703980c61fb438e8f&amp;dn=REANIMAL&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "REANIMAL Build 24042026",
+      "uploadDate": "2026-05-14T22:49:21.000Z"
+    },
+    {
+      "fileSize": "2.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0b1da64278458687f59ace93e5e252fae891d219&amp;dn=Car+Service+Together&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Car Service Together 0.986F92",
+      "uploadDate": "2026-07-02T14:31:12.000Z"
+    },
+    {
+      "fileSize": "85.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1908864660caab2e51237214c73b005075658ae2&amp;dn=Nioh+3&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Nioh 3 1.05.00",
+      "uploadDate": "2026-04-30T14:09:37.000Z"
+    },
+    {
+      "fileSize": "1.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1de63efa92db29803944969b389c4f711d950562&amp;dn=Slay+the+Spire+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Slay the Spire 2 0.107.1",
+      "uploadDate": "2026-07-02T14:34:32.000Z"
+    },
+    {
+      "fileSize": "494.1 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:b42654ac4c333041e8fc7e60329133f087fa5253&amp;dn=Walk+of+Life&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Walk of Life 1.0.2",
+      "uploadDate": "2026-05-13T14:17:39.000Z"
+    },
+    {
+      "fileSize": "97.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7a827478b735b9bc145206d5bc3ffdcc6cbe398d&amp;dn=Cricket+26+The+Official+Game+of+the+Ashes&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Cricket 26 The Official Game of the Ashes 1.0.3215",
+      "uploadDate": "2026-07-09T15:09:20.000Z"
+    },
+    {
+      "fileSize": "1.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:79dd333996b323cb11d367f8a149f6908d2f7127&amp;dn=Mall+Rivals&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Mall Rivals 0.4.2.005",
+      "uploadDate": "2026-07-24T14:03:48.000Z"
+    },
+    {
+      "fileSize": "5.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:d8a24ebaf58e414a059065c86bfcbf71a2d75293&amp;dn=Subnautica+Below+Zero&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Subnautica Below Zero Build 03102025 Версия модификации: 3.0.1",
+      "uploadDate": "2026-06-02T12:53:47.000Z"
+    },
+    {
+      "fileSize": "2.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f902cb44eee01204f68081603d827e5220c6a9dd&amp;dn=Heroes+of+Might+and+Magic+Olden+Era&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Heroes of Might and Magic Olden Era 0.80.20.0",
+      "uploadDate": "2026-06-10T14:10:47.000Z"
+    },
+    {
+      "fileSize": "28.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ac6494f3c65b8974ef5fa3d592f9e40cd26ab7f6&amp;dn=MotoGP+26&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "MotoGP 26 Build 25052026",
+      "uploadDate": "2026-06-11T15:25:21.000Z"
+    },
+    {
+      "fileSize": "5.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:ca75aaa77610dbdf1e3d6cce57e70823207bf617&amp;dn=Far+Far+West&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Far Far West 0.1.1.18",
+      "uploadDate": "2026-07-02T14:32:36.000Z"
+    },
+    {
+      "fileSize": "9.6 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f9e73708c59e7e1d22c5ad3f2aff792552bae2f4&amp;dn=Windrose&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Windrose 0.10.0.8.10.dd411cfd",
+      "uploadDate": "2026-07-24T14:07:50.000Z"
+    },
+    {
+      "fileSize": "166 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:13fd47bd131bfd7456ea14b172404ebdd6571ac3&amp;dn=Forza+Horizon+6&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Forza Horizon 6 403.798",
+      "uploadDate": "2026-07-21T11:58:45.000Z"
+    },
+    {
+      "fileSize": "3.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:b25f50ca6e7e88730b34b47713632ae0ee8f8cfd&amp;dn=Deep+Rock+Galactic+Rogue+Core&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Deep Rock Galactic Rogue Core 0.4.147630.0",
+      "uploadDate": "2026-07-28T11:59:07.000Z"
+    },
+    {
+      "fileSize": "2.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:c89bb3882c162f52b3affb4c1866f6113325b7f9&amp;dn=Meccha+Chameleon&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Meccha Chameleon 3.3.1",
+      "uploadDate": "2026-07-28T12:00:25.000Z"
+    },
+    {
       "fileSize": "4.2 GB",
       "uris": [
         "magnet:?xt=urn:btih:bf3b1e8a9156d1cfb5939a39d623a4ea8b6af27d&amp;dn=Grain+Rot&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
