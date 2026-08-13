@@ -1,52 +1,44 @@
 {
-  "last_update": "2026-08-13T05:52:08+00:00",
+  "last_update": "2026-08-13T09:48:48+00:00",
   "hero": [
     {
       "title": "",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1786600309",
+      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1786614518",
       "url": "https://www.instant-gaming.com/en/l/2kpublishersale"
     }
   ],
   "trending": [
     {
-      "title": "DragonSword : Awakening - PC (Steam)",
-      "price": "$21.81",
-      "discount": "-27%",
-      "image": "https://gaming-cdn.com/images/products/22405/380x218/dragonsword-awakening-pc-steam-cover.jpg?v=1786597200",
-      "url": "https://www.instant-gaming.com/en/22405-buy-dragonsword-awakening-pc-steam/",
-      "release": null
-    },
-    {
       "title": "MARVEL Tōkon: Fighting Souls - PC (Steam)",
       "price": "$50.78",
       "discount": "-15%",
-      "image": "https://gaming-cdn.com/images/products/22521/380x218/marvel-tokon-fighting-souls-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/22521/380x218/marvel-tokon-fighting-souls-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/22521-buy-marvel-tokon-fighting-souls-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Shift At Midnight - PC (Steam)",
-      "price": "$9.45",
-      "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786597200",
-      "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
       "release": null
     },
     {
       "title": "The Mound: Omen of Cthulhu - Deluxe Edition - PC (Steam)",
       "price": "$24.23",
       "discount": "-39%",
-      "image": "https://gaming-cdn.com/images/products/23239/380x218/the-mound-omen-of-cthulhu-deluxe-edition-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/23239/380x218/the-mound-omen-of-cthulhu-deluxe-edition-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/23239-buy-the-mound-omen-of-cthulhu-deluxe-edition-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Shift At Midnight - PC (Steam)",
+      "price": "$9.45",
+      "discount": "-18%",
+      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786611600",
+      "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
       "release": null
     },
     {
       "title": "Jurassic World Evolution 3: Crocodilia Coast - PC (Steam)",
       "price": "$13.84",
       "discount": "-8%",
-      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/23434-buy-jurassic-world-evolution-3-crocodilia-coast-pc-steam/",
       "release": null
     },
@@ -54,7 +46,7 @@
       "title": "Security 51 - PC & Mac (Steam)",
       "price": "$8.07",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/23619/380x218/security-51-pc-mac-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/23619/380x218/security-51-pc-mac-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/23619-buy-security-51-pc-mac-steam/",
       "release": null
     },
@@ -62,24 +54,32 @@
       "title": "Sovereign Tower - PC (Steam)",
       "price": "$13.72",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/22763-buy-sovereign-tower-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "IRON NEST: Heavy Turret Simulator - PC (Steam)",
-      "price": "$17.30",
-      "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1786597200",
-      "url": "https://www.instant-gaming.com/en/21900-buy-iron-nest-heavy-turret-simulator-pc-steam/",
       "release": null
     },
     {
       "title": "Gothic 1 Remake - PC (Steam)",
       "price": "$32.66",
       "discount": "-35%",
-      "image": "https://gaming-cdn.com/images/products/6518/380x218/gothic-1-remake-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/6518/380x218/gothic-1-remake-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/6518-buy-gothic-1-remake-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "IRON NEST: Heavy Turret Simulator - PC (Steam)",
+      "price": "$17.30",
+      "discount": "-13%",
+      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1786611600",
+      "url": "https://www.instant-gaming.com/en/21900-buy-iron-nest-heavy-turret-simulator-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Corsair Cove - PC (Steam)",
+      "price": "$26.54",
+      "discount": "-34%",
+      "image": "https://gaming-cdn.com/images/products/22395/380x218/corsair-cove-pc-steam-cover.jpg?v=1786611600",
+      "url": "https://www.instant-gaming.com/en/22395-buy-corsair-cove-pc-steam/",
       "release": null
     }
   ],
@@ -88,7 +88,7 @@
       "title": "Hell Let Loose: Vietnam - PC (Steam)",
       "price": "$33.46",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/20187-buy-hell-let-loose-vietnam-pc-steam/",
       "release": "Pre-order\n                    \n\n                        Yesterday"
     },
@@ -96,7 +96,7 @@
       "title": "NBA 2K27 Deluxe Edition + Advanced access - Xbox Series X|S",
       "price": "$91.06",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23591/380x218/nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/23591/380x218/nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/23591-buy-nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 21 days"
     },
@@ -104,7 +104,7 @@
       "title": "Resonance: A Plague Tale Legacy - PC (Steam)",
       "price": "$43.28",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/19517-buy-resonance-a-plague-tale-legacy-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 13 days"
     },
@@ -112,23 +112,23 @@
       "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
       "price": "$66.94",
       "discount": "-26%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-advanced-access-pc-steam-cover.jpg?v=1786597200",
-      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-advanced-access-pc-steam/",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1786611600",
+      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                         2 December 2026"
     },
     {
-      "title": "Silent Hill: Townfall - Deluxe Edition + Advanced access - PC (Steam)",
-      "price": "$46.16",
-      "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/23076/380x218/silent-hill-townfall-deluxe-edition-pc-steam-cover.jpg?v=1786597200",
-      "url": "https://www.instant-gaming.com/en/23076-buy-silent-hill-townfall-deluxe-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        23 September 2026"
+      "title": "Call of Duty: Modern Warfare 4 - Vault Edition - PC & Xbox Series X|S (Microsoft Store)",
+      "price": "$99.84",
+      "discount": "-21%",
+      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786611600",
+      "url": "https://www.instant-gaming.com/en/22745-buy-call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store/",
+      "release": "Pre-order\n                    \n\n                        22 October 2026"
     },
     {
       "title": "Gears of War: E-Day Premium Edition + Advanced access - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$80.79",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/22979-buy-gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                         5 October 2026"
     }
@@ -138,7 +138,7 @@
       "title": "Hell Clock - PC (Steam)",
       "price": "$1.14",
       "discount": "-94%",
-      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/19798-buy-hell-clock-pc-steam/",
       "release": null
     },
@@ -146,7 +146,7 @@
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.30",
       "discount": "-62%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
@@ -154,7 +154,7 @@
       "title": "Minecraft: Java & Bedrock Edition - PC & Mac",
       "price": "$18.57",
       "discount": "-46%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-mac-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-mac-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc-mac/",
       "release": null
     },
@@ -162,7 +162,7 @@
       "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
       "release": null
     },
@@ -170,7 +170,7 @@
       "title": "Marvel's Spider-Man Remastered - PC (Steam)",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/products/11907/380x218/marvel-s-spider-man-remastered-pc-game-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/11907/380x218/marvel-s-spider-man-remastered-pc-game-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/11907-buy-marvel-s-spider-man-remastered-pc-game-steam/",
       "release": null
     },
@@ -178,7 +178,7 @@
       "title": "Marvel’s Spider-Man: Miles Morales - PC (Steam)",
       "price": "$18",
       "discount": "-69%",
-      "image": "https://gaming-cdn.com/images/products/12953/380x218/marvel-s-spider-man-miles-morales-pc-game-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/12953/380x218/marvel-s-spider-man-miles-morales-pc-game-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/12953-buy-marvel-s-spider-man-miles-morales-pc-game-steam/",
       "release": null
     },
@@ -186,47 +186,47 @@
       "title": "PlayStation Store gift card 50$",
       "price": "$45.58",
       "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/1192/380x218/playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/1192/380x218/playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/1192-buy-playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states/",
-      "release": null
-    },
-    {
-      "title": "Jurassic World Evolution 3: Crocodilia Coast - PC (Steam)",
-      "price": "$13.84",
-      "discount": "-8%",
-      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786597200",
-      "url": "https://www.instant-gaming.com/en/23434-buy-jurassic-world-evolution-3-crocodilia-coast-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Xbox Gift Card 25$ (Microsoft Store)",
-      "price": "$22.57",
-      "discount": "-10%",
-      "image": "https://gaming-cdn.com/images/products/3014/380x218/xbox-gift-card-25-25-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-united-states-cover.jpg?v=1786597200",
-      "url": "https://www.instant-gaming.com/en/3014-buy-xbox-gift-card-25-25-card-xbox-one-xbox-series-x-s-pc-game-microsoft-store-united-states/",
       "release": null
     },
     {
       "title": "Hell Let Loose: Vietnam - PC (Steam)",
       "price": "$33.46",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/20187-buy-hell-let-loose-vietnam-pc-steam/",
       "release": "Pre-order\n                    \n\n                        Yesterday"
+    },
+    {
+      "title": "Jurassic World Evolution 3: Crocodilia Coast - PC (Steam)",
+      "price": "$13.84",
+      "discount": "-8%",
+      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786611600",
+      "url": "https://www.instant-gaming.com/en/23434-buy-jurassic-world-evolution-3-crocodilia-coast-pc-steam/",
+      "release": null
     },
     {
       "title": "Shift At Midnight - PC (Steam)",
       "price": "$9.45",
       "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786597200",
+      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786611600",
       "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Guild Wars 2: 2000 Gems (Ncsoft)",
+      "price": "$23.07",
+      "discount": "-20%",
+      "image": "https://gaming-cdn.com/images/products/141/380x218/guild-wars-2-2000-gems-pc-game-ncsoft-cover.jpg?v=1786611600",
+      "url": "https://www.instant-gaming.com/en/141-buy-guild-wars-2-2000-gems-pc-game-ncsoft/",
       "release": null
     }
   ],
   "reviews": [
     {
       "game": "Ryse: Son of Rome",
-      "game_image": "https://gaming-cdn.com/images/products/467/450x258/ryse-son-of-rome-pc-steam-cover.jpg?v=1786597200",
+      "game_image": "https://gaming-cdn.com/images/products/467/450x258/ryse-son-of-rome-pc-steam-cover.jpg?v=1786611600",
       "game_url": "https://www.instant-gaming.com/en/467-buy-ryse-son-of-rome-pc-steam/",
       "user": "Guglhupf",
       "avatar": "https://gaming-cdn.com/images/avatars/7230407-1721987805.jpg",
@@ -235,7 +235,7 @@
     },
     {
       "game": "Voidling Bound",
-      "game_image": "https://gaming-cdn.com/images/products/21906/450x258/voidling-bound-pc-steam-cover.jpg?v=1786597200",
+      "game_image": "https://gaming-cdn.com/images/products/21906/450x258/voidling-bound-pc-steam-cover.jpg?v=1786611600",
       "game_url": "https://www.instant-gaming.com/en/21906-buy-voidling-bound-pc-steam/",
       "user": "Brickymaru",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -244,7 +244,7 @@
     },
     {
       "game": "The Quarry - Deluxe Edition",
-      "game_image": "https://gaming-cdn.com/images/products/23546/450x258/the-quarry-deluxe-edition-pc-steam-cover.jpg?v=1786597200",
+      "game_image": "https://gaming-cdn.com/images/products/23546/450x258/the-quarry-deluxe-edition-pc-steam-cover.jpg?v=1786611600",
       "game_url": "https://www.instant-gaming.com/en/23546-buy-the-quarry-deluxe-edition-pc-steam/",
       "user": "gamer-8a28488",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -253,7 +253,7 @@
     },
     {
       "game": "Call of Duty: Black Ops II",
-      "game_image": "https://gaming-cdn.com/images/products/95/450x258/call-of-duty-black-ops-ii-pc-game-steam-cover.jpg?v=1786597200",
+      "game_image": "https://gaming-cdn.com/images/products/95/450x258/call-of-duty-black-ops-ii-pc-game-steam-cover.jpg?v=1786611600",
       "game_url": "https://www.instant-gaming.com/en/95-buy-call-of-duty-black-ops-ii-pc-game-steam/",
       "user": "Pero",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
