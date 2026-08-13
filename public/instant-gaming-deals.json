@@ -1,11 +1,11 @@
 {
-  "last_update": "2026-08-13T09:48:48+00:00",
+  "last_update": "2026-08-13T15:33:40+00:00",
   "hero": [
     {
       "title": "",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1786614518",
+      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1786635188",
       "url": "https://www.instant-gaming.com/en/l/2kpublishersale"
     }
   ],
@@ -14,55 +14,63 @@
       "title": "MARVEL Tōkon: Fighting Souls - PC (Steam)",
       "price": "$50.78",
       "discount": "-15%",
-      "image": "https://gaming-cdn.com/images/products/22521/380x218/marvel-tokon-fighting-souls-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/22521/380x218/marvel-tokon-fighting-souls-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/22521-buy-marvel-tokon-fighting-souls-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "The Mound: Omen of Cthulhu - Deluxe Edition - PC (Steam)",
-      "price": "$24.23",
-      "discount": "-39%",
-      "image": "https://gaming-cdn.com/images/products/23239/380x218/the-mound-omen-of-cthulhu-deluxe-edition-pc-steam-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/23239-buy-the-mound-omen-of-cthulhu-deluxe-edition-pc-steam/",
       "release": null
     },
     {
       "title": "Shift At Midnight - PC (Steam)",
       "price": "$9.45",
       "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "No More Room In Hell 2 - PC (Steam)",
+      "price": "$18",
+      "discount": "-40%",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-game-steam-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-game-steam/",
+      "release": null
+    },
+    {
+      "title": "The Mound: Omen of Cthulhu - Deluxe Edition - PC (Steam)",
+      "price": "$24.23",
+      "discount": "-39%",
+      "image": "https://gaming-cdn.com/images/products/23239/380x218/the-mound-omen-of-cthulhu-deluxe-edition-pc-steam-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/23239-buy-the-mound-omen-of-cthulhu-deluxe-edition-pc-steam/",
       "release": null
     },
     {
       "title": "Jurassic World Evolution 3: Crocodilia Coast - PC (Steam)",
       "price": "$13.84",
       "discount": "-8%",
-      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/23434-buy-jurassic-world-evolution-3-crocodilia-coast-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Security 51 - PC & Mac (Steam)",
-      "price": "$8.07",
-      "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/23619/380x218/security-51-pc-mac-steam-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/23619-buy-security-51-pc-mac-steam/",
       "release": null
     },
     {
       "title": "Sovereign Tower - PC (Steam)",
       "price": "$13.72",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/22763-buy-sovereign-tower-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Security 51 - PC & Mac (Steam)",
+      "price": "$8.07",
+      "discount": "-19%",
+      "image": "https://gaming-cdn.com/images/products/23619/380x218/security-51-pc-mac-steam-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/23619-buy-security-51-pc-mac-steam/",
       "release": null
     },
     {
       "title": "Gothic 1 Remake - PC (Steam)",
       "price": "$32.66",
       "discount": "-35%",
-      "image": "https://gaming-cdn.com/images/products/6518/380x218/gothic-1-remake-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/6518/380x218/gothic-1-remake-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/6518-buy-gothic-1-remake-pc-steam/",
       "release": null
     },
@@ -70,16 +78,8 @@
       "title": "IRON NEST: Heavy Turret Simulator - PC (Steam)",
       "price": "$17.30",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/21900-buy-iron-nest-heavy-turret-simulator-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Corsair Cove - PC (Steam)",
-      "price": "$26.54",
-      "discount": "-34%",
-      "image": "https://gaming-cdn.com/images/products/22395/380x218/corsair-cove-pc-steam-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/22395-buy-corsair-cove-pc-steam/",
       "release": null
     }
   ],
@@ -88,39 +88,31 @@
       "title": "Hell Let Loose: Vietnam - PC (Steam)",
       "price": "$33.46",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/20187-buy-hell-let-loose-vietnam-pc-steam/",
       "release": "Pre-order\n                    \n\n                        Yesterday"
-    },
-    {
-      "title": "NBA 2K27 Deluxe Edition + Advanced access - Xbox Series X|S",
-      "price": "$91.06",
-      "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23591/380x218/nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/23591-buy-nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store/",
-      "release": "Pre-order\n                    \n\n                        In 21 days"
     },
     {
       "title": "Resonance: A Plague Tale Legacy - PC (Steam)",
       "price": "$43.28",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/19517-buy-resonance-a-plague-tale-legacy-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 13 days"
     },
     {
-      "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
-      "price": "$66.94",
-      "discount": "-26%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                         2 December 2026"
+      "title": "NBA 2K27 Deluxe Edition + Advanced access - Xbox Series X|S",
+      "price": "$91.06",
+      "discount": "-21%",
+      "image": "https://gaming-cdn.com/images/products/23591/380x218/nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/23591-buy-nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store/",
+      "release": "Pre-order\n                    \n\n                        In 21 days"
     },
     {
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$99.84",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/22745-buy-call-of-duty-modern-warfare-4-vault-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        22 October 2026"
     },
@@ -128,9 +120,17 @@
       "title": "Gears of War: E-Day Premium Edition + Advanced access - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$80.79",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/22979-buy-gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                         5 October 2026"
+    },
+    {
+      "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
+      "price": "$66.94",
+      "discount": "-26%",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
+      "release": "Pre-order\n                    \n\n                         2 December 2026"
     }
   ],
   "bestsellers": [
@@ -138,7 +138,7 @@
       "title": "Hell Clock - PC (Steam)",
       "price": "$1.14",
       "discount": "-94%",
-      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/19798-buy-hell-clock-pc-steam/",
       "release": null
     },
@@ -146,7 +146,7 @@
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.30",
       "discount": "-62%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
@@ -154,55 +154,63 @@
       "title": "Minecraft: Java & Bedrock Edition - PC & Mac",
       "price": "$18.57",
       "discount": "-46%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-mac-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-mac-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc-mac/",
-      "release": null
-    },
-    {
-      "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Marvel's Spider-Man Remastered - PC (Steam)",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/11907/380x218/marvel-s-spider-man-remastered-pc-game-steam-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/11907-buy-marvel-s-spider-man-remastered-pc-game-steam/",
-      "release": null
-    },
-    {
-      "title": "Marvel’s Spider-Man: Miles Morales - PC (Steam)",
-      "price": "$18",
-      "discount": "-69%",
-      "image": "https://gaming-cdn.com/images/products/12953/380x218/marvel-s-spider-man-miles-morales-pc-game-steam-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/12953-buy-marvel-s-spider-man-miles-morales-pc-game-steam/",
-      "release": null
-    },
-    {
-      "title": "PlayStation Store gift card 50$",
-      "price": "$45.58",
-      "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/1192/380x218/playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/1192-buy-playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
     {
       "title": "Hell Let Loose: Vietnam - PC (Steam)",
       "price": "$33.46",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/20187-buy-hell-let-loose-vietnam-pc-steam/",
       "release": "Pre-order\n                    \n\n                        Yesterday"
+    },
+    {
+      "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "PlayStation Store gift card 50$",
+      "price": "$45.58",
+      "discount": "-9%",
+      "image": "https://gaming-cdn.com/images/products/1192/380x218/playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/1192-buy-playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states/",
+      "release": null
+    },
+    {
+      "title": "Marvel’s Spider-Man: Miles Morales - PC (Steam)",
+      "price": "$18",
+      "discount": "-69%",
+      "image": "https://gaming-cdn.com/images/products/12953/380x218/marvel-s-spider-man-miles-morales-pc-game-steam-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/12953-buy-marvel-s-spider-man-miles-morales-pc-game-steam/",
+      "release": null
+    },
+    {
+      "title": "Roblox - 1000 Robux",
+      "price": "$12.11",
+      "discount": "-13%",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
+      "release": null
+    },
+    {
+      "title": "Guild Wars 2: 2000 Gems (Ncsoft)",
+      "price": "$23.07",
+      "discount": "-20%",
+      "image": "https://gaming-cdn.com/images/products/141/380x218/guild-wars-2-2000-gems-pc-game-ncsoft-cover.jpg?v=1786633200",
+      "url": "https://www.instant-gaming.com/en/141-buy-guild-wars-2-2000-gems-pc-game-ncsoft/",
+      "release": null
     },
     {
       "title": "Jurassic World Evolution 3: Crocodilia Coast - PC (Steam)",
       "price": "$13.84",
       "discount": "-8%",
-      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/23434/380x218/jurassic-world-evolution-3-crocodilia-coast-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/23434-buy-jurassic-world-evolution-3-crocodilia-coast-pc-steam/",
       "release": null
     },
@@ -210,55 +218,47 @@
       "title": "Shift At Midnight - PC (Steam)",
       "price": "$9.45",
       "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786611600",
+      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1786633200",
       "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Guild Wars 2: 2000 Gems (Ncsoft)",
-      "price": "$23.07",
-      "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/141/380x218/guild-wars-2-2000-gems-pc-game-ncsoft-cover.jpg?v=1786611600",
-      "url": "https://www.instant-gaming.com/en/141-buy-guild-wars-2-2000-gems-pc-game-ncsoft/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "Pseudoregalia",
+      "game_image": "https://gaming-cdn.com/images/products/14722/450x258/pseudoregalia-pc-game-steam-cover.jpg?v=1786633200",
+      "game_url": "https://www.instant-gaming.com/en/14722-buy-pseudoregalia-pc-game-steam/",
+      "user": "gustmaci",
+      "avatar": "https://gaming-cdn.com/images/avatars/25830991-1738637198.jpg",
+      "sentiment": "like",
+      "content": "really great game, the gameplay is smooth, it is REALLY satisfying, it can be quite confusing and the combat is pretty basic to be honest, but it is good enough and is not the focus (though i wished it had more boss fights) the story is.. kinda confusing, i can't say i know any of the story, and i read everything i saw, it has some notes on wooden desks scattered on the map but you can't interact with it, probably they cut the story of the game? idk. well, for this price i can say that this game is peak. 8/10"
+    },
+    {
+      "game": "LEGO Batman: Legacy of the Dark Knight Deluxe Edition",
+      "game_image": "https://gaming-cdn.com/images/products/22200/450x258/lego-batman-legacy-of-the-dark-knight-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1786633200",
+      "game_url": "https://www.instant-gaming.com/en/22200-buy-lego-batman-legacy-of-the-dark-knight-deluxe-edition-xbox-series-x-s-microsoft-store/",
+      "user": "gamer-4d1be89",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "like",
+      "content": "This is probably the most fun I've had playing a game in quite a long time. My view on this game is super positive, there are few things that I would've liked to see different but they don't make it a bad game, far from it. The things that I would've liked to see different are under the cons but these aren't major at all, just small things because I'm nitpicky"
+    },
+    {
+      "game": "Warhammer 40,000: Darktide",
+      "game_image": "https://gaming-cdn.com/images/products/7368/450x258/warhammer-40-000-darktide-pc-game-steam-cover.jpg?v=1786633200",
+      "game_url": "https://www.instant-gaming.com/en/7368-buy-warhammer-40-000-darktide-pc-game-steam/",
+      "user": "Nitram",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "like",
+      "content": "Excellent game for the price. Recommend to play it with friends as it is a coop game (up to four), and random people usually don't communicate. Only drawback would be that there is only 4 classes without the dlc"
+    },
+    {
       "game": "Ryse: Son of Rome",
-      "game_image": "https://gaming-cdn.com/images/products/467/450x258/ryse-son-of-rome-pc-steam-cover.jpg?v=1786611600",
+      "game_image": "https://gaming-cdn.com/images/products/467/450x258/ryse-son-of-rome-pc-steam-cover.jpg?v=1786633200",
       "game_url": "https://www.instant-gaming.com/en/467-buy-ryse-son-of-rome-pc-steam/",
       "user": "Guglhupf",
       "avatar": "https://gaming-cdn.com/images/avatars/7230407-1721987805.jpg",
       "sentiment": "like",
       "content": "For a 12-year-old game, it was more fun and looks better than a lot of new ones.\n\nThe enemy design could have been better it feels like you’re always fighting the same ones.\n\nAnd the Colosseum was bullshit. It was fun because I like fighting, but it was bullshit."
-    },
-    {
-      "game": "Voidling Bound",
-      "game_image": "https://gaming-cdn.com/images/products/21906/450x258/voidling-bound-pc-steam-cover.jpg?v=1786611600",
-      "game_url": "https://www.instant-gaming.com/en/21906-buy-voidling-bound-pc-steam/",
-      "user": "Brickymaru",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "like",
-      "content": "I like this game. It allows you to collect multiple alien species you can evolve and make your own super- powered ball of fur, or scales, or carapace. Im sucker for this type of games where you can try a lot of builds and come up with many funny ideas. For the money I got solid 25 hrs of gametime where i could hardly put the game down.\n\n\n\nI have not encountered any great performance issues although i have pretty decent PC."
-    },
-    {
-      "game": "The Quarry - Deluxe Edition",
-      "game_image": "https://gaming-cdn.com/images/products/23546/450x258/the-quarry-deluxe-edition-pc-steam-cover.jpg?v=1786611600",
-      "game_url": "https://www.instant-gaming.com/en/23546-buy-the-quarry-deluxe-edition-pc-steam/",
-      "user": "gamer-8a28488",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "like",
-      "content": "I'm not sure exactly what you are going to call the specific genre of this game; it encompasses many different styles and schematics. Problem is, they're not going to mesh too well.\n\n\n\nOverall, this is a heck of a movie, since there's to s of options, including automatic play modes.\n\n\n\nAnd the movie is almost 17 hours long, man....OH MAN....!\n\n\n\nThe character models are sometimes so damn creepy ( TED), AND, later, so lame they're not even in the same game(lycanthropic that turns into slender man, WTF?)"
-    },
-    {
-      "game": "Call of Duty: Black Ops II",
-      "game_image": "https://gaming-cdn.com/images/products/95/450x258/call-of-duty-black-ops-ii-pc-game-steam-cover.jpg?v=1786611600",
-      "game_url": "https://www.instant-gaming.com/en/95-buy-call-of-duty-black-ops-ii-pc-game-steam/",
-      "user": "Pero",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "like",
-      "content": "How Happy I Am About Black Ops 2 Coming to PS5\n\n\n\nI honestly cannot explain how happy I am that Black Ops 2 is finally coming to PS5. This is probably one of the games I have been waiting for the most, and it means a lot more to me than just another Call of Duty game. Black Ops 2 has been my favorite game since I was a child, so seeing it come back on a modern console feels really special.\n\n\n\nI remember playing Black Ops 2 when I was younger and spending hours playing it without even realizing how much time had passed. At the time, I did not really care about graphics or whether a game was considered old or new. I just wanted to play. Everything about the game was fun to me, from the campaign to multiplayer and especially Zombies. Even now, when I think about the games I played as a kid, Black Ops 2 is probably the first one that comes to my mind.\n\n\n\nThe Zombies mode is probably the biggest reason why I love the game so much. Maps like Mob of the Dead, Origins and Buried are still some of my favorite Zombies maps ever made. I remember playing them with friends, trying to survive as many rounds as possible and figuring out the Easter Eggs. Sometimes we had no idea what we were doing and would just run around trying different things until something worked. Even when we failed, it was still fun because we were playing together.\n\n\n\nOrigins is probably the map that I have the strongest memories of. It was difficult, but that was part of what made it so good. Getting the staffs, upgrading them, doing the Easter Egg and trying to survive the higher rounds always felt like an achievement. Even today, I can go back to Black Ops 2 and still enjoy it, which says a lot about how good the game was.\n\n\n\nMultiplayer was also a huge part of my childhood. The weapons, maps, killstreaks and overall gameplay just felt perfect to me. I especially loved how different the game felt compared to newer Call of Duty games. It was fast, but it also required skill, and getting a good game felt really satisfying. There was something about coming home, turning on the console and immediately starting a few matches that I will always remember.\n\n\n\nThat is why having Black Ops 2 on PS5 makes me so excited. Being able to play one of my favorite childhood games again on the console I use today feels almost like getting a part of my childhood back. I know that technically it is an old game, but for me it does not feel old. The memories are still there, and I think that is what makes certain games special.\n\n\n\nI am also really looking forward to playing it with friends again. A big part of what made Black Ops 2 so enjoyable was playing with other people, especially Zombies. Being able to do Easter Eggs, mess around in multiplayer and just have fun together on PS5 is something I have genuinely missed.\n\n\n\nOverall, I am extremely happy that Black Ops 2 is coming to PS5. It is not just because I want to play an old Call of Duty again. It is because this game has been a part of my life for so long. It reminds me of being a kid, playing for hours and not worrying about anything else. There are many new games that I enjoy, but Black Ops 2 will always have a special place for me. Being able to play it again on PS5 is honestly something I never thought I would be this excited about, and I cannot wait to start playing it again."
     }
   ],
   "weekly_deals": []
