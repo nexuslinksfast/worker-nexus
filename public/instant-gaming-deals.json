@@ -1,11 +1,11 @@
 {
-  "last_update": "2026-08-24T08:29:23+00:00",
+  "last_update": "2026-08-24T14:27:09+00:00",
   "hero": [
     {
       "title": "",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1787560155",
+      "image": "https://gaming-cdn.com/images/marketing/banners/348/homepage/en/homepage-en.jpg?v=1787581607",
       "url": "https://www.instant-gaming.com/en/l/2kpublishersale"
     },
     {
@@ -18,42 +18,66 @@
   ],
   "trending": [
     {
+      "title": "No More Room In Hell 2 - PC (Steam)",
+      "price": "$15.80",
+      "discount": "-47%",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
+      "release": null
+    },
+    {
       "title": "IRON NEST: Heavy Turret Simulator - PC (Steam)",
       "price": "$16.15",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/21900-buy-iron-nest-heavy-turret-simulator-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "S.T.A.L.K.E.R. 2: Cost of Hope - PC (Steam)",
-      "price": "$24.23",
-      "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/22183/380x218/s-t-a-l-k-e-r-2-cost-of-hope-pc-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/22183-buy-s-t-a-l-k-e-r-2-cost-of-hope-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Shift At Midnight - PC (Steam)",
-      "price": "$9.45",
-      "discount": "-5%",
-      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
       "release": null
     },
     {
       "title": "Hell Let Loose: Vietnam - PC (Steam)",
       "price": "$33.46",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/20187/380x218/hell-let-loose-vietnam-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/20187-buy-hell-let-loose-vietnam-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Shift At Midnight - PC (Steam)",
+      "price": "$9.45",
+      "discount": "-5%",
+      "image": "https://gaming-cdn.com/images/products/22643/380x218/shift-at-midnight-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/22643-buy-shift-at-midnight-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Cost of Hope - PC (Steam)",
+      "price": "$24.23",
+      "discount": "-19%",
+      "image": "https://gaming-cdn.com/images/products/22183/380x218/s-t-a-l-k-e-r-2-cost-of-hope-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/22183-buy-s-t-a-l-k-e-r-2-cost-of-hope-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Moonlight Peaks - PC (Steam)",
+      "price": "$21.92",
+      "discount": "-37%",
+      "image": "https://gaming-cdn.com/images/products/14481/380x218/moonlight-peaks-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/14481-buy-moonlight-peaks-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Sovereign Tower - PC (Steam)",
+      "price": "$13.72",
+      "discount": "-31%",
+      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/22763-buy-sovereign-tower-pc-steam/",
       "release": null
     },
     {
       "title": "The Mound: Omen of Cthulhu - PC (Steam)",
       "price": "$21.23",
       "discount": "-29%",
-      "image": "https://gaming-cdn.com/images/products/21085/380x218/the-mound-omen-of-cthulhu-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/21085/380x218/the-mound-omen-of-cthulhu-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/21085-buy-the-mound-omen-of-cthulhu-pc-steam/",
       "release": null
     },
@@ -61,57 +85,33 @@
       "title": "DragonSword : Awakening - PC (Steam)",
       "price": "$24.23",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/22405/380x218/dragonsword-awakening-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/22405/380x218/dragonsword-awakening-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/22405-buy-dragonsword-awakening-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Corsair Cove - PC (Steam)",
-      "price": "$24.81",
-      "discount": "-38%",
-      "image": "https://gaming-cdn.com/images/products/22395/380x218/corsair-cove-pc-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/22395-buy-corsair-cove-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Moonlight Peaks - PC (Steam)",
-      "price": "$21.92",
-      "discount": "-37%",
-      "image": "https://gaming-cdn.com/images/products/14481/380x218/moonlight-peaks-pc-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/14481-buy-moonlight-peaks-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Gothic 1 Remake - PC (Steam)",
-      "price": "$32.66",
-      "discount": "-35%",
-      "image": "https://gaming-cdn.com/images/products/6518/380x218/gothic-1-remake-pc-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/6518-buy-gothic-1-remake-pc-steam/",
       "release": null
     }
   ],
   "preorders": [
     {
-      "title": "Call of Duty: Modern Warfare 4 - PC & Xbox Series X|S (Microsoft Store)",
-      "price": "$72.71",
-      "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-pc-xbox-series-x-s-microsoft-store/",
-      "release": "Pre-order\n                    \n\n                        22 October 2026"
-    },
-    {
       "title": "NBA 2K27 Deluxe Edition + Advanced access - Xbox Series X|S",
       "price": "$91.06",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23591/380x218/nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/23591/380x218/nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/23591-buy-nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 10 days"
+    },
+    {
+      "title": "Call of Duty: Modern Warfare 4 - PC & Xbox Series X|S (Microsoft Store)",
+      "price": "$72.71",
+      "discount": "-21%",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-pc-xbox-series-x-s-microsoft-store/",
+      "release": "Pre-order\n                    \n\n                        22 October 2026"
     },
     {
       "title": "Resonance: A Plague Tale Legacy - PC (Steam)",
       "price": "$43.28",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/19517-buy-resonance-a-plague-tale-legacy-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 2 days"
     },
@@ -119,7 +119,7 @@
       "title": "EA Sports FC 27 Ultimate Edition + Advanced access - Xbox Series X|S",
       "price": "$94.64",
       "discount": "-25%",
-      "image": "https://gaming-cdn.com/images/products/23587/380x218/ea-sports-fc-27-ultimate-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/23587/380x218/ea-sports-fc-27-ultimate-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/23587-buy-ea-sports-fc-27-ultimate-edition-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        24 September 2026"
     },
@@ -127,7 +127,7 @@
       "title": "Bus Simulator 27 Year 1 Edition + Advanced access - PC (Steam)",
       "price": "$40.62",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/22898/380x218/bus-simulator-27-year-1-edition-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/22898/380x218/bus-simulator-27-year-1-edition-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/22898-buy-bus-simulator-27-year-1-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 14 days"
     },
@@ -135,33 +135,33 @@
       "title": "Phantom Blade Zero - PC (Steam)",
       "price": "$52.51",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/",
       "release": "Pre-order\n                    \n\n                        28 October 2026"
     }
   ],
   "bestsellers": [
     {
-      "title": "No More Room In Hell 2 - PC (Steam)",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
-      "release": null
-    },
-    {
       "title": "PlayStation Store gift card 25$",
       "price": "$22.84",
       "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/9987/380x218/playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/9987/380x218/playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/9987-buy-playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states/",
+      "release": null
+    },
+    {
+      "title": "No More Room In Hell 2 - PC (Steam)",
+      "price": "$15.80",
+      "discount": "-47%",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
       "release": null
     },
     {
       "title": "Roblox - 1000 Robux",
       "price": "$12.11",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     },
@@ -169,7 +169,7 @@
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.30",
       "discount": "-62%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
@@ -177,7 +177,7 @@
       "title": "Minecraft: Java & Bedrock Edition - PC",
       "price": "$18.92",
       "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
@@ -185,55 +185,73 @@
       "title": "Indika - PC (Steam)",
       "price": "$1.14",
       "discount": "-95%",
-      "image": "https://gaming-cdn.com/images/products/15204/380x218/indika-pc-game-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/15204/380x218/indika-pc-game-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/15204-buy-indika-pc-game-steam/",
-      "release": null
-    },
-    {
-      "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
       "release": null
     },
     {
       "title": "Helldivers 2 - PC (Steam)",
       "price": "$27.69",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/9575/380x218/helldivers-2-pc-game-steam-europe-and-us-and-canada-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/9575/380x218/helldivers-2-pc-game-steam-europe-and-us-and-canada-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/9575-buy-helldivers-2-pc-game-steam-europe-and-us-and-canada/",
       "release": null
     },
     {
-      "title": "No Man's Sky - PC & Mac (Steam)",
-      "price": "$17.30",
-      "discount": "-71%",
-      "image": "https://gaming-cdn.com/images/products/414/380x218/no-man-s-sky-pc-mac-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/414-buy-no-man-s-sky-pc-mac-steam/",
-      "release": null
-    },
-    {
-      "title": "Kingdom Hearts Integrum Masterpiece - PC (Steam)",
+      "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/products/16875/380x218/kingdom-hearts-integrum-masterpiece-pc-game-steam-cover.jpg?v=1787558400",
-      "url": "https://www.instant-gaming.com/en/16875-buy-kingdom-hearts-integrum-masterpiece-pc-game-steam/",
+      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
       "release": null
     },
     {
       "title": "Hell Clock - PC (Steam)",
       "price": "$1.14",
       "discount": "-94%",
-      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1787558400",
+      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1787580000",
       "url": "https://www.instant-gaming.com/en/19798-buy-hell-clock-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Escape the Backrooms - PC (Steam)",
+      "price": "$5.99",
+      "discount": "-40%",
+      "image": "https://gaming-cdn.com/images/products/16670/380x218/escape-the-backrooms-pc-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/16670-buy-escape-the-backrooms-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "No Man's Sky - PC & Mac (Steam)",
+      "price": "$17.30",
+      "discount": "-71%",
+      "image": "https://gaming-cdn.com/images/products/414/380x218/no-man-s-sky-pc-mac-steam-cover.jpg?v=1787580000",
+      "url": "https://www.instant-gaming.com/en/414-buy-no-man-s-sky-pc-mac-steam/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "BlazBlue: Centralfiction",
+      "game_image": "https://gaming-cdn.com/images/products/3828/450x258/blazblue-centralfiction-pc-game-steam-cover.jpg?v=1787580000",
+      "game_url": "https://www.instant-gaming.com/en/3828-buy-blazblue-centralfiction-pc-game-steam/",
+      "user": "1MantisPhoenix",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "like",
+      "content": "\"Dammit, that huge boob woman's coming...\"\n\n\"It's not that she wanted those two humps... She was born with them! Completely out of her control. And a ponytail tied at exactly the right height to accentuate her stylish figure. Yes... Pure and mainstream!\"\n\n\n\nIt's an epic fighting game, filled with tonnes of content and great art, great moves, it's very deep for a 4-button fighter.\n\nThe cast of fighters is gigantic, and you unlock some new fighters by finishing the story. It's a very long story too!\""
+    },
+    {
+      "game": "It Takes Two",
+      "game_image": "https://gaming-cdn.com/images/products/8103/450x258/it-takes-two-pc-game-ea-app-cover.jpg?v=1787580000",
+      "game_url": "https://www.instant-gaming.com/en/8103-buy-it-takes-two-pc-game-ea-app/",
+      "user": "gamer-21931d7",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "like",
+      "content": "Superbe jeu vraiment! Un bon moyen de profiter en couple et de se détendre tout en explorant un jeu aux graphismes tout aussi intéressants et touchants que la thématique, qui est par ailleurs abordée de manière réaliste et consciente.\n\nJe recommande sincèrement. Que vous l'achetiez en promo ou à son prix original, il en vaut largement la peine."
+    },
+    {
       "game": "MENACE",
-      "game_image": "https://gaming-cdn.com/images/products/19423/450x258/menace-pc-steam-cover.jpg?v=1787558400",
+      "game_image": "https://gaming-cdn.com/images/products/19423/450x258/menace-pc-steam-cover.jpg?v=1787580000",
       "game_url": "https://www.instant-gaming.com/en/19423-buy-menace-pc-steam/",
       "user": "gamer-11c6394",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -242,30 +260,12 @@
     },
     {
       "game": "Crimson Desert Deluxe Edition",
-      "game_image": "https://gaming-cdn.com/images/products/21082/450x258/crimson-desert-deluxe-edition-pc-mac-steam-cover.jpg?v=1787558400",
+      "game_image": "https://gaming-cdn.com/images/products/21082/450x258/crimson-desert-deluxe-edition-pc-mac-steam-cover.jpg?v=1787580000",
       "game_url": "https://www.instant-gaming.com/en/21082-buy-crimson-desert-deluxe-edition-pc-mac-steam/",
       "user": "gamer-10829bc",
       "avatar": "https://gaming-cdn.com/images/avatars/24209174-1720295351.jpg",
       "sentiment": "like",
       "content": "This game is so good, it gives me strong Red Dead Redemption 2 vibes.\n\nIt is one of those very rare games where I don't want to rush the story at all. I want to explore every corner, do everything I can find and\n\nbasically squeeze every last drop of content out of it."
-    },
-    {
-      "game": "Total War: Pharaoh",
-      "game_image": "https://gaming-cdn.com/images/products/14196/450x258/total-war-pharaoh-pc-mac-game-steam-cover.jpg?v=1787558400",
-      "game_url": "https://www.instant-gaming.com/en/14196-buy-total-war-pharaoh-pc-mac-game-steam/",
-      "user": "Generaljoebear",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "dislike",
-      "content": "One of the worst TW titles I've played. The campaign is just so annoying because instead of making the AI smart, they just make them cheat so AI and player do not play by the same set of rules. \n\n\n\nMeh."
-    },
-    {
-      "game": "Age of Mythology: Retold Premium Edition",
-      "game_image": "https://gaming-cdn.com/images/products/17567/450x258/age-of-mythology-retold-premium-edition-premium-edition-pc-game-steam-cover.jpg?v=1787558400",
-      "game_url": "https://www.instant-gaming.com/en/17567-buy-age-of-mythology-retold-premium-edition-premium-edition-pc-game-steam/",
-      "user": "Smooth Operator",
-      "avatar": "https://gaming-cdn.com/images/avatars/13734637-1702329179.jpg",
-      "sentiment": "like",
-      "content": "It is a great strategy game and I highly recommend it. The campaign is cool but I had a lot of bugs where the heroes would get stuck meaning restart of the missions ( for campaign ) or the pathing of the troops could ruin the experience ( not bad but janky most of the times).\n\n\n\nThe price is fair for so much content so that is a huge plus in addition to the diversity of content (troops, heroes, upgrades etc.)"
     }
   ],
   "weekly_deals": []
