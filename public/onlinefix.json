@@ -2,6 +2,86 @@
   "name": "OnlineFix",
   "downloads": [
     {
+      "fileSize": "18.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:3f9aa28f8c6e685563cc371a57b51d19baae6a97&amp;dn=Phasmophobia&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Phasmophobia 0.19.0.0",
+      "uploadDate": "2026-09-03T10:37:40.000Z"
+    },
+    {
+      "fileSize": "3.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:95adf9269c7c11d831d395a02f74e272ea758edc&amp;dn=Motor+Town+Behind+The+Wheel&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Motor Town Behind The Wheel 0.7.19",
+      "uploadDate": "2026-09-03T10:35:46.000Z"
+    },
+    {
+      "fileSize": "83.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:235306d4e9a47be9b1824dfb2d0be5a627603ce8&amp;dn=STRANGER+OF+PARADISE+FINAL+FANTASY+ORIGIN&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "STRANGER OF PARADISE FINAL FANTASY ORIGIN 1.32",
+      "uploadDate": "2026-09-03T10:43:19.000Z"
+    },
+    {
+      "fileSize": "51.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:375ccd607f8e5e8f48ffdd41a6df833aad74205f&amp;dn=Bodycam&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Bodycam Build 02092026",
+      "uploadDate": "2026-09-03T10:05:09.000Z"
+    },
+    {
+      "fileSize": "1.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:f0a2577b2fffb85e8806592cafe062a253f9ed74&amp;dn=Slay+the+Spire+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Slay the Spire 2 0.111.0",
+      "uploadDate": "2026-09-03T10:42:43.000Z"
+    },
+    {
+      "fileSize": "308.9 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:67f058f01610440f512e956e1ae72c590baa4ce7&amp;dn=BOMBANANA!&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "BOMBANANA! 1.0.0",
+      "uploadDate": "2026-09-03T10:32:32.000Z"
+    },
+    {
+      "fileSize": "6.8 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6813b3f30a1de63ca253a268584e043bc228e1d2&amp;dn=WheelMates&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "WheelMates Build 02092026",
+      "uploadDate": "2026-09-03T10:52:48.000Z"
+    },
+    {
+      "fileSize": "2.1 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:1c61560918e23093731b4fb8e55b270a37e17491&amp;dn=Data+Center&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Data Center 1.1.8",
+      "uploadDate": "2026-09-03T10:34:01.000Z"
+    },
+    {
+      "fileSize": "1.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:6dbdec0273c3da57eafdda4110a69b5c88a029d9&amp;dn=Cheater's+Table&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Cheater's Table 0.8.3.6",
+      "uploadDate": "2026-09-03T10:32:57.000Z"
+    },
+    {
+      "fileSize": "192.7 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:ff6d9c753ea2a53bf41d726d297f9778dba2bdd9&amp;dn=An+Eggstremely+Hard+Game&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "An Eggstremely Hard Game 1.2.2",
+      "uploadDate": "2026-09-03T10:04:38.000Z"
+    },
+    {
       "fileSize": "5.2 GB",
       "uris": [
         "magnet:?xt=urn:btih:e9717a95bad680f0e10a33396c631eb541d5b334&amp;dn=Project+Zomboid&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
