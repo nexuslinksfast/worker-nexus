@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-03T18:16:33+00:00",
+  "last_update": "2026-09-04T00:20:32+00:00",
   "hero": [
     {
       "title": "The Blood of Dawnwalker",
@@ -21,7 +21,7 @@
       "title": "Crimson Moon - PC (Steam)",
       "price": "$17.30",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/21810/380x218/crimson-moon-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/21810/380x218/crimson-moon-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/21810-buy-crimson-moon-pc-steam/",
       "release": null
     },
@@ -29,55 +29,55 @@
       "title": "No More Room In Hell 2 - PC (Steam)",
       "price": "$20.77",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Star Wars Zero Company - PC (EA App)",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/19161/380x218/star-wars-zero-company-pc-ea-app-cover.jpg?v=1788480000",
+      "url": "https://www.instant-gaming.com/en/19161-buy-star-wars-zero-company-pc-ea-app/",
       "release": null
     },
     {
       "title": "Sandustry - PC & Mac (Steam)",
       "price": "$8.07",
       "discount": "-46%",
-      "image": "https://gaming-cdn.com/images/products/23603/380x218/sandustry-pc-mac-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/23603/380x218/sandustry-pc-mac-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/23603-buy-sandustry-pc-mac-steam/",
-      "release": null
-    },
-    {
-      "title": "Star Wars Zero Company - PC (EA App)",
-      "price": "$45.58",
-      "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/19161/380x218/star-wars-zero-company-pc-ea-app-cover.jpg?v=1788458400",
-      "url": "https://www.instant-gaming.com/en/19161-buy-star-wars-zero-company-pc-ea-app/",
       "release": null
     },
     {
       "title": "The Blood of Dawnwalker - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$64.63",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/23584/380x218/the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/23584/380x218/the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/23584-buy-the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store/",
-      "release": null
-    },
-    {
-      "title": "Moonlighter 2: The Endless Vault - PC (Steam)",
-      "price": "$17.88",
-      "discount": "-40%",
-      "image": "https://gaming-cdn.com/images/products/18218/380x218/moonlighter-2-the-endless-vault-pc-steam-cover.jpg?v=1788458400",
-      "url": "https://www.instant-gaming.com/en/18218-buy-moonlighter-2-the-endless-vault-pc-steam/",
       "release": null
     },
     {
       "title": "IRON NEST: Heavy Turret Simulator - PC (Steam)",
       "price": "$16.15",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/21900-buy-iron-nest-heavy-turret-simulator-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Moonlighter 2: The Endless Vault - PC (Steam)",
+      "price": "$17.88",
+      "discount": "-40%",
+      "image": "https://gaming-cdn.com/images/products/18218/380x218/moonlighter-2-the-endless-vault-pc-steam-cover.jpg?v=1788480000",
+      "url": "https://www.instant-gaming.com/en/18218-buy-moonlighter-2-the-endless-vault-pc-steam/",
       "release": null
     },
     {
       "title": "Resonance: A Plague Tale Legacy - PC (Steam)",
       "price": "$42.12",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/19517/380x218/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/19517-buy-resonance-a-plague-tale-legacy-pc-steam/",
       "release": null
     },
@@ -85,7 +85,7 @@
       "title": "Sovereign Tower - PC (Steam)",
       "price": "$13.72",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/22763/380x218/sovereign-tower-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/22763-buy-sovereign-tower-pc-steam/",
       "release": null
     }
@@ -95,23 +95,15 @@
       "title": "Bus Simulator 27 Year 1 Edition + Advanced access - PC (Steam)",
       "price": "$39.81",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/22898/380x218/bus-simulator-27-year-1-edition-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/22898/380x218/bus-simulator-27-year-1-edition-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/22898-buy-bus-simulator-27-year-1-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 4 days"
-    },
-    {
-      "title": "NBA 2K27 Deluxe Edition + Advanced access - Xbox Series X|S",
-      "price": "$91.06",
-      "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23591/380x218/nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1788458400",
-      "url": "https://www.instant-gaming.com/en/23591-buy-nba-2k27-deluxe-edition-xbox-series-x-s-microsoft-store/",
-      "release": "Pre-order\n                    \n\n                        Today"
     },
     {
       "title": "EA Sports FC 27 Ultimate Edition + Advanced access - Xbox One & Xbox Series X|S",
       "price": "$95.80",
       "discount": "-25%",
-      "image": "https://gaming-cdn.com/images/products/23587/380x218/ea-sports-fc-27-ultimate-edition-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/23587/380x218/ea-sports-fc-27-ultimate-edition-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/23587-buy-ea-sports-fc-27-ultimate-edition-xbox-series-x-s-xbox-one-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 21 days"
     },
@@ -119,49 +111,57 @@
       "title": "Minecraft Dungeons II - Deluxe Edition - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$44.43",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/22155-buy-minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 25 days"
     },
     {
-      "title": "Silent Hill: Townfall - PC (Steam)",
-      "price": "$39.81",
-      "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1788458400",
-      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
+      "title": "Silent Hill: Townfall - Deluxe Edition + Advanced access - PC (Steam)",
+      "price": "$46.16",
+      "discount": "-23%",
+      "image": "https://gaming-cdn.com/images/products/23076/380x218/silent-hill-townfall-deluxe-edition-pc-steam-cover.jpg?v=1788480000",
+      "url": "https://www.instant-gaming.com/en/23076-buy-silent-hill-townfall-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 20 days"
     },
     {
-      "title": "CONTROL Resonant - PC (Steam)",
-      "price": "$51.93",
+      "title": "Dragon's Dogma 2: Dark Arisen Expansion - PC (Steam)",
+      "price": "$25.96",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1788458400",
-      "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 20 days"
+      "image": "https://gaming-cdn.com/images/products/23079/380x218/dragon-s-dogma-2-dark-arisen-expansion-pc-steam-cover.jpg?v=1788480000",
+      "url": "https://www.instant-gaming.com/en/23079-buy-dragon-s-dogma-2-dark-arisen-expansion-pc-steam/",
+      "release": "Pre-order\n                    \n\n                         8 October 2026"
+    },
+    {
+      "title": "Onimusha: Way of the Sword - Deluxe Edition - PC & Xbox Series X|S (Microsoft Store)",
+      "price": "$81.37",
+      "discount": "-22%",
+      "image": "https://gaming-cdn.com/images/products/23742/380x218/onimusha-way-of-the-sword-deluxe-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1788480000",
+      "url": "https://www.instant-gaming.com/en/23742-buy-onimusha-way-of-the-sword-deluxe-edition-xbox-series-x-s-pc-microsoft-store/",
+      "release": "Pre-order\n                    \n\n                        Today"
     }
   ],
   "bestsellers": [
     {
-      "title": "Crimson Moon - PC (Steam)",
-      "price": "$17.30",
-      "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/21810/380x218/crimson-moon-pc-steam-cover.jpg?v=1788458400",
-      "url": "https://www.instant-gaming.com/en/21810-buy-crimson-moon-pc-steam/",
-      "release": null
-    },
-    {
       "title": "PlayStation Store gift card 25$",
       "price": "$22.84",
       "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/9987/380x218/playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/9987/380x218/playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/9987-buy-playstation-store-gift-card-25-25-card-playstation-4-playstation-5-game-playstation-store-united-states/",
+      "release": null
+    },
+    {
+      "title": "Crimson Moon - PC (Steam)",
+      "price": "$17.30",
+      "discount": "-13%",
+      "image": "https://gaming-cdn.com/images/products/21810/380x218/crimson-moon-pc-steam-cover.jpg?v=1788480000",
+      "url": "https://www.instant-gaming.com/en/21810-buy-crimson-moon-pc-steam/",
       "release": null
     },
     {
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.30",
       "discount": "-62%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
@@ -169,31 +169,31 @@
       "title": "PEAK - PC (Steam)",
       "price": "$3.91",
       "discount": "-51%",
-      "image": "https://gaming-cdn.com/images/products/19648/380x218/peak-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/19648/380x218/peak-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/19648-buy-peak-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Minecraft: Java & Bedrock Edition - PC",
-      "price": "$18.92",
-      "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1788458400",
-      "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
     {
       "title": "Roblox - 1000 Robux",
       "price": "$12.11",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
+      "release": null
+    },
+    {
+      "title": "Minecraft: Java & Bedrock Edition - PC",
+      "price": "$18.92",
+      "discount": "-45%",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1788480000",
+      "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
     {
       "title": "No More Room In Hell 2 - PC (Steam)",
       "price": "$20.77",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
       "release": null
     },
@@ -201,7 +201,7 @@
       "title": "The Blood of Dawnwalker - PC (Steam)",
       "price": "$58.86",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/22485/380x218/the-blood-of-dawnwalker-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/22485/380x218/the-blood-of-dawnwalker-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/22485-buy-the-blood-of-dawnwalker-pc-steam/",
       "release": null
     },
@@ -209,7 +209,7 @@
       "title": "Sandustry - PC & Mac (Steam)",
       "price": "$8.07",
       "discount": "-46%",
-      "image": "https://gaming-cdn.com/images/products/23603/380x218/sandustry-pc-mac-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/23603/380x218/sandustry-pc-mac-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/23603-buy-sandustry-pc-mac-steam/",
       "release": null
     },
@@ -217,7 +217,7 @@
       "title": "Hell Clock - PC (Steam)",
       "price": "$1.14",
       "discount": "-94%",
-      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/19798/380x218/hell-clock-pc-steam-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/19798-buy-hell-clock-pc-steam/",
       "release": null
     },
@@ -225,15 +225,24 @@
       "title": "The Blood of Dawnwalker - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$64.63",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/23584/380x218/the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1788458400",
+      "image": "https://gaming-cdn.com/images/products/23584/380x218/the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1788480000",
       "url": "https://www.instant-gaming.com/en/23584-buy-the-blood-of-dawnwalker-xbox-series-x-s-pc-microsoft-store/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "Watch Dogs Legion - Season Pass",
+      "game_image": "https://gaming-cdn.com/images/products/7825/450x258/watch-dogs-legion-season-pass-pc-ubisoft-connect-cover.jpg?v=1788480000",
+      "game_url": "https://www.instant-gaming.com/en/7825-buy-watch-dogs-legion-season-pass-pc-ubisoft-connect/",
+      "user": "gamer-d8d7fdd",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "like",
+      "content": "I loved it, i'm sorry that it flopped. imo the fact that u can choose your team through the gameplay is innovative and cool, I love this mechanic and I kinda started to feel a relation with my agents, and I'm really sorry when one of them dies cause i cared for them. If u choose ur agents reading their metadata and their deep profile schedule u will build ur own idea around that agent and u will be curious to discover what's their personality through the game and their voices when they speak to bugley or smn else."
+    },
+    {
       "game": "Gang Beasts",
-      "game_image": "https://gaming-cdn.com/images/products/5204/450x258/gang-beasts-pc-mac-game-steam-cover.jpg?v=1788458400",
+      "game_image": "https://gaming-cdn.com/images/products/5204/450x258/gang-beasts-pc-mac-game-steam-cover.jpg?v=1788480000",
       "game_url": "https://www.instant-gaming.com/en/5204-buy-gang-beasts-pc-mac-game-steam/",
       "user": "gamer-6fafb95",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -242,7 +251,7 @@
     },
     {
       "game": "Alien: Isolation",
-      "game_image": "https://gaming-cdn.com/images/products/305/450x258/alien-isolation-pc-mac-game-steam-cover.jpg?v=1788458400",
+      "game_image": "https://gaming-cdn.com/images/products/305/450x258/alien-isolation-pc-mac-game-steam-cover.jpg?v=1788480000",
       "game_url": "https://www.instant-gaming.com/en/305-buy-alien-isolation-pc-mac-game-steam/",
       "user": "gustmaci",
       "avatar": "https://gaming-cdn.com/images/avatars/25830991-1738637198.jpg",
@@ -251,21 +260,12 @@
     },
     {
       "game": "Resident Evil Requiem Deluxe Edition",
-      "game_image": "https://gaming-cdn.com/images/products/20995/450x258/resident-evil-requiem-deluxe-edition-pc-steam-cover.jpg?v=1788458400",
+      "game_image": "https://gaming-cdn.com/images/products/20995/450x258/resident-evil-requiem-deluxe-edition-pc-steam-cover.jpg?v=1788480000",
       "game_url": "https://www.instant-gaming.com/en/20995-buy-resident-evil-requiem-deluxe-edition-pc-steam/",
       "user": "flameZ",
       "avatar": "https://gaming-cdn.com/images/avatars/29751303-1788377126.jpg",
       "sentiment": "like",
       "content": "I just wanted to say thank you to Instant Gaming for having such an amazing store, and thank you as well for letting me be part of this family. You have no idea how happy I am right now. I have such a big smile on my face, and I’m even crying tears of joy. Thank you so much! ❤️"
-    },
-    {
-      "game": "Aliens: Dark Descent",
-      "game_image": "https://gaming-cdn.com/images/products/19421/450x258/aliens-dark-descent-pc-game-steam-europe-cover.jpg?v=1788458400",
-      "game_url": "https://www.instant-gaming.com/en/19421-buy-aliens-dark-descent-pc-game-steam-europe/",
-      "user": "gamer-6588b5",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "like",
-      "content": "Really enjoyed this. Great atmosphere, genuinely tense gameplay and the Xenomorphs are absolutely terrifying when things start going wrong.\n\n\n\nThe squad management and resource system work really well, and every mission feels like it could go sideways at any moment.\n\n\n\nIf you're an Aliens fan and like tactical games, definitely worth playing."
     }
   ],
   "weekly_deals": []
