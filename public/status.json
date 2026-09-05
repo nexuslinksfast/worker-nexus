@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T19:01:24.481Z",
-  "runId": "33904819473",
-  "runNumber": 101,
+  "generatedAt": "2026-09-05T00:43:57.659Z",
+  "runId": "33932657927",
+  "runNumber": 102,
   "repository": "nexuslinksfast/worker-nexus",
-  "actionsUrl": "https://github.com/nexuslinksfast/worker-nexus/actions/runs/33904819473",
+  "actionsUrl": "https://github.com/nexuslinksfast/worker-nexus/actions/runs/33932657927",
   "sources": [
     {
       "key": "steamrip",
@@ -11,8 +11,8 @@
       "file": "steamrip.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 4609,
-      "dataUpdatedAt": "2026-09-04T19:01:24.491Z"
+      "entries": 4612,
+      "dataUpdatedAt": "2026-09-05T00:43:57.667Z"
     },
     {
       "key": "fitgirl",
@@ -20,8 +20,8 @@
       "file": "fitgirl.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 6834,
-      "dataUpdatedAt": "2026-09-04T19:01:24.532Z"
+      "entries": 6878,
+      "dataUpdatedAt": "2026-09-05T00:43:57.698Z"
     },
     {
       "key": "freegog",
@@ -39,7 +39,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 2731,
-      "dataUpdatedAt": "2026-09-04T19:01:24.557Z"
+      "dataUpdatedAt": "2026-09-05T00:43:57.716Z"
     },
     {
       "key": "onlinefix-fixes",
@@ -48,7 +48,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 557,
-      "dataUpdatedAt": "2026-09-04T19:01:24.558Z"
+      "dataUpdatedAt": "2026-09-05T00:43:57.717Z"
     },
     {
       "key": "iggames",
@@ -57,7 +57,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 5008,
-      "dataUpdatedAt": "2026-09-04T19:01:24.599Z"
+      "dataUpdatedAt": "2026-09-05T00:43:57.750Z"
     },
     {
       "key": "insaneramzes",
@@ -66,7 +66,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 3509,
-      "dataUpdatedAt": "2026-09-04T19:01:24.607Z"
+      "dataUpdatedAt": "2026-09-05T00:43:57.757Z"
     },
     {
       "key": "instant-gaming",
@@ -75,7 +75,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 32,
-      "dataUpdatedAt": "2026-09-04T19:01:24.607Z"
+      "dataUpdatedAt": "2026-09-05T00:43:57.757Z"
     },
     {
       "key": "dodi",
@@ -84,7 +84,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 3158,
-      "dataUpdatedAt": "2026-09-04T19:01:24.627Z"
+      "dataUpdatedAt": "2026-09-05T00:43:57.773Z"
     },
     {
       "key": "rexagames",
@@ -93,7 +93,7 @@
       "updatedThisRun": true,
       "status": "healthy",
       "entries": 3025,
-      "dataUpdatedAt": "2026-09-04T19:01:24.633Z"
+      "dataUpdatedAt": "2026-09-05T00:43:57.777Z"
     },
     {
       "key": "ankergames",
@@ -101,8 +101,8 @@
       "file": "ankergames.json",
       "updatedThisRun": true,
       "status": "healthy",
-      "entries": 1120,
-      "dataUpdatedAt": "2026-09-04T19:01:24.634Z"
+      "entries": 1914,
+      "dataUpdatedAt": "2026-09-05T00:43:57.779Z"
     }
   ],
   "summary": {
