@@ -2,6 +2,24 @@
   "name": "OnlineFix Fixes",
   "downloads": [
     {
+      "title": "Dying Light",
+      "uploadDate": "2026-09-07T06:24:39+00:00",
+      "uris": [
+        "https://gofile.io/d/iPbyil"
+      ],
+      "appId": 239140,
+      "header-image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1782913513"
+    },
+    {
+      "title": "Dying Light 2: Reloaded Edition",
+      "uploadDate": "2026-09-07T06:24:39+00:00",
+      "uris": [
+        "https://gofile.io/d/GfPhrl"
+      ],
+      "appId": 534380,
+      "header-image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/534380/header.jpg?t=1788258144"
+    },
+    {
       "title": "WheelMates",
       "uploadDate": "2026-09-07T06:24:39+00:00",
       "uris": [
@@ -3337,7 +3355,7 @@
         "https://rootz.so/d/ltF2G"
       ],
       "appId": 4537200,
-      "header-image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537200/75cf65420518fb3225ceb3fdbebdb71f8ca2f916/header.jpg?t=1776068994"
+      "header-image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3008130/12cc1d5f3bc9e43345f388abe36f0737e999f966/header.jpg?t=1777373421"
     },
     {
       "title": "Voyagers of Nera",
