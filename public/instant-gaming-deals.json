@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-09T20:40:54+00:00",
+  "last_update": "2026-09-10T03:45:09+00:00",
   "hero": [
     {
       "title": "Onimusha: Way of the Sword",
@@ -21,23 +21,15 @@
       "title": "Wanderburg - PC (Steam)",
       "price": "$8.07",
       "discount": "-46%",
-      "image": "https://gaming-cdn.com/images/products/20070/380x218/wanderburg-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/20070/380x218/wanderburg-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/20070-buy-wanderburg-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
       "release": null
     },
     {
       "title": "No More Room In Hell 2 - PC (Steam)",
       "price": "$20.77",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
       "release": null
     },
@@ -45,7 +37,7 @@
       "title": "IRON NEST: Heavy Turret Simulator - PC (Steam)",
       "price": "$16.15",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/21900/380x218/iron-nest-heavy-turret-simulator-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/21900-buy-iron-nest-heavy-turret-simulator-pc-steam/",
       "release": null
     },
@@ -53,40 +45,48 @@
       "title": "Star Wars Zero Company - PC (EA App)",
       "price": "$45.58",
       "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/19161/380x218/star-wars-zero-company-pc-ea-app-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/19161/380x218/star-wars-zero-company-pc-ea-app-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/19161-buy-star-wars-zero-company-pc-ea-app/",
-      "release": null
-    },
-    {
-      "title": "Crimson Moon - PC (Steam)",
-      "price": "$17.30",
-      "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/21810/380x218/crimson-moon-pc-steam-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/21810-buy-crimson-moon-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Corsair Cove - PC (Steam)",
-      "price": "$24.81",
-      "discount": "-38%",
-      "image": "https://gaming-cdn.com/images/products/22395/380x218/corsair-cove-pc-steam-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/22395-buy-corsair-cove-pc-steam/",
       "release": null
     },
     {
       "title": "Sandustry - PC & Mac (Steam)",
       "price": "$8.65",
       "discount": "-42%",
-      "image": "https://gaming-cdn.com/images/products/23603/380x218/sandustry-pc-mac-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/23603/380x218/sandustry-pc-mac-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/23603-buy-sandustry-pc-mac-steam/",
+      "release": null
+    },
+    {
+      "title": "Crimson Moon - PC (Steam)",
+      "price": "$17.30",
+      "discount": "-13%",
+      "image": "https://gaming-cdn.com/images/products/21810/380x218/crimson-moon-pc-steam-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/21810-buy-crimson-moon-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Welcome to Elderfield - PC (Steam)",
+      "price": "$14.99",
+      "discount": "-28%",
+      "image": "https://gaming-cdn.com/images/products/23712/380x218/welcome-to-elderfield-pc-steam-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/23712-buy-welcome-to-elderfield-pc-steam/",
       "release": null
     },
     {
       "title": "Moonlighter 2: The Endless Vault - PC (Steam)",
       "price": "$17.88",
       "discount": "-40%",
-      "image": "https://gaming-cdn.com/images/products/18218/380x218/moonlighter-2-the-endless-vault-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/18218/380x218/moonlighter-2-the-endless-vault-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/18218-buy-moonlighter-2-the-endless-vault-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Palworld - PC (Steam)",
+      "price": "$27.69",
+      "discount": "-8%",
+      "image": "https://gaming-cdn.com/images/products/8982/380x218/palworld-pc-steam-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/8982-buy-palworld-pc-steam/",
       "release": null
     }
   ],
@@ -95,7 +95,7 @@
       "title": "EA Sports FC 27 Ultimate Edition + Advanced access - Xbox One & Xbox Series X|S",
       "price": "$95.80",
       "discount": "-25%",
-      "image": "https://gaming-cdn.com/images/products/23587/380x218/ea-sports-fc-27-ultimate-edition-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/23587/380x218/ea-sports-fc-27-ultimate-edition-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/23587-buy-ea-sports-fc-27-ultimate-edition-xbox-series-x-s-xbox-one-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 15 days"
     },
@@ -103,41 +103,41 @@
       "title": "Silent Hill: Townfall - Deluxe Edition + Advanced access - PC (Steam)",
       "price": "$46.16",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/23076/380x218/silent-hill-townfall-deluxe-edition-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/23076/380x218/silent-hill-townfall-deluxe-edition-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/23076-buy-silent-hill-townfall-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 14 days"
     },
     {
-      "title": "Welcome to Elderfield - PC (Steam)",
-      "price": "$14.99",
-      "discount": "-28%",
-      "image": "https://gaming-cdn.com/images/products/23712/380x218/welcome-to-elderfield-pc-steam-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/23712-buy-welcome-to-elderfield-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        Today"
+      "title": "CONTROL Resonant Digital Deluxe Edition - PC (Steam)",
+      "price": "$60.01",
+      "discount": "-14%",
+      "image": "https://gaming-cdn.com/images/products/23785/380x218/control-resonant-digital-deluxe-edition-pc-steam-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/23785-buy-control-resonant-digital-deluxe-edition-pc-steam/",
+      "release": "Pre-order\n                    \n\n                        In 14 days"
     },
     {
       "title": "Minecraft Dungeons II - Deluxe Edition - PC & Xbox Series X|S (Microsoft Store)",
       "price": "$44.43",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/22155-buy-minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 19 days"
-    },
-    {
-      "title": "CONTROL Resonant - PC (Steam)",
-      "price": "$51.93",
-      "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 14 days"
     },
     {
       "title": "Final Fantasy Resonance - PC (Steam)",
       "price": "$46.16",
       "discount": "-8%",
-      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/",
       "release": "Pre-order\n                    \n\n                        21 October 2026"
+    },
+    {
+      "title": "Dragon's Dogma 2: Dark Arisen Expansion - PC (Steam)",
+      "price": "$25.96",
+      "discount": "-13%",
+      "image": "https://gaming-cdn.com/images/products/23079/380x218/dragon-s-dogma-2-dark-arisen-expansion-pc-steam-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/23079-buy-dragon-s-dogma-2-dark-arisen-expansion-pc-steam/",
+      "release": "Pre-order\n                    \n\n                        In 29 days"
     }
   ],
   "bestsellers": [
@@ -145,39 +145,39 @@
       "title": "Wanderburg - PC (Steam)",
       "price": "$8.07",
       "discount": "-46%",
-      "image": "https://gaming-cdn.com/images/products/20070/380x218/wanderburg-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/20070/380x218/wanderburg-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/20070-buy-wanderburg-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "PlayStation Store gift card 50$",
+      "price": "$45.58",
+      "discount": "-9%",
+      "image": "https://gaming-cdn.com/images/products/1192/380x218/playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/1192-buy-playstation-store-gift-card-50-50-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
     {
       "title": "Roblox - 1000 Robux",
       "price": "$12.11",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     },
     {
-      "title": "Minecraft: Java & Bedrock Edition - PC",
-      "price": "$18.92",
-      "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
-      "release": null
-    },
-    {
-      "title": "PlayStation Store gift card 10$",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
+      "title": "The Plucky Squire - PC (Steam)",
+      "price": "$1.95",
+      "discount": "-94%",
+      "image": "https://gaming-cdn.com/images/products/12124/380x218/the-plucky-squire-pc-game-steam-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/12124-buy-the-plucky-squire-pc-game-steam/",
       "release": null
     },
     {
       "title": "Halloween: The Game - PC (Steam)",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/products/20179/380x218/halloween-the-game-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/20179/380x218/halloween-the-game-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/20179-buy-halloween-the-game-pc-steam/",
       "release": null
     },
@@ -185,23 +185,23 @@
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.30",
       "discount": "-62%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
     {
-      "title": "The Plucky Squire - PC (Steam)",
-      "price": "$1.95",
-      "discount": "-94%",
-      "image": "https://gaming-cdn.com/images/products/12124/380x218/the-plucky-squire-pc-game-steam-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/12124-buy-the-plucky-squire-pc-game-steam/",
+      "title": "Minecraft: Java & Bedrock Edition - PC",
+      "price": "$18.92",
+      "discount": "-45%",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
     {
       "title": "Human: Fall Flat - PC & Mac (Steam)",
       "price": "$1.14",
       "discount": "-94%",
-      "image": "https://gaming-cdn.com/images/products/1611/380x218/human-fall-flat-pc-mac-game-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/1611/380x218/human-fall-flat-pc-mac-game-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/1611-buy-human-fall-flat-pc-mac-game-steam/",
       "release": null
     },
@@ -209,7 +209,7 @@
       "title": "ReStory: Chill Electronics Repairs - PC (Steam)",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/23124/380x218/restory-chill-electronics-repairs-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/23124-buy-restory-chill-electronics-repairs-pc-steam/",
       "release": null
     },
@@ -217,23 +217,41 @@
       "title": "No More Room In Hell 2 - PC (Steam)",
       "price": "$20.77",
       "discount": "-31%",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1788984000",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1789009200",
       "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
       "release": null
     },
     {
-      "title": "Ghost of Tsushima: Director's Cut - PC (Steam)",
-      "price": "$35.20",
-      "discount": "-49%",
-      "image": "https://gaming-cdn.com/images/products/9093/380x218/ghost-of-tsushima-director-s-cut-pc-steam-cover.jpg?v=1788984000",
-      "url": "https://www.instant-gaming.com/en/9093-buy-ghost-of-tsushima-director-s-cut-pc-steam/",
+      "title": "No Man's Sky - PC & Mac (Steam)",
+      "price": "$17.30",
+      "discount": "-71%",
+      "image": "https://gaming-cdn.com/images/products/414/380x218/no-man-s-sky-pc-mac-steam-cover.jpg?v=1789009200",
+      "url": "https://www.instant-gaming.com/en/414-buy-no-man-s-sky-pc-mac-steam/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "Scars Above",
+      "game_image": "https://gaming-cdn.com/images/products/12718/450x258/scars-above-pc-game-steam-europe-and-us-and-canada-cover.jpg?v=1789009200",
+      "game_url": "https://www.instant-gaming.com/en/12718-buy-scars-above-pc-game-steam-europe-and-us-and-canada/",
+      "user": "Ophcharus Ithilelen",
+      "avatar": "https://gaming-cdn.com/images/avatars/32357124-1789005848.jpg",
+      "sentiment": "dislike",
+      "content": "Do not purchase it if u wall under restricted regions set by the publisher \"Prime Matter / PLAION\", cause the key will fail to activate. Check what region you are before purchasing. \n\nRestricted regions are: \n\nLatin America (LATAM), Southeast Asia (SEA), Eastern Europe / Balkans / CIS, China, Africa;"
+    },
+    {
+      "game": "Graveyard Keeper",
+      "game_image": "https://gaming-cdn.com/images/products/3121/450x258/graveyard-keeper-pc-mac-game-steam-cover.jpg?v=1789009200",
+      "game_url": "https://www.instant-gaming.com/en/3121-buy-graveyard-keeper-pc-mac-game-steam/",
+      "user": "FattyMcBoomBoom",
+      "avatar": "https://gaming-cdn.com/images/avatars/31312858-1777750346.jpg",
+      "sentiment": "like",
+      "content": "It's a good game, a bit long and grindy but that might be what you're looking for. I liked the story, the graphics were impressive for a pixel game. Great time-waster.\n\n\n\nI definitely will have number two Wish-Listed!"
+    },
+    {
       "game": "Resonance: A Plague Tale Legacy",
-      "game_image": "https://gaming-cdn.com/images/products/19517/450x258/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1788984000",
+      "game_image": "https://gaming-cdn.com/images/products/19517/450x258/resonance-a-plague-tale-legacy-pc-steam-cover.jpg?v=1789009200",
       "game_url": "https://www.instant-gaming.com/en/19517-buy-resonance-a-plague-tale-legacy-pc-steam/",
       "user": "DUNDI",
       "avatar": "https://gaming-cdn.com/images/avatars/6424429-1744558981.jpg",
@@ -242,30 +260,12 @@
     },
     {
       "game": "Streets Of Rage 4 - Mr. X Nightmare",
-      "game_image": "https://gaming-cdn.com/images/products/8578/450x258/streets-of-rage-4-mr-x-nightmare-pc-mac-game-steam-cover.jpg?v=1788984000",
+      "game_image": "https://gaming-cdn.com/images/products/8578/450x258/streets-of-rage-4-mr-x-nightmare-pc-mac-game-steam-cover.jpg?v=1789009200",
       "game_url": "https://www.instant-gaming.com/en/8578-buy-streets-of-rage-4-mr-x-nightmare-pc-mac-game-steam/",
       "user": "Themarketingjediknight",
       "avatar": "https://gaming-cdn.com/images/avatars/32080156-1788249708.jpg",
       "sentiment": "like",
       "content": "Awesome game and love the new game mechanics and how they blend the new with the old, tons of customization option for how you want to play...just could use more ccharacters 2 or 3 more new characters and some movement updates for some of the older characters, such running. But all & all, a solid 4 ⭐️ game!"
-    },
-    {
-      "game": "Halloween: The Game",
-      "game_image": "https://gaming-cdn.com/images/products/20179/450x258/halloween-the-game-pc-steam-cover.jpg?v=1788984000",
-      "game_url": "https://www.instant-gaming.com/en/20179-buy-halloween-the-game-pc-steam/",
-      "user": "Πανος",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "like",
-      "content": "i love halloween the game runs smooth for new game that is very nice , yes you can face some minor bugs it is a new game but get patches very fast , it has alot of potential i hope so the developers keep the good work the game is very fun and some times scary . :)"
-    },
-    {
-      "game": "Signalis",
-      "game_image": "https://gaming-cdn.com/images/products/12334/450x258/signalis-pc-game-steam-cover.jpg?v=1788984000",
-      "game_url": "https://www.instant-gaming.com/en/12334-buy-signalis-pc-game-steam/",
-      "user": "H4NZ0",
-      "avatar": "https://gaming-cdn.com/images/avatars/18926466-1725457320.jpg",
-      "sentiment": "like",
-      "content": "I don't particularly enjoy horror games as I'm someone who gets scared easily, but this game sure did a great job at keeping me at the edge of my seat, using my brain fully, and the good ol occasional scare. 10/10"
     }
   ],
   "weekly_deals": []
