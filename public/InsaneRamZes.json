@@ -466,17 +466,9 @@
       ]
     },
     {
-      "title": "ARMORED CORE VI FIRES OF RUBICON (FromSoftware Inc., Bandai Namco Entertainment Inc.) (RUS|ENG|Multi13) [L]",
-      "fileSize": "61.26 GB",
-      "uploadDate": "2026-09-17T01:50:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:2f128f387dd10808344ddab66b567216cc99ce02&dn=ARMORED%20CORE%20VI%20FIRES%20OF%20RUBICON%20%28FromSoftware%20Inc.%2C%20Bandai%20Namco%20Entertainment%20Inc.%29%20%28RUS%7CENG%7CMulti13%29%20%5BL%5D"
-      ]
-    },
-    {
       "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl (RUS/ENG/MULTi18) [P]",
       "fileSize": "201.86 GB",
-      "uploadDate": "2026-09-16T21:08:00.000Z",
+      "uploadDate": "2026-09-17T12:51:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:c5772053c959df0db06e23278dc1c2abc274f5eb&dn=S.T.A.L.K.E.R.%202%3A%20Heart%20of%20Chornobyl%20%28RUS/ENG/MULTi18%29%20%5BP%5D"
       ]
@@ -484,25 +476,65 @@
     {
       "title": "DOOM: The Dark Ages (RUS/ENG/MULTi15) [P]",
       "fileSize": "118.26 GB",
-      "uploadDate": "2026-09-16T14:31:00.000Z",
+      "uploadDate": "2026-09-17T11:21:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:a511a6d51b9ab9be4e5209c309d62bb74384b184&dn=DOOM%3A%20The%20Dark%20Ages%20%28RUS/ENG/MULTi15%29%20%5BP%5D"
       ]
     },
     {
-      "title": "007 First Light (RUS/ENG/MULTi14) [P]",
-      "fileSize": "53.11 GB",
-      "uploadDate": "2026-09-15T22:58:00.000Z",
+      "title": "Atomic Heart (RUS/ENG/MULTI13) [Repack]",
+      "fileSize": "61.27 GB",
+      "uploadDate": "2026-09-17T09:49:00.000Z",
       "uris": [
-        "magnet:?xt=urn:btih:e1691e098483e20136d6dbc8f2f7c06f3f26a695&dn=007%20First%20Light%20%28RUS/ENG/MULTi14%29%20%5BP%5D"
+        "magnet:?xt=urn:btih:104091344974bb48bc5624cda464e877a126f3bc&dn=Atomic%20Heart%20%28RUS/ENG/MULTI13%29%20%5BRepack%5D"
       ]
     },
     {
-      "title": "Atomic Heart (RUS/ENG/MULTI13) [Repack]",
-      "fileSize": "61.27 GB",
-      "uploadDate": "2026-09-15T18:48:00.000Z",
+      "title": "Atomic Heart (RUS/ENG/MULTi13) [P]",
+      "fileSize": "163.41 GB",
+      "uploadDate": "2026-09-17T09:47:00.000Z",
       "uris": [
-        "magnet:?xt=urn:btih:104091344974bb48bc5624cda464e877a126f3bc&dn=Atomic%20Heart%20%28RUS/ENG/MULTI13%29%20%5BRepack%5D"
+        "magnet:?xt=urn:btih:e8e7f8bbec6e4caaef3d41f3fefc36e0c76b8538&dn=Atomic%20Heart%20%28RUS/ENG/MULTi13%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "Grand Theft Auto V Enhanced (RUS/ENG/MULTi13) [P]",
+      "fileSize": "95.93 GB",
+      "uploadDate": "2026-09-17T09:39:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:b02e8a454e6b234730b15e893fd664c6fb1c4229&dn=Grand%20Theft%20Auto%20V%20Enhanced%20%28RUS/ENG/MULTi13%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "Forever Skies (RUS/ENG/MULTi8) [P]",
+      "fileSize": "23.23 GB",
+      "uploadDate": "2026-09-17T09:28:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:6f3af6beb1bf2a26412d465bd6ea4492ac4f0a2a&dn=Forever%20Skies%20%28RUS/ENG/MULTi8%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "Conan Exiles Enhanced (RUS/ENG/MULTi12) [P]",
+      "fileSize": "60.86 GB",
+      "uploadDate": "2026-09-17T09:17:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:cd5e9b779fefb07c26071c9aecc4aec6ae03c602&dn=Conan%20Exiles%20Enhanced%20%28RUS/ENG/MULTi12%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "007 First Light (RUS/ENG/MULTi14) [P]",
+      "fileSize": "53.27 GB",
+      "uploadDate": "2026-09-17T08:58:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:3cb4f1ffe4976ad391115a786258adac042eef71&dn=007%20First%20Light%20%28RUS/ENG/MULTi14%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "ARMORED CORE VI FIRES OF RUBICON (FromSoftware Inc., Bandai Namco Entertainment Inc.) (RUS|ENG|Multi13) [L]",
+      "fileSize": "61.26 GB",
+      "uploadDate": "2026-09-17T01:50:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:2f128f387dd10808344ddab66b567216cc99ce02&dn=ARMORED%20CORE%20VI%20FIRES%20OF%20RUBICON%20%28FromSoftware%20Inc.%2C%20Bandai%20Namco%20Entertainment%20Inc.%29%20%28RUS%7CENG%7CMulti13%29%20%5BL%5D"
       ]
     },
     {
@@ -802,14 +834,6 @@
       ]
     },
     {
-      "title": "Grand Theft Auto V Enhanced (RUS/ENG/MULTi13) [P]",
-      "fileSize": "96.16 GB",
-      "uploadDate": "2026-09-08T16:52:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:ba2e4b4cc8786f7f18956300e1c4f81a4cc6417e&dn=Grand%20Theft%20Auto%20V%20Enhanced%20%28RUS/ENG/MULTi13%29%20%5BP%5D"
-      ]
-    },
-    {
       "title": "Grand Theft Auto V Enhanced (RUS/ENG/MULTI13) [Repack]",
       "fileSize": "39.53 GB",
       "uploadDate": "2026-09-08T01:31:00.000Z",
@@ -1106,14 +1130,6 @@
       ]
     },
     {
-      "title": "Atomic Heart (RUS/ENG/MULTi13) [P]",
-      "fileSize": "163.41 GB",
-      "uploadDate": "2026-08-28T22:45:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:e8e7f8bbec6e4caaef3d41f3fefc36e0c76b8538&dn=Atomic%20Heart%20%28RUS/ENG/MULTi13%29%20%5BP%5D"
-      ]
-    },
-    {
       "title": "Fomalhaut-19(RUS/ENG/MULTi7) [P]",
       "fileSize": "1.59 GB",
       "uploadDate": "2026-08-28T08:35:00.000Z",
@@ -1127,14 +1143,6 @@
       "uploadDate": "2026-08-28T02:44:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:22f1d6df7213a4d1bda5fea85a8d9c204c9e9852&dn=Hail%20to%20the%20Rainbow%20%28%D0%9D%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%29%20%28RUS%7CENG%7CMULTi10%29%20%5BDL%7CGOG%5D"
-      ]
-    },
-    {
-      "title": "Conan Exiles Enhanced (RUS/ENG/MULTi12) [P]",
-      "fileSize": "64.27 GB",
-      "uploadDate": "2026-08-27T06:41:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:5f0af1910500652f798865a75ec7a6d8ff2feb0d&dn=Conan%20Exiles%20Enhanced%20%28RUS/ENG/MULTi12%29%20%5BP%5D"
       ]
     },
     {
@@ -1423,14 +1431,6 @@
       "uploadDate": "2026-08-15T21:14:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:8312cbb268ad4afb08c65f75efaa70c1fc7fbb26&dn=The%20Mound%3A%20Omen%20of%20Cthulhu%20%28RUS/ENG/MULTi11%29%20%5BP%5D"
-      ]
-    },
-    {
-      "title": "Forever Skies (RUS/ENG/MULTi8) [P]",
-      "fileSize": "23.4 GB",
-      "uploadDate": "2026-08-15T19:21:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:400ab3d4daafd5844657c584253a1c2c134bd763&dn=Forever%20Skies%20%28RUS/ENG/MULTi8%29%20%5BP%5D"
       ]
     },
     {
