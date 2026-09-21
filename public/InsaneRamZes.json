@@ -482,14 +482,6 @@
       ]
     },
     {
-      "title": "Yakuza 4 Remastered (SEGA) (ENG|CHI|MULTI4) [DL|NfRG|GOG] / [Windows]",
-      "fileSize": "28.88 GB",
-      "uploadDate": "2026-09-20T21:30:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:ce17c94030f0638f3d7b75d319dd0746d0d6fb76&dn=Yakuza%204%20Remastered%20%28SEGA%29%20%28ENG%7CCHI%7CMULTI4%29%20%5BDL%7CNfRG%7CGOG%5D%20/%20%5BWindows%5D"
-      ]
-    },
-    {
       "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl (RUS/ENG/MULTi18) [P]",
       "fileSize": "201.86 GB",
       "uploadDate": "2026-09-20T19:48:00.000Z",
@@ -842,6 +834,14 @@
       ]
     },
     {
+      "title": "The Sinking City 2 (RUS/ENG/MULTI16) [Repack]",
+      "fileSize": "38.62 GB",
+      "uploadDate": "2026-09-12T01:05:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:6ea967cbbbf7584abe2938ad5716de1f0076e177&dn=The%20Sinking%20City%202%20%28RUS/ENG/MULTI16%29%20%5BRepack%5D"
+      ]
+    },
+    {
       "title": "ICARUS (RUS/ENG/MULTI10) [Repack]",
       "fileSize": "25.56 GB",
       "uploadDate": "2026-09-12T00:31:00.000Z",
@@ -1026,6 +1026,14 @@
       ]
     },
     {
+      "title": "The Sinking City 2 (Frogwares) (ENG|MULTi15) [DL|GOG]",
+      "fileSize": "48.58 GB",
+      "uploadDate": "2026-09-04T17:37:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:602c538e63da6459459176e077568731f6d2afd5&dn=The%20Sinking%20City%202%20%28Frogwares%29%20%28ENG%7CMULTi15%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
       "title": "Ready or Not (RUS/ENG/MULTi12) [P]",
       "fileSize": "48.78 GB",
       "uploadDate": "2026-09-04T12:59:00.000Z",
@@ -1119,6 +1127,14 @@
       "uploadDate": "2026-09-01T01:42:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:96a485e16200ecb6773b684dfd30d1ef7e0755ff&dn=Cult%20of%20the%20Lamb%20%28Devolver%20Digital%29%20%28RUS/ENG/Multi10%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
+      "title": "The Sinking City 2 (ENG/MULTi15) [P]",
+      "fileSize": "49.4 GB",
+      "uploadDate": "2026-09-01T01:30:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:2c5a3ab1cda3fc161b90cfd26edc1acc674b463b&dn=The%20Sinking%20City%202%20%28ENG/MULTi15%29%20%5BP%5D"
       ]
     },
     {
@@ -1250,6 +1266,14 @@
       ]
     },
     {
+      "title": "Twisted Tower (ENG) [Repack]",
+      "fileSize": "2.3 GB",
+      "uploadDate": "2026-08-26T09:22:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:0ed945aa5b8ec01a5ae2b7bdf93bfc03c425230a&dn=Twisted%20Tower%20%28ENG%29%20%5BRepack%5D"
+      ]
+    },
+    {
       "title": "Hollowbody (RUS/ENG/MULTi5) [Repack]",
       "fileSize": "4.8 GB",
       "uploadDate": "2026-08-26T07:07:00.000Z",
@@ -1306,11 +1330,27 @@
       ]
     },
     {
+      "title": "Dagger Directive (RUS/ENG/MULTI12) [Repack]",
+      "fileSize": "1.01 GB",
+      "uploadDate": "2026-08-23T22:17:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:1e95d6c470e576ac04dd26a96dd999a0334d7f18&dn=Dagger%20Directive%20%28RUS/ENG/MULTI12%29%20%5BRepack%5D"
+      ]
+    },
+    {
       "title": "Shady Knight (ENG) [P]",
       "fileSize": "705 MB",
       "uploadDate": "2026-08-22T20:06:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:8e4e5a5a7361532289f6cf2f01acdadcfa8d9176&dn=Shady%20Knight%20%28ENG%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "Clawed (ENG) [Repack]",
+      "fileSize": "11.63 GB",
+      "uploadDate": "2026-08-22T17:15:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:0e2c291c9fe19dd6ada9f1e29b4968e15193c060&dn=Clawed%20%28ENG%29%20%5BRepack%5D"
       ]
     },
     {
@@ -1455,6 +1495,14 @@
       "uploadDate": "2026-08-17T19:15:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:ad48fbe7336d2c5598367a39b63cec7158507d13&dn=Star%20Wars%20Jedi%3A%20Survivor%20%28RUS/ENG%29%20%5BRePack%5D"
+      ]
+    },
+    {
+      "title": "The Skin Stapler (ENG) [Repack]",
+      "fileSize": "1.23 GB",
+      "uploadDate": "2026-08-17T18:23:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:755027aec4268bdc3e39911b2a46774a0881eaf3&dn=The%20Skin%20Stapler%20%28ENG%29%20%5BRepack%5D"
       ]
     },
     {
@@ -8357,6 +8405,14 @@
       "uploadDate": "2025-05-02T14:19:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:a0d89a2914e1da92c71ae5a7b01f2a97e2ffce9a&dn=A%20Plague%20Tale%3A%20Requiem%20%28Focus%20Entertainment%29%20%28RUS%7CENG%7CMULTi16%29%20%5BDL%7CSteam-Rip%5D%20%D0%BE%D1%82%20R.G.%20%D0%98%D0%B3%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%8B"
+      ]
+    },
+    {
+      "title": "Yakuza 4 Remastered (SEGA) (ENG|CHI|MULTI4) [DL|NfRG|GOG] / [Windows]",
+      "fileSize": "28.88 GB",
+      "uploadDate": "2025-05-02T07:54:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:ce17c94030f0638f3d7b75d319dd0746d0d6fb76&dn=Yakuza%204%20Remastered%20%28SEGA%29%20%28ENG%7CCHI%7CMULTI4%29%20%5BDL%7CNfRG%7CGOG%5D%20/%20%5BWindows%5D"
       ]
     },
     {
