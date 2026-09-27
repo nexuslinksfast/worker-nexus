@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-27T04:23:58+00:00",
+  "last_update": "2026-09-27T11:41:20+00:00",
   "hero": [
     {
       "title": "EA Sports FC 27",
@@ -21,7 +21,7 @@
       "title": "EA Sports FC 27 - PC (EA App)",
       "price": "$64.97",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
       "release": null
     },
@@ -29,7 +29,7 @@
       "title": "CONTROL Resonant - PC (Steam)",
       "price": "$48.44",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
       "release": null
     },
@@ -37,47 +37,47 @@
       "title": "EA Sports FC 27 - XBOX One & XBOX Series X|S",
       "price": "$63.83",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/23585-buy-ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store/",
-      "release": null
-    },
-    {
-      "title": "Silent Hill: Townfall - PC (Steam)",
-      "price": "$38.98",
-      "discount": "-22%",
-      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1790481600",
-      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
       "release": null
     },
     {
       "title": "Graveyard Keeper 2 - PC (Steam)",
       "price": "$19.94",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/22343-buy-graveyard-keeper-2-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Silent Hill: Townfall - PC (Steam)",
+      "price": "$38.98",
+      "discount": "-22%",
+      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1790506800",
+      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Valheim - PC & Mac (Steam)",
+      "price": "$24.95",
+      "discount": "-17%",
+      "image": "https://gaming-cdn.com/images/products/7119/380x218/valheim-pc-mac-steam-cover.jpg?v=1790506800",
+      "url": "https://www.instant-gaming.com/en/7119-buy-valheim-pc-mac-steam/",
       "release": null
     },
     {
       "title": "No More Room In Hell 2 - PC (Steam)",
       "price": "$19.37",
       "discount": "-35%",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Valheim - PC & Mac (Steam)",
-      "price": "$25.07",
-      "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/7119/380x218/valheim-pc-mac-steam-cover.jpg?v=1790481600",
-      "url": "https://www.instant-gaming.com/en/7119-buy-valheim-pc-mac-steam/",
       "release": null
     },
     {
       "title": "Palworld - PC (Steam)",
       "price": "$22.79",
       "discount": "-24%",
-      "image": "https://gaming-cdn.com/images/products/8982/380x218/palworld-pc-steam-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/8982/380x218/palworld-pc-steam-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/8982-buy-palworld-pc-steam/",
       "release": null
     },
@@ -85,7 +85,7 @@
       "title": "Wanderburg - PC (Steam)",
       "price": "$7.97",
       "discount": "-47%",
-      "image": "https://gaming-cdn.com/images/products/20070/380x218/wanderburg-pc-steam-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/20070/380x218/wanderburg-pc-steam-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/20070-buy-wanderburg-pc-steam/",
       "release": null
     }
@@ -95,7 +95,7 @@
       "title": "Minecraft Dungeons II - Deluxe Edition - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$43.88",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/22155-buy-minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        Tomorrow"
     },
@@ -103,7 +103,7 @@
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
       "price": "$55.85",
       "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 15 days"
     },
@@ -111,31 +111,31 @@
       "title": "Gears of War: E-Day Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$79.79",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/22979-buy-gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store/",
+      "release": "Pre-order\n                    \n\n                        In 8 days"
+    },
+    {
+      "title": "Star Wars: Galactic Racer Deluxe Edition - PC (Steam)",
+      "price": "$61.43",
+      "discount": "-23%",
+      "image": "https://gaming-cdn.com/images/products/22526/380x218/star-wars-galactic-racer-deluxe-edition-pc-steam-cover.jpg?v=1790506800",
+      "url": "https://www.instant-gaming.com/en/22526-buy-star-wars-galactic-racer-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 8 days"
     },
     {
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$85.49",
       "discount": "-32%",
-      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/22745-buy-call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 25 days"
-    },
-    {
-      "title": "Star Wars: Galactic Racer Deluxe Edition - PC (Steam)",
-      "price": "$61.43",
-      "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/22526/380x218/star-wars-galactic-racer-deluxe-edition-pc-steam-cover.jpg?v=1790481600",
-      "url": "https://www.instant-gaming.com/en/22526-buy-star-wars-galactic-racer-deluxe-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 8 days"
     },
     {
       "title": "Gears of War: E-Day Premium Edition Upgrade + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$27.35",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/22984/380x218/gears-of-war-e-day-premium-edition-upgrade-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/22984/380x218/gears-of-war-e-day-premium-edition-upgrade-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/22984-buy-gears-of-war-e-day-premium-edition-upgrade-xbox-series-x-s-pc-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 8 days"
     }
@@ -145,15 +145,15 @@
       "title": "EA Sports FC 27 - PC (EA App)",
       "price": "$64.97",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
       "release": null
     },
     {
       "title": "PlayStation Store gift card 10$",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1790481600",
+      "price": "$9.34",
+      "discount": "-7%",
+      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
@@ -161,7 +161,7 @@
       "title": "EA Sports FC 27 - XBOX One & XBOX Series X|S",
       "price": "$63.83",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/23585-buy-ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store/",
       "release": null
     },
@@ -169,7 +169,7 @@
       "title": "CONTROL Resonant - PC (Steam)",
       "price": "$48.44",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
       "release": null
     },
@@ -177,72 +177,72 @@
       "title": "EA Sports FC 27 - 5900 FC Points - XBOX One & XBOX Series X|S",
       "price": "$45.02",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/23881-buy-ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store/",
-      "release": null
-    },
-    {
-      "title": "Silent Hill: Townfall - PC (Steam)",
-      "price": "$38.98",
-      "discount": "-22%",
-      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1790481600",
-      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
       "release": null
     },
     {
       "title": "Minecraft: Java & Bedrock Edition - PC",
       "price": "$18.68",
       "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
-      "release": null
-    },
-    {
-      "title": "Graveyard Keeper 2 - PC (Steam)",
-      "price": "$19.94",
-      "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1790481600",
-      "url": "https://www.instant-gaming.com/en/22343-buy-graveyard-keeper-2-pc-steam/",
       "release": null
     },
     {
       "title": "Nintendo eShop Card 20$",
       "price": "$17.67",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/10559/380x218/nintendo-eshop-card-20-20-card-switch-switch-2-game-nintendo-eshop-united-states-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/10559/380x218/nintendo-eshop-card-20-20-card-switch-switch-2-game-nintendo-eshop-united-states-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/10559-buy-nintendo-eshop-card-20-20-card-switch-switch-2-game-nintendo-eshop-united-states/",
       "release": null
     },
     {
-      "title": "Roblox - 1000 Robux",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1790481600",
-      "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
+      "title": "Graveyard Keeper 2 - PC (Steam)",
+      "price": "$19.94",
+      "discount": "-20%",
+      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1790506800",
+      "url": "https://www.instant-gaming.com/en/22343-buy-graveyard-keeper-2-pc-steam/",
       "release": null
     },
     {
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.16",
       "discount": "-63%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1790481600",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1790506800",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
+      "release": null
+    },
+    {
+      "title": "Silent Hill: Townfall - PC (Steam)",
+      "price": "$38.98",
+      "discount": "-22%",
+      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1790506800",
+      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Roblox - 1000 Robux",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1790506800",
+      "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     }
   ],
   "reviews": [
     {
-      "game": "The Sims 4 Get To Work",
-      "game_image": "https://gaming-cdn.com/images/products/729/450x258/the-sims-4-get-to-work-pc-mac-game-ea-app-cover.jpg?v=1790481600",
-      "game_url": "https://www.instant-gaming.com/en/729-buy-the-sims-4-get-to-work-pc-mac-game-ea-app/",
-      "user": "gamer-38813dd",
+      "game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "game_image": "https://gaming-cdn.com/images/products/8441/450x258/teenage-mutant-ninja-turtles-shredder-s-revenge-pc-steam-cover.jpg?v=1790506800",
+      "game_url": "https://www.instant-gaming.com/en/8441-buy-teenage-mutant-ninja-turtles-shredder-s-revenge-pc-steam/",
+      "user": "BranjoHello",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
       "sentiment": "like",
-      "content": "O pacote Ao Trabalho é muito divertido e adiciona bastante coisa nova ao jogo. Gosto principalmente da possibilidade de acompanhar os Sims no trabalho e controlar diretamente algumas profissões, além de poder criar e administrar uma loja. As carreiras interativas deixam a rotina dos Sims bem mais interessante e dão mais liberdade para jogar de diferentes formas."
+      "content": "Asked the support if the store plans to sell Ultimate Edition in the future, they replied (quickly) \"don't know, we'll see, keep the game wishlisted\".\n\n\n\nFew days later, I saw the price of this drop quite a lot and I thought \"well, even if it isn't UE, still worth the price\", so I bought it.\n\n\n\nRedeemed on Steam and actually got the UE (probably a Humble Bundle code from last month, which I missed and how got what I wanted waaay cheaper).\n\n\n\nSo happy, love this store! \\o/"
     },
     {
       "game": "Mewgenics",
-      "game_image": "https://gaming-cdn.com/images/products/21410/450x258/mewgenics-pc-steam-cover.jpg?v=1790481600",
+      "game_image": "https://gaming-cdn.com/images/products/21410/450x258/mewgenics-pc-steam-cover.jpg?v=1790506800",
       "game_url": "https://www.instant-gaming.com/en/21410-buy-mewgenics-pc-steam/",
       "user": "gamer-94f9ca0",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -251,7 +251,7 @@
     },
     {
       "game": "Divinity: Original Sin II Definitive Edition",
-      "game_image": "https://gaming-cdn.com/images/products/997/450x258/divinity-original-sin-ii-definitive-edition-definitive-edition-pc-game-gog-com-cover.jpg?v=1790481600",
+      "game_image": "https://gaming-cdn.com/images/products/997/450x258/divinity-original-sin-ii-definitive-edition-definitive-edition-pc-game-gog-com-cover.jpg?v=1790506800",
       "game_url": "https://www.instant-gaming.com/en/997-buy-divinity-original-sin-ii-definitive-edition-definitive-edition-pc-game-gog-com/",
       "user": "gamer-cac1ba",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -260,7 +260,7 @@
     },
     {
       "game": "NHL 27 Standard Edition",
-      "game_image": "https://gaming-cdn.com/images/products/23745/450x258/nhl-27-standard-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1790481600",
+      "game_image": "https://gaming-cdn.com/images/products/23745/450x258/nhl-27-standard-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1790506800",
       "game_url": "https://www.instant-gaming.com/en/23745-buy-nhl-27-standard-edition-xbox-series-x-s-microsoft-store/",
       "user": "gamer-f2a0078",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
