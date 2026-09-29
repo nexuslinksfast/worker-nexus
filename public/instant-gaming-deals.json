@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-29T12:24:02+00:00",
+  "last_update": "2026-09-29T22:01:47+00:00",
   "hero": [
     {
       "title": "EA Sports FC 27",
@@ -9,11 +9,11 @@
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/"
     },
     {
-      "title": "Minecraft Dungeons II",
-      "price": "$27.26",
-      "discount": "-20%",
-      "image": "https://gaming-cdn.com/img/products/18828/hcover/1920x620/18828.jpg?v=1790328954",
-      "url": "https://www.instant-gaming.com/en/18828-buy-minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store/"
+      "title": "Minecraft Dungeons II - Deluxe Edition",
+      "price": "$43.74",
+      "discount": "-23%",
+      "image": "https://gaming-cdn.com/img/products/22155/hcover/1920x620/22155.jpg?v=1790328940",
+      "url": "https://www.instant-gaming.com/en/22155-buy-minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store/"
     }
   ],
   "trending": [
@@ -21,15 +21,31 @@
       "title": "EA Sports FC 27 - PC (EA App)",
       "price": "$64.76",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790312899",
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
+      "release": null
+    },
+    {
+      "title": "Transport Fever 3 - PC & Mac (Steam)",
+      "price": "$42.03",
+      "discount": "-16%",
+      "image": "https://gaming-cdn.com/images/products/19382/380x218/transport-fever-3-pc-mac-steam-cover.jpg?v=1790316884",
+      "url": "https://www.instant-gaming.com/en/19382-buy-transport-fever-3-pc-mac-steam/",
+      "release": null
+    },
+    {
+      "title": "Nivalis Nights - PC (Steam)",
+      "price": "$19.31",
+      "discount": "-23%",
+      "image": "https://gaming-cdn.com/images/products/13792/380x218/nivalis-nights-pc-steam-cover.jpg?v=1790694427",
+      "url": "https://www.instant-gaming.com/en/13792-buy-nivalis-nights-pc-steam/",
       "release": null
     },
     {
       "title": "Minecraft Dungeons II - Deluxe Edition - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$43.74",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790328940",
       "url": "https://www.instant-gaming.com/en/22155-buy-minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": null
     },
@@ -37,7 +53,7 @@
       "title": "CONTROL Resonant - PC (Steam)",
       "price": "$48.28",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790314490",
       "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
       "release": null
     },
@@ -45,7 +61,7 @@
       "title": "EA Sports FC 27 - XBOX One & XBOX Series X|S",
       "price": "$63.62",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1790313887",
       "url": "https://www.instant-gaming.com/en/23585-buy-ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store/",
       "release": null
     },
@@ -53,40 +69,24 @@
       "title": "Graveyard Keeper 2 - PC (Steam)",
       "price": "$19.87",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1790147069",
       "url": "https://www.instant-gaming.com/en/22343-buy-graveyard-keeper-2-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Silent Hill: Townfall - PC (Steam)",
-      "price": "$38.85",
-      "discount": "-22%",
-      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Valheim - PC & Mac (Steam)",
-      "price": "$24.65",
-      "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/7119/380x218/valheim-pc-mac-steam-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/7119-buy-valheim-pc-mac-steam/",
-      "release": null
-    },
-    {
-      "title": "WARDOGS Supporter Edition - PC (Steam)",
-      "price": "$56.81",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/23831/380x218/wardogs-supporter-edition-pc-steam-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/23831-buy-wardogs-supporter-edition-pc-steam/",
       "release": null
     },
     {
       "title": "No More Room In Hell 2 - PC (Steam)",
       "price": "$19.31",
       "discount": "-36%",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1787643061",
       "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Silent Hill: Townfall - PC (Steam)",
+      "price": "$38.85",
+      "discount": "-22%",
+      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1790314399",
+      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
       "release": null
     }
   ],
@@ -95,7 +95,7 @@
       "title": "Gears of War: E-Day Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$79.53",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/22979/380x218/gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790591185",
       "url": "https://www.instant-gaming.com/en/22979-buy-gears-of-war-e-day-premium-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 6 days"
     },
@@ -103,7 +103,7 @@
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
       "price": "$55.67",
       "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1790234244",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 13 days"
     },
@@ -111,7 +111,7 @@
       "title": "Star Wars: Galactic Racer Deluxe Edition - PC (Steam)",
       "price": "$61.24",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/22526/380x218/star-wars-galactic-racer-deluxe-edition-pc-steam-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/22526/380x218/star-wars-galactic-racer-deluxe-edition-pc-steam-cover.jpg?v=1777560978",
       "url": "https://www.instant-gaming.com/en/22526-buy-star-wars-galactic-racer-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 6 days"
     },
@@ -119,121 +119,130 @@
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$65.90",
       "discount": "-28%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1790344291",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 23 days"
-    },
-    {
-      "title": "Final Fantasy Resonance Digital Deluxe Edition - PC (Steam)",
-      "price": "$54.87",
-      "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/23318-buy-final-fantasy-resonance-digital-deluxe-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 22 days"
     },
     {
       "title": "Castlevania: Belmont's Curse Midnight Edition - PC (Steam)",
       "price": "$32.94",
       "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/23150/380x218/castlevania-belmont-s-curse-midnight-edition-pc-steam-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/23150/380x218/castlevania-belmont-s-curse-midnight-edition-pc-steam-cover.jpg?v=1783412329",
       "url": "https://www.instant-gaming.com/en/23150-buy-castlevania-belmont-s-curse-midnight-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 15 days"
+    },
+    {
+      "title": "Final Fantasy Resonance Digital Deluxe Edition - PC (Steam)",
+      "price": "$54.87",
+      "discount": "-9%",
+      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1790608381",
+      "url": "https://www.instant-gaming.com/en/23318-buy-final-fantasy-resonance-digital-deluxe-edition-pc-steam/",
+      "release": "Pre-order\n                    \n\n                        In 22 days"
     }
   ],
   "bestsellers": [
     {
-      "title": "PlayStation Store gift card 10$",
-      "price": "",
-      "discount": "",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
-      "release": null
-    },
-    {
       "title": "EA Sports FC 27 - PC (EA App)",
       "price": "$64.76",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1790719200",
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
       "release": null
     },
     {
-      "title": "Minecraft: Java & Bedrock Edition - PC",
-      "price": "$18.62",
-      "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
+      "title": "PlayStation Store gift card 10$",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
     {
-      "title": "CONTROL Resonant - PC (Steam)",
-      "price": "$48.28",
-      "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
+      "title": "Transport Fever 3 - PC & Mac (Steam)",
+      "price": "$42.03",
+      "discount": "-16%",
+      "image": "https://gaming-cdn.com/images/products/19382/380x218/transport-fever-3-pc-mac-steam-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/19382-buy-transport-fever-3-pc-mac-steam/",
       "release": null
     },
     {
-      "title": "EA Sports FC 27 - XBOX One & XBOX Series X|S",
-      "price": "$63.62",
-      "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/23585-buy-ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store/",
-      "release": null
-    },
-    {
-      "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
-      "price": "$11.12",
-      "discount": "-63%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
+      "title": "Minecraft Dungeons II - PC & XBOX Series X|S (Microsoft Store)",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/18828/380x218/minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/18828-buy-minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
       "title": "Minecraft Dungeons II - Deluxe Edition - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$43.74",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790683200",
+      "image": "https://gaming-cdn.com/images/products/22155/380x218/minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790719200",
       "url": "https://www.instant-gaming.com/en/22155-buy-minecraft-dungeons-ii-deluxe-edition-pc-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
-      "title": "EA Sports FC 27 - 5900 FC Points - XBOX One & XBOX Series X|S",
-      "price": "$44.87",
-      "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/23881-buy-ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store/",
+      "title": "Minecraft: Java & Bedrock Edition - PC",
+      "price": "$18.62",
+      "discount": "-45%",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
     {
-      "title": "Minecraft Dungeons II - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$27.26",
+      "title": "Nivalis Nights - PC (Steam)",
+      "price": "$19.31",
+      "discount": "-23%",
+      "image": "https://gaming-cdn.com/images/products/13792/380x218/nivalis-nights-pc-steam-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/13792-buy-nivalis-nights-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt — Remastered - PC (GOG.com)",
+      "price": "$20.22",
+      "discount": "-60%",
+      "image": "https://gaming-cdn.com/images/products/1497/380x218/the-witcher-3-wild-hunt-remastered-pc-gog-com-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/1497-buy-the-witcher-3-wild-hunt-remastered-pc-gog-com/",
+      "release": null
+    },
+    {
+      "title": "Roblox - 1000 Robux",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
+      "release": null
+    },
+    {
+      "title": "CONTROL Resonant - PC (Steam)",
+      "price": "$48.28",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/18828/380x218/minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/18828-buy-minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store/",
+      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
       "release": null
     },
     {
-      "title": "Silent Hill: Townfall - PC (Steam)",
-      "price": "$38.85",
-      "discount": "-22%",
-      "image": "https://gaming-cdn.com/images/products/13086/380x218/silent-hill-townfall-pc-steam-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/13086-buy-silent-hill-townfall-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "Assetto Corsa - PC (Steam)",
-      "price": "$3.62",
-      "discount": "-82%",
-      "image": "https://gaming-cdn.com/images/products/1263/380x218/assetto-corsa-pc-steam-cover.jpg?v=1790683200",
-      "url": "https://www.instant-gaming.com/en/1263-buy-assetto-corsa-pc-steam/",
+      "title": "Transport Fever 3 - Deluxe Edition - PC & Mac (Steam)",
+      "price": "",
+      "discount": "",
+      "image": "https://gaming-cdn.com/images/products/24066/380x218/transport-fever-3-deluxe-edition-mac-pc-steam-cover.jpg?v=1790719200",
+      "url": "https://www.instant-gaming.com/en/24066-buy-transport-fever-3-deluxe-edition-mac-pc-steam/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "The Blood of Dawnwalker Eclipse Edition",
+      "game_image": "https://gaming-cdn.com/images/products/22489/450x258/the-blood-of-dawnwalker-eclipse-edition-pc-steam-cover.jpg?v=1790719200",
+      "game_url": "https://www.instant-gaming.com/en/22489-buy-the-blood-of-dawnwalker-eclipse-edition-pc-steam/",
+      "user": "YaBoiLuckus",
+      "avatar": "https://gaming-cdn.com/images/avatars/12271979-1655578601.jpg",
+      "sentiment": "like",
+      "content": "Absolute Banger;\n\n\n\nI was worried about the combat cause my only concept of directional attacking and blocking is For Honor and I only ever hear about how frustrating that game is BUT this shit is elite. Way easier than For Honor combat even on the highest difficulty preset where it doesn’t display what direction to block in the movements are done very well so you can block or even parry the attacks without too much difficulty. \n\n\n\nAlso Story is great and you have a lot of freedom in how you want to play and the dialogue options are accurate. Won’t trick you with a “no” that actually ends up being like “no and I hate you and your mother and I’m gonna kill you” \n\n\n\nThe 30 day timer isn’t even much of an issue. Gives you a sense of urgency and kinda leads you to doing various quests be it night or day which is a nice gimmick to help it stand out. First playthrough I had like 3 days left but I’d done everything I wanted to do in that playthrough. Now with more knowledge on my second run managing the time is pretty easy.\n\n\n\n100% 1000% this is worth playing."
+    },
+    {
       "game": "WARDOGS",
-      "game_image": "https://gaming-cdn.com/images/products/21740/450x258/wardogs-pc-steam-cover.jpg?v=1790683200",
+      "game_image": "https://gaming-cdn.com/images/products/21740/450x258/wardogs-pc-steam-cover.jpg?v=1790719200",
       "game_url": "https://www.instant-gaming.com/en/21740-buy-wardogs-pc-steam/",
       "user": "jahgaia",
       "avatar": "https://gaming-cdn.com/images/avatars/2176332-1480723453.jpg",
@@ -242,7 +251,7 @@
     },
     {
       "game": "The Blood of Dawnwalker Eclipse Edition",
-      "game_image": "https://gaming-cdn.com/images/products/22489/450x258/the-blood-of-dawnwalker-eclipse-edition-pc-steam-cover.jpg?v=1790683200",
+      "game_image": "https://gaming-cdn.com/images/products/22489/450x258/the-blood-of-dawnwalker-eclipse-edition-pc-steam-cover.jpg?v=1790719200",
       "game_url": "https://www.instant-gaming.com/en/22489-buy-the-blood-of-dawnwalker-eclipse-edition-pc-steam/",
       "user": "Prophet Noble",
       "avatar": "https://gaming-cdn.com/images/avatars/25931976-1790623271.jpg",
@@ -251,21 +260,12 @@
     },
     {
       "game": "CONTROL Resonant Digital Deluxe Edition",
-      "game_image": "https://gaming-cdn.com/images/products/23785/450x258/control-resonant-digital-deluxe-edition-pc-steam-cover.jpg?v=1790683200",
+      "game_image": "https://gaming-cdn.com/images/products/23785/450x258/control-resonant-digital-deluxe-edition-pc-steam-cover.jpg?v=1790719200",
       "game_url": "https://www.instant-gaming.com/en/23785-buy-control-resonant-digital-deluxe-edition-pc-steam/",
       "user": "gamer-7d26a1",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
       "sentiment": "like",
       "content": "Very good game, nice combat mechanics and beautiful graphic, with a fantastic portrait of a distorted New York. The whole interconnected universe and lore of the Remedy games make the story deep and “realistic”."
-    },
-    {
-      "game": "Metro Exodus Gold Edition",
-      "game_image": "https://gaming-cdn.com/images/products/6512/450x258/metro-exodus-gold-edition-pc-steam-cover.jpg?v=1790683200",
-      "game_url": "https://www.instant-gaming.com/en/6512-buy-metro-exodus-gold-edition-pc-steam/",
-      "user": "Broeselmeister",
-      "avatar": "https://gaming-cdn.com/images/avatars/7442856-1657446954.jpg",
-      "sentiment": "like",
-      "content": "Great Game, I personally like it very much. I think those semi Open World areas fit the theme of the game a lot. Metro always rewarded it at least a bit if you were to explore the area more than need be to get some extra ammo or money. This Game leans a bit more into that aspect and really rewards you for doin some extra exploring in the open areas."
     }
   ],
   "weekly_deals": []
