@@ -1,16 +1,16 @@
 {
-  "last_update": "2026-10-07T22:53:38+00:00",
+  "last_update": "2026-10-08T05:11:23+00:00",
   "hero": [
     {
       "title": "Star Wars: Galactic Racer",
-      "price": "$44.99",
+      "price": "$44.74",
       "discount": "-25%",
       "image": "https://gaming-cdn.com/img/products/21378/hcover/1920x620/21378.jpg?v=1791279165",
       "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/"
     },
     {
       "title": "Gears of War: E-Day",
-      "price": "$55.34",
+      "price": "$55.03",
       "discount": "-30%",
       "image": "https://gaming-cdn.com/img/products/9572/hcover/1920x620/9572.jpg?v=1791277830",
       "url": "https://www.instant-gaming.com/en/9572-buy-gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store/"
@@ -19,73 +19,73 @@
   "trending": [
     {
       "title": "Star Wars: Galactic Racer - PC (Steam)",
-      "price": "$44.99",
+      "price": "$44.74",
       "discount": "-25%",
-      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1791279165",
       "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/",
       "release": null
     },
     {
       "title": "WARDOGS - PC (Steam)",
-      "price": "$33.74",
+      "price": "$33.55",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1788778229",
       "url": "https://www.instant-gaming.com/en/21740-buy-wardogs-pc-steam/",
       "release": null
     },
     {
       "title": "Gears of War: E-Day - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$55.34",
+      "price": "$55.03",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/9572/380x218/gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/9572/380x218/gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1791277830",
       "url": "https://www.instant-gaming.com/en/9572-buy-gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
       "title": "EA Sports FC 27 - XBOX One & XBOX Series X|S",
-      "price": "$63",
+      "price": "$62.64",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/23585/380x218/ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store-cover.jpg?v=1791376076",
       "url": "https://www.instant-gaming.com/en/23585-buy-ea-sports-fc-27-xbox-series-x-s-xbox-one-microsoft-store/",
       "release": null
     },
     {
       "title": "CONTROL Resonant - PC (Steam)",
-      "price": "$47.81",
-      "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1791410400",
+      "price": "$47.54",
+      "discount": "-21%",
+      "image": "https://gaming-cdn.com/images/products/13170/380x218/control-resonant-pc-steam-cover.jpg?v=1790314490",
       "url": "https://www.instant-gaming.com/en/13170-buy-control-resonant-pc-steam/",
       "release": null
     },
     {
       "title": "Graveyard Keeper 2 - PC (Steam)",
-      "price": "$17.99",
+      "price": "$17.89",
       "discount": "-28%",
-      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/22343/380x218/graveyard-keeper-2-pc-steam-cover.jpg?v=1790147069",
       "url": "https://www.instant-gaming.com/en/22343-buy-graveyard-keeper-2-pc-steam/",
       "release": null
     },
     {
       "title": "Transport Fever 3 - PC & Mac (Steam)",
-      "price": "$42.97",
-      "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/19382/380x218/transport-fever-3-pc-mac-steam-cover.jpg?v=1791410400",
+      "price": "$42.73",
+      "discount": "-15%",
+      "image": "https://gaming-cdn.com/images/products/19382/380x218/transport-fever-3-pc-mac-steam-cover.jpg?v=1790781258",
       "url": "https://www.instant-gaming.com/en/19382-buy-transport-fever-3-pc-mac-steam/",
       "release": null
     },
     {
       "title": "Nivalis Nights - PC (Steam)",
-      "price": "$19.12",
-      "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/13792/380x218/nivalis-nights-pc-steam-cover.jpg?v=1791410400",
+      "price": "$19.01",
+      "discount": "-24%",
+      "image": "https://gaming-cdn.com/images/products/13792/380x218/nivalis-nights-pc-steam-cover.jpg?v=1790781939",
       "url": "https://www.instant-gaming.com/en/13792-buy-nivalis-nights-pc-steam/",
       "release": null
     },
     {
       "title": "Minecraft Dungeons II - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$26.99",
+      "price": "$26.84",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/18828/380x218/minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/18828/380x218/minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1790772431",
       "url": "https://www.instant-gaming.com/en/18828-buy-minecraft-dungeons-ii-pc-xbox-series-x-s-microsoft-store/",
       "release": null
     }
@@ -93,33 +93,41 @@
   "preorders": [
     {
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
-      "price": "$52.87",
+      "price": "$52.57",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1791376056",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 5 days"
+      "release": "Pre-order\n                    \n\n                        In 4 days"
     },
     {
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$69.75",
+      "price": "$69.36",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1790344291",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
-      "release": "Pre-order\n                    \n\n                        In 15 days"
-    },
-    {
-      "title": "Final Fantasy Resonance Digital Deluxe Edition - PC (Steam)",
-      "price": "$54.33",
-      "discount": "-9%",
-      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1791410400",
-      "url": "https://www.instant-gaming.com/en/23318-buy-final-fantasy-resonance-digital-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 14 days"
     },
     {
+      "title": "Phantom Blade Zero - PC (Steam)",
+      "price": "$50.90",
+      "discount": "-15%",
+      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1786530128",
+      "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/",
+      "release": "Pre-order\n                    \n\n                        In 20 days"
+    },
+    {
+      "title": "Final Fantasy Resonance Digital Deluxe Edition - PC (Steam)",
+      "price": "$54.03",
+      "discount": "-10%",
+      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1790608381",
+      "url": "https://www.instant-gaming.com/en/23318-buy-final-fantasy-resonance-digital-deluxe-edition-pc-steam/",
+      "release": "Pre-order\n                    \n\n                        In 13 days"
+    },
+    {
       "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
-      "price": "$65.25",
+      "price": "$64.88",
       "discount": "-28%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1786607077",
       "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                         2 December 2026"
     }
@@ -127,129 +135,129 @@
   "bestsellers": [
     {
       "title": "Star Wars: Galactic Racer - PC (Steam)",
-      "price": "$44.99",
+      "price": "$44.74",
       "discount": "-25%",
-      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/",
       "release": null
     },
     {
       "title": "PlayStation Store gift card 10$",
-      "price": "$9.33",
+      "price": "$9.28",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
     {
       "title": "Minecraft: Java & Bedrock Edition - PC",
-      "price": "$18.44",
+      "price": "$18.34",
       "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
     {
-      "title": "Roblox - 1000 Robux",
-      "price": "$11.80",
-      "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1791410400",
-      "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
-      "release": null
-    },
-    {
       "title": "Star Wars: Galactic Racer Deluxe Edition - PC (Steam)",
-      "price": "$60.63",
-      "discount": "-24%",
-      "image": "https://gaming-cdn.com/images/products/22526/380x218/star-wars-galactic-racer-deluxe-edition-pc-steam-cover.jpg?v=1791410400",
+      "price": "$60.29",
+      "discount": "-25%",
+      "image": "https://gaming-cdn.com/images/products/22526/380x218/star-wars-galactic-racer-deluxe-edition-pc-steam-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/22526-buy-star-wars-galactic-racer-deluxe-edition-pc-steam/",
       "release": null
     },
     {
-      "title": "Gears of War: E-Day - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$55.34",
-      "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/9572/380x218/gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1791410400",
-      "url": "https://www.instant-gaming.com/en/9572-buy-gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store/",
+      "title": "Roblox - 1000 Robux",
+      "price": "$11.74",
+      "discount": "-12%",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1791435600",
+      "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     },
     {
       "title": "WARDOGS - PC (Steam)",
-      "price": "$33.74",
+      "price": "$33.55",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/21740-buy-wardogs-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Gears of War: E-Day - PC & XBOX Series X|S (Microsoft Store)",
+      "price": "$55.03",
+      "discount": "-30%",
+      "image": "https://gaming-cdn.com/images/products/9572/380x218/gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1791435600",
+      "url": "https://www.instant-gaming.com/en/9572-buy-gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store/",
+      "release": null
+    },
+    {
+      "title": "EA Sports FC 27 - 5900 FC Points - XBOX One & XBOX Series X|S",
+      "price": "$44.18",
+      "discount": "-21%",
+      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1791435600",
+      "url": "https://www.instant-gaming.com/en/23881-buy-ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
       "title": "EA Sports FC 27 - PC (EA App)",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
       "release": null
     },
     {
-      "title": "EA Sports FC 27 - 5900 FC Points - XBOX One & XBOX Series X|S",
-      "price": "$44.43",
-      "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1791410400",
-      "url": "https://www.instant-gaming.com/en/23881-buy-ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store/",
-      "release": null
-    },
-    {
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
-      "price": "$11.01",
+      "price": "$10.95",
       "discount": "-63%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
     {
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
-      "price": "$52.87",
+      "price": "$52.57",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1791410400",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1791435600",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 5 days"
+      "release": "Pre-order\n                    \n\n                        In 4 days"
     }
   ],
   "reviews": [
     {
-      "game": "Project Motor Racing",
-      "game_image": "https://gaming-cdn.com/images/products/19226/450x258/project-motor-racing-pc-steam-cover.jpg?v=1791410400",
-      "game_url": "https://www.instant-gaming.com/en/19226-buy-project-motor-racing-pc-steam/",
-      "user": "gamer-d176ae",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "game": "Ori and the Will of the Wisps",
+      "game_image": "https://gaming-cdn.com/images/products/19582/450x258/ori-and-the-will-of-the-wisps-pc-game-steam-cover.jpg?v=1791435600",
+      "game_url": "https://www.instant-gaming.com/en/19582-buy-ori-and-the-will-of-the-wisps-pc-game-steam/",
+      "user": "Scelerat",
+      "avatar": "https://graph.facebook.com/7752994334735718/picture?width=150&height=150",
       "sentiment": "like",
-      "content": "lo ritengo sicuramente tra i migliori simulatori, fluido leggero e completo, ovviamente come tutte le cose potrà essere migliorato, ma attualmente è completo ed ho fatto una serata di prove senza mai avere un lag nel gioco. OTTIMO!"
+      "content": "Ori and the Will of the Wisps is an absolutely beautiful game. Everything about it feels carefully crafted, from the stunning environments and fluid animations to the incredible soundtrack that makes every important moment feel even more emotional. The exploration is satisfying, the movement feels fantastic, and the platforming manages to be challenging without becoming frustrating. What surprised me most was how emotionally invested I became in the characters and their story. It has a wonderful way of combining atmosphere, gameplay, and music into something that feels genuinely memorable. It is one of those games where finishing it leaves you wishing you could experience it again for the first time. Truly an incredible experience and easily one of my favorite Metroidvania games."
     },
     {
-      "game": "Gotham Knights",
-      "game_image": "https://gaming-cdn.com/images/products/18033/450x258/gotham-knights-pc-game-steam-cover.jpg?v=1791410400",
-      "game_url": "https://www.instant-gaming.com/en/18033-buy-gotham-knights-pc-game-steam/",
-      "user": "gamer-361be64",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "game": "Hollow Knight",
+      "game_image": "https://gaming-cdn.com/images/products/2198/450x258/hollow-knight-pc-mac-steam-cover.jpg?v=1791435600",
+      "game_url": "https://www.instant-gaming.com/en/2198-buy-hollow-knight-pc-mac-steam/",
+      "user": "Scelerat",
+      "avatar": "https://graph.facebook.com/7752994334735718/picture?width=150&height=150",
+      "sentiment": "like",
+      "content": "Hollow Knight is one of those games that manages to feel both beautiful and brutally unforgiving. The world of Hallownest is incredibly atmospheric, with a huge amount of exploration, secrets and lore that made me want to keep discovering what was around the next corner. The combat is simple to understand but difficult to master, and some bosses pushed my patience much further than I expected. I finished the story, but I still have 11 achievements left, which says a lot about just how much content there is beyond the main path. Not everything was equally enjoyable for me, especially some of the more demanding challenges, but the combination of exploration, atmosphere, music and satisfying combat makes Hollow Knight an unforgettable experience."
+    },
+    {
+      "game": "Need for Speed Heat",
+      "game_image": "https://gaming-cdn.com/images/products/5362/450x258/need-for-speed-heat-pc-ea-app-cover.jpg?v=1791435600",
+      "game_url": "https://www.instant-gaming.com/en/5362-buy-need-for-speed-heat-pc-ea-app/",
+      "user": "Scelerat",
+      "avatar": "https://graph.facebook.com/7752994334735718/picture?width=150&height=150",
       "sentiment": "dislike",
-      "content": "It’s a piece of garbage, after the masterpiece that was Arkham Knight this game it’s absolutely horrendous, the detective mode its trash, no gliding and on top of that the batcycle drives horrible, not even red hood has the same abilities and movement."
+      "content": "Need for Speed Heat is a fun game with a lot of what I expect from Need for Speed: fast cars, police chases, customization and a strong street-racing atmosphere. I enjoyed the driving and the contrast between the legal races during the day and the illegal events at night. However, I couldn’t bring myself to finish it. Something about the overall experience feels different from the older Need for Speed games I grew up with. The presentation, progression and general tone didn’t give me the same feeling of those classic entries, even though many of the individual elements are there. It’s not a bad game at all, but for me it lacked that particular identity and excitement that made the older games so memorable."
     },
     {
-      "game": "Tactics Ogre : Reborn",
-      "game_image": "https://gaming-cdn.com/images/products/12203/450x258/tactics-ogre-reborn-pc-game-steam-cover.jpg?v=1791410400",
-      "game_url": "https://www.instant-gaming.com/en/12203-buy-tactics-ogre-reborn-pc-game-steam/",
-      "user": "Ken2045",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "game": "A Plague Tale Innocence",
+      "game_image": "https://gaming-cdn.com/images/products/4236/450x258/a-plague-tale-innocence-pc-game-steam-cover.jpg?v=1791435600",
+      "game_url": "https://www.instant-gaming.com/en/4236-buy-a-plague-tale-innocence-pc-game-steam/",
+      "user": "Scelerat",
+      "avatar": "https://graph.facebook.com/7752994334735718/picture?width=150&height=150",
       "sentiment": "like",
-      "content": "If you are a fan of tactical RPGs, Tactics Ogre: Reborn is not just a game you should play—it is an absolute essential experience. Building upon the legendary foundation of the original tactical classic, this definitive version elevates the genre to new heights, offering a masterclass in strategic depth, storytelling, and world-building."
-    },
-    {
-      "game": "Graveyard Keeper 2",
-      "game_image": "https://gaming-cdn.com/images/products/22343/450x258/graveyard-keeper-2-pc-steam-cover.jpg?v=1791410400",
-      "game_url": "https://www.instant-gaming.com/en/22343-buy-graveyard-keeper-2-pc-steam/",
-      "user": "gamer-7cdec8e",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "like",
-      "content": "Very addicting, but late game is grindy and a lot of stuff isn't explained to you.\n\n\n\nUnfortunately, the graveyard feels more like a second thought now. The game's story is more focused on helping rebuild the town and the new 'tower defender' mini game.\n\n\n\nThe game can be buggy at times. I have gotten myself softlocked by the most stupid things...Placing a building item too close to each other, walking too far at the docks (there is an invisible wall, that prevents you from going back lol), among other bugs that need to be fixed. If you play it on PC, you won't have much issues like our console fellows.\n\n\n\nThe zombie factory part should be fixed more and the devs have released plans on changing and fixing this, so I am hopeful.\n\n\n\nIf you liked the first one, I would still recommend GK2!"
+      "content": "A Plague Tale: Innocence is a surprisingly emotional and atmospheric game. Its medieval setting, the plague, and especially the swarms of rats create a constant feeling of danger and desperation. The relationship between Amicia and Hugo is easily the strongest part of the experience, and I really enjoyed watching their bond develop as they were forced to survive increasingly horrible situations. The gameplay is fairly simple, mainly built around stealth, puzzles, and managing the rats, and it can become repetitive at times. Still, the atmosphere and story kept me invested until the end. It may not be perfect, but it was a memorable experience and a great introduction to Amicia and Hugo’s story."
     }
   ],
   "weekly_deals": []
