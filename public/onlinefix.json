@@ -2,6 +2,70 @@
   "name": "OnlineFix",
   "downloads": [
     {
+      "fileSize": "3.4 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:38474a7220844ee368e03bff9219abd4611175ba&amp;dn=Risk+of+Rain+2&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Risk of Rain 2 1.5.0",
+      "uploadDate": "2026-10-15T17:08:23.000Z"
+    },
+    {
+      "fileSize": "454.5 MB",
+      "uris": [
+        "magnet:?xt=urn:btih:a2ebba6db8390415270e46391ac2f4c477342dd6&amp;dn=PlateUp&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "PlateUp Build 12102026",
+      "uploadDate": "2026-10-15T17:07:57.000Z"
+    },
+    {
+      "fileSize": "2.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:7774042489042c441484b31fd318d6b55f8364c6&amp;dn=over+the+hill&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "over the hill Build 14102026",
+      "uploadDate": "2026-10-15T17:02:04.000Z"
+    },
+    {
+      "fileSize": "17.2 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:9c6133b04df56bfe9c6657505177f99c6d20446c&amp;dn=Permafrost&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Permafrost 0.44.3.4684-stable",
+      "uploadDate": "2026-10-15T17:03:18.000Z"
+    },
+    {
+      "fileSize": "1.3 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:07a9e04213c83015f016d688b21d78213d4c02d7&amp;dn=INSIDE&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "INSIDE 5.0.4.29787 Версия модификации: 0.2.3",
+      "uploadDate": "2026-10-15T16:59:47.000Z"
+    },
+    {
+      "fileSize": "3.9 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:0ca5eda2e4fce808ee43530b3e1e18797f6e3301&amp;dn=Invokyr&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Invokyr 0.44.10",
+      "uploadDate": "2026-10-15T17:00:41.000Z"
+    },
+    {
+      "fileSize": "6.7 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:26d86acd947991d841bed6f1c7669232bc31888a&amp;dn=Hearts+of+Iron+IV&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Hearts of Iron IV 1.19.3.0",
+      "uploadDate": "2026-10-15T16:59:05.000Z"
+    },
+    {
+      "fileSize": "9.5 GB",
+      "uris": [
+        "magnet:?xt=urn:btih:aefe500774949f37ddac6a5268c44fefcede1218&amp;dn=Crusader+Kings+III&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+      ],
+      "title": "Crusader Kings III 1.20.1.1",
+      "uploadDate": "2026-10-15T16:56:40.000Z"
+    },
+    {
       "fileSize": "174.7 GB",
       "uris": [
         "magnet:?xt=urn:btih:cf6cef0aab8107c6780736af21a863f6c658c68a&amp;dn=Forza+Horizon+6&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
