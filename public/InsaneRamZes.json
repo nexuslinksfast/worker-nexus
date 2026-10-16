@@ -466,27 +466,43 @@
       ]
     },
     {
-      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl (RUS/ENG/MULTi18) [P]",
-      "fileSize": "201.86 GB",
-      "uploadDate": "2026-10-16T13:28:00.000Z",
+      "title": "MediEvil (RUS/ENG/MULTi) [P]",
+      "fileSize": "31.6 GB",
+      "uploadDate": "2026-10-16T19:19:00.000Z",
       "uris": [
-        "magnet:?xt=urn:btih:8f2fc385d0f72591978beaa9139709fd9f4b4520&dn=S.T.A.L.K.E.R.%202%3A%20Heart%20of%20Chornobyl%20%28RUS/ENG/MULTi18%29%20%5BP%5D"
-      ]
-    },
-    {
-      "title": "Black (ENG) [P]",
-      "fileSize": "1.57 GB",
-      "uploadDate": "2026-10-16T13:13:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:7fc8312a8e1e728c4a7cf3174a47115998257112&dn=Black%20%28ENG%29%20%5BP%5D"
+        "magnet:?xt=urn:btih:89f99e3a6dddd54f59a0531079911c90482e1b50&dn=MediEvil%20%28RUS/ENG/MULTi%29%20%5BP%5D"
       ]
     },
     {
       "title": "Uncharted The Nathan Drake Collection (RUS/ENG/MULTi) [P]",
       "fileSize": "58.93 GB",
-      "uploadDate": "2026-10-16T11:35:00.000Z",
+      "uploadDate": "2026-10-16T19:19:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:389b2a8bf088ff18639e2a94ce31a6fcb29980f1&dn=Uncharted%20The%20Nathan%20Drake%20Collection%20%28RUS/ENG/MULTi%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "Black (ENG) [P]",
+      "fileSize": "1.57 GB",
+      "uploadDate": "2026-10-16T18:43:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:7fc8312a8e1e728c4a7cf3174a47115998257112&dn=Black%20%28ENG%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "Forever Skies (RUS/ENG/MULTi8) [P]",
+      "fileSize": "23.25 GB",
+      "uploadDate": "2026-10-16T16:41:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:873a955d28cdedaf4e20e396d8436e2a004227ca&dn=Forever%20Skies%20%28RUS/ENG/MULTi8%29%20%5BP%5D"
+      ]
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl (RUS/ENG/MULTi18) [P]",
+      "fileSize": "201.86 GB",
+      "uploadDate": "2026-10-16T16:32:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:8f2fc385d0f72591978beaa9139709fd9f4b4520&dn=S.T.A.L.K.E.R.%202%3A%20Heart%20of%20Chornobyl%20%28RUS/ENG/MULTi18%29%20%5BP%5D"
       ]
     },
     {
@@ -495,14 +511,6 @@
       "uploadDate": "2026-10-16T09:40:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:8d003359419c09b9e7202044d7f8738a9ce496e1&dn=Grand%20Theft%20Auto%20V%20/%20GTA%205%20%28RUS/ENG/MULTI13%29%20%5BRepack%5D"
-      ]
-    },
-    {
-      "title": "Warhammer 40000: Boltgun 2 (RUS/ENG/MULTI13) [Repack]",
-      "fileSize": "6.74 GB",
-      "uploadDate": "2026-10-16T03:44:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:9293be495a3204496e965a13d1eab7652981476f&dn=Warhammer%2040000%3A%20Boltgun%202%20%28RUS/ENG/MULTI13%29%20%5BRepack%5D"
       ]
     },
     {
@@ -1327,14 +1335,6 @@
       "uploadDate": "2026-09-17T16:46:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:8c6a2c7f4716b4b72ca17a3d723e775508cc4d67&dn=PRAGMATA%20%28RUS/ENG/MULTI14%29%20%5BRepack%5D"
-      ]
-    },
-    {
-      "title": "Forever Skies (RUS/ENG/MULTi8) [P]",
-      "fileSize": "23.23 GB",
-      "uploadDate": "2026-09-17T09:28:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:6f3af6beb1bf2a26412d465bd6ea4492ac4f0a2a&dn=Forever%20Skies%20%28RUS/ENG/MULTi8%29%20%5BP%5D"
       ]
     },
     {
@@ -2410,11 +2410,11 @@
       ]
     },
     {
-      "title": "God of War III (RUS/ENG) [RePack]",
-      "fileSize": "12.05 GB",
+      "title": "God of War III Remastered (RUS/ENG) [RePack]",
+      "fileSize": "10.36 GB",
       "uploadDate": "2026-07-28T17:50:00.000Z",
       "uris": [
-        "magnet:?xt=urn:btih:f25504e98aadf9e80c4bed6f4927506981ce8a38&dn=God%20of%20War%20III%20%28RUS/ENG%29%20%5BRePack%5D"
+        "magnet:?xt=urn:btih:c8bd9ead00abee46207031911010d715736f2e30&dn=God%20of%20War%20III%20Remastered%20%28RUS/ENG%29%20%5BRePack%5D"
       ]
     },
     {
