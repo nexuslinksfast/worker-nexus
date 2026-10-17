@@ -1,11 +1,11 @@
 {
-  "last_update": "2026-10-17T03:34:12+00:00",
+  "last_update": "2026-10-17T10:20:53+00:00",
   "hero": [
     {
       "title": "",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/marketing/banners/391/homepage/en/1920x620/homepage-en.jpg?v=1792208043",
+      "image": "https://gaming-cdn.com/images/marketing/banners/391/homepage/en/1920x620/homepage-en.jpg?v=1792232435",
       "url": "https://www.instant-gaming.com/discord"
     },
     {
@@ -21,7 +21,7 @@
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
       "price": "$52.91",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
       "release": null
     },
@@ -29,7 +29,7 @@
       "title": "over the hill - PC (Steam)",
       "price": "$14.63",
       "discount": "-41%",
-      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
       "release": null
     },
@@ -37,7 +37,7 @@
       "title": "Star Wars: Galactic Racer - PC (Steam)",
       "price": "$45.03",
       "discount": "-25%",
-      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/",
       "release": null
     },
@@ -45,7 +45,7 @@
       "title": "WARDOGS Supporter Edition - PC (Steam)",
       "price": "$43",
       "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/23831/380x218/wardogs-supporter-edition-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/23831/380x218/wardogs-supporter-edition-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/23831-buy-wardogs-supporter-edition-pc-steam/",
       "release": null
     },
@@ -53,7 +53,7 @@
       "title": "EA Sports FC 27 - PC (EA App)",
       "price": "$61.92",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
       "release": null
     },
@@ -61,15 +61,23 @@
       "title": "Valor Mortis - PC (Steam)",
       "price": "$33.77",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/20157/380x218/valor-mortis-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/20157/380x218/valor-mortis-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/20157-buy-valor-mortis-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Valheim - PC & Mac (Steam)",
+      "price": "$23.75",
+      "discount": "-21%",
+      "image": "https://gaming-cdn.com/images/products/7119/380x218/valheim-pc-mac-steam-cover.jpg?v=1792231200",
+      "url": "https://www.instant-gaming.com/en/7119-buy-valheim-pc-mac-steam/",
       "release": null
     },
     {
       "title": "Warhammer 40,000: Boltgun 2 - PC (Steam)",
       "price": "$19.69",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/19396/380x218/warhammer-40-000-boltgun-2-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/19396/380x218/warhammer-40-000-boltgun-2-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/19396-buy-warhammer-40-000-boltgun-2-pc-steam/",
       "release": null
     },
@@ -77,16 +85,8 @@
       "title": "The Jackbox Party Pack 12 - PC & Mac (Steam)",
       "price": "$20.03",
       "discount": "-33%",
-      "image": "https://gaming-cdn.com/images/products/24326/380x218/the-jackbox-party-pack-12-pc-mac-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/24326/380x218/the-jackbox-party-pack-12-pc-mac-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/24326-buy-the-jackbox-party-pack-12-pc-mac-steam/",
-      "release": null
-    },
-    {
-      "title": "Gears of War: E-Day - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$52.91",
-      "discount": "-33%",
-      "image": "https://gaming-cdn.com/images/products/9572/380x218/gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store-cover.jpg?v=1792206000",
-      "url": "https://www.instant-gaming.com/en/9572-buy-gears-of-war-e-day-pc-xbox-series-x-s-microsoft-store/",
       "release": null
     }
   ],
@@ -95,7 +95,7 @@
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$69.80",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 6 days"
     },
@@ -103,7 +103,7 @@
       "title": "Phantom Blade Zero - PC (Steam)",
       "price": "$51.22",
       "discount": "-15%",
-      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 12 days"
     },
@@ -111,57 +111,57 @@
       "title": "Final Fantasy Resonance Digital Deluxe Edition - PC (Steam)",
       "price": "$53.47",
       "discount": "-11%",
-      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/23318-buy-final-fantasy-resonance-digital-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 5 days"
-    },
-    {
-      "title": "Farming Simulator 25: Beans & Alpacas - PC & Mac (Steam)",
-      "price": "$20.26",
-      "discount": "-32%",
-      "image": "https://gaming-cdn.com/images/products/23241/380x218/farming-simulator-25-beans-and-alpacas-pc-mac-steam-cover.jpg?v=1792206000",
-      "url": "https://www.instant-gaming.com/en/23241-buy-farming-simulator-25-beans-and-alpacas-pc-mac-steam/",
-      "release": "Pre-order\n                    \n\n                        In 10 days"
     },
     {
       "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
       "price": "$65.30",
       "discount": "-27%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                         2 December 2026"
+      "release": "Pre-order\n                    \n\n                         3 December 2026"
+    },
+    {
+      "title": "Farming Simulator 25: Beans & Alpacas - PC & Mac (Steam)",
+      "price": "$20.26",
+      "discount": "-32%",
+      "image": "https://gaming-cdn.com/images/products/23241/380x218/farming-simulator-25-beans-and-alpacas-pc-mac-steam-cover.jpg?v=1792231200",
+      "url": "https://www.instant-gaming.com/en/23241-buy-farming-simulator-25-beans-and-alpacas-pc-mac-steam/",
+      "release": "Pre-order\n                    \n\n                        In 10 days"
     },
     {
       "title": "ONE PIECE: Grand Gourmet - PC (Steam)",
       "price": "$17.89",
       "discount": "-11%",
-      "image": "https://gaming-cdn.com/images/products/22938/380x218/one-piece-grand-gourmet-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/22938/380x218/one-piece-grand-gourmet-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/22938-buy-one-piece-grand-gourmet-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 6 days"
     }
   ],
   "bestsellers": [
     {
-      "title": "over the hill - PC (Steam)",
-      "price": "$14.63",
-      "discount": "-41%",
-      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792206000",
-      "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
-      "release": null
-    },
-    {
       "title": "PlayStation Store gift card 10$",
       "price": "$9.33",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
+      "release": null
+    },
+    {
+      "title": "over the hill - PC (Steam)",
+      "price": "$14.63",
+      "discount": "-41%",
+      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792231200",
+      "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
       "release": null
     },
     {
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
       "price": "$52.91",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
       "release": null
     },
@@ -169,7 +169,7 @@
       "title": "Minecraft: Java & Bedrock Edition - PC",
       "price": "$18.46",
       "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
@@ -177,7 +177,7 @@
       "title": "Roblox - 1000 Robux",
       "price": "$11.81",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     },
@@ -185,7 +185,7 @@
       "title": "Planet Zoo 2 - PC (Steam)",
       "price": "$41.65",
       "discount": "-17%",
-      "image": "https://gaming-cdn.com/images/products/21064/380x218/planet-zoo-2-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/21064/380x218/planet-zoo-2-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/21064-buy-planet-zoo-2-pc-steam/",
       "release": null
     },
@@ -193,7 +193,7 @@
       "title": "Star Wars: Galactic Racer - PC (Steam)",
       "price": "$45.03",
       "discount": "-25%",
-      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/",
       "release": null
     },
@@ -201,7 +201,7 @@
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
       "price": "$11.02",
       "discount": "-63%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
@@ -209,63 +209,63 @@
       "title": "EA Sports FC 27 - 5900 FC Points - XBOX One & XBOX Series X|S",
       "price": "$44.47",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/23881-buy-ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store/",
-      "release": null
-    },
-    {
-      "title": "Enshrouded - PC (Steam)",
-      "price": "$39.40",
-      "discount": "-1%",
-      "image": "https://gaming-cdn.com/images/products/14129/380x218/enshrouded-pc-steam-cover.jpg?v=1792206000",
-      "url": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/",
       "release": null
     },
     {
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
       "price": "$69.80",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792206000",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792231200",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        In 6 days"
+    },
+    {
+      "title": "Enshrouded - PC (Steam)",
+      "price": "$39.40",
+      "discount": "-1%",
+      "image": "https://gaming-cdn.com/images/products/14129/380x218/enshrouded-pc-steam-cover.jpg?v=1792231200",
+      "url": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/",
+      "release": null
     }
   ],
   "reviews": [
     {
+      "game": "Castlevania: Belmont's Curse Midnight Edition",
+      "game_image": "https://gaming-cdn.com/images/products/23150/450x258/castlevania-belmont-s-curse-midnight-edition-pc-steam-cover.jpg?v=1792231200",
+      "game_url": "https://www.instant-gaming.com/en/23150-buy-castlevania-belmont-s-curse-midnight-edition-pc-steam/",
+      "user": "_TaMyS_",
+      "avatar": "https://gaming-cdn.com/images/avatars/4010801-1760511358.jpg",
+      "sentiment": "like",
+      "content": "Comment dire, je suis juste fan de cet opus. Le choix de la direction artistique est un banger a mes yeux, une prise de risque que j'adore personnellement, ce contrast hyper saturer fonctionne dans l'ensemble plutôt bien, beaucoup moins pendant les combats dans des salles restreintes, mais je chipote clairement. Le jeu est assez lisible, les VFX fonctionnent très bien. Je vois beaucoup de gens critiquer l'OST, elle est certes en dessous des opus précèdent, mais fonctionne tout aussi bien avec un petit gout de modernité très agréable. Je me dois de féliciter l'animation, tellement agréable dans l'ensemble, le petit stand by avec le grapin est juste pépite. On va parler combat maintenant. Certains mobs sont tout simplement illisible, surement trop petit, ou je suis peut être juste trop myope ? Une chance que tout est facilement skippable avec l'esquive (que je trouve un peu lente et lourde) ca évite de refaire 46 fois le même endroit parce qu'on a été une grosse quiche. Je vais SALUER les combats de boss, c'est clairement ma partie préférer du jeu, les chorégraphies sont hyper agréable quand elles sont maitriser, pas du tout frustrant en terme d'apprentissage car contrairement aux trashs mobs, les boss sont d'une lisibilité déconcertante ! J'avais envie de refaire les combats plus d'une fois. Et je voudrais terminer par le combat aérien, le jeu d'épée avec le grappin est juste jouissif, chapeau, on a juste envie de grappiner tout les mobs et de les enchainer un par un (et c'est possible !) franchement, mon gros coup de cœur de ce jeu. Félicitations aux devs pour leur travail (cocorico), je ne peux que le recommander, aucun bug pour ma part, je trouve les gens très dur avec ce jeu, je pense que vous devriez apaisez votre cœur."
+    },
+    {
+      "game": "The Thaumaturge",
+      "game_image": "https://gaming-cdn.com/images/products/13651/450x258/the-thaumaturge-pc-game-steam-cover.jpg?v=1792231200",
+      "game_url": "https://www.instant-gaming.com/en/13651-buy-the-thaumaturge-pc-game-steam/",
+      "user": "Ella Chieuse",
+      "avatar": "https://gaming-cdn.com/images/avatars/4936928-1605144778.jpg",
+      "sentiment": "like",
+      "content": "Après 6h de jeu, je peux dire qu'il m'a accroché. J'en prends plein les yeux, l'histoire m'a happé et l'ambiance sonore me convient bien. J'entends des noms historiques, j'avoue ça me donne envie d'en voir plus. Est ce qu'une part d'histoire s'y jouerait ?? Il apparait qu'il y a beaucoup de combinaison possible en terme de combat, c'est interessant. \n\nVoilà un jeu avec plein d'idée. J'adore découvrir au fur et à mesure, quel sera le pouvoir qui va me sortir de la panade. Bravo à l'équipe qui fait ça, c'est agréable de s'y plonger !"
+    },
+    {
+      "game": "Windrose",
+      "game_image": "https://gaming-cdn.com/images/products/21876/450x258/windrose-pc-steam-cover.jpg?v=1792231200",
+      "game_url": "https://www.instant-gaming.com/en/21876-buy-windrose-pc-steam/",
+      "user": "PAPilgrim",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "dislike",
+      "content": "Purchased over an hour ago and still can't play the game will not recognize my email or my account resubmitted for my account recognition through my e-mail several time still a no go never received an e mail from them."
+    },
+    {
       "game": "Intravenous 2",
-      "game_image": "https://gaming-cdn.com/images/products/17376/450x258/intravenous-2-pc-game-steam-cover.jpg?v=1792206000",
+      "game_image": "https://gaming-cdn.com/images/products/17376/450x258/intravenous-2-pc-game-steam-cover.jpg?v=1792231200",
       "game_url": "https://www.instant-gaming.com/en/17376-buy-intravenous-2-pc-game-steam/",
       "user": "EdenaldXgaming",
       "avatar": "https://gaming-cdn.com/images/avatars/31097662-1791737762.jpg",
       "sentiment": "like",
       "content": "O jogo intravenous II, acompanhamos um Novo personagem: Sean, que está em busca de salvar seu Pai, que foi sequestrado por um desconhecido usando ele de réfem para Fazer o protagonista Fazer seus serviços sujos, junto com o nomeado Steve do primeiro jogo vocês buscam alguma Pista/testemunhas, para tentar acha-ló?!, nesse jogo, além de varias outras melhorias(graficos, armas, historia e mecânicas) suas escolhas tem Peso na historia, quem você decide eliminar ou poupar, decide o seu final."
-    },
-    {
-      "game": "Iron Lung",
-      "game_image": "https://gaming-cdn.com/images/products/22369/450x258/iron-lung-pc-steam-cover.jpg?v=1792206000",
-      "game_url": "https://www.instant-gaming.com/en/22369-buy-iron-lung-pc-steam/",
-      "user": "EdenaldXgaming",
-      "avatar": "https://gaming-cdn.com/images/avatars/31097662-1791737762.jpg",
-      "sentiment": "like",
-      "content": "Iron lung, sé trata dê um universo distropico e futurista da nossa realidade, onde misteriosamente as estrelas e planetas conhecidos, simplesmente desaparecem totalmente, sem deixar nenhum rastro, a humanidade por meio da tecnologia avançada tentou rastrear e achar outro planeta para colonizar e sobreviver, afinal não foi só, os planetas que sumiram, mas tambem os proprios seres vivos que os abrigavam, nem mesmo á terra escapou desse fenomenô, sobrando somente milhares de humanos que estavam em estações/naves espaciais, mas no meio dessa escuridão, um \"planeta\" surgiu contendo um mar de sangue(humano), onde que por meio de alguma esperança, a corporação C.O.I envia prisioneiros, para tentar achar alguma coisa, quê talvez traga uma chance da humanidade sobreviver, é um desses suicidas, é você!"
-    },
-    {
-      "game": "Enshrouded",
-      "game_image": "https://gaming-cdn.com/images/products/14129/450x258/enshrouded-pc-steam-cover.jpg?v=1792206000",
-      "game_url": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/",
-      "user": "SambaL",
-      "avatar": "https://gaming-cdn.com/images/avatars/27742514-1746025891.jpg",
-      "sentiment": "like",
-      "content": "A very atmospheric open world dungeon crawler with survival element and building mechanics baked in. You can tell it is heavily influenced by the more recent Zelda games like Tears of the Kingdom and fellow survival crafter Valheim, and that is meant as a compliment in this case."
-    },
-    {
-      "game": "Sticky Business",
-      "game_image": "https://gaming-cdn.com/images/products/14510/450x258/sticky-business-pc-mac-game-steam-cover.jpg?v=1792206000",
-      "game_url": "https://www.instant-gaming.com/en/14510-buy-sticky-business-pc-mac-game-steam/",
-      "user": "laauuulm",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "like",
-      "content": "A cute, chill, and surprisingly addictive little game! ? It's affordable, easy to pick up, and perfect for relaxing. The gameplay is simple but keeps you coming back for more. I haven't encountered any bugs so far, either. Definitely worth it if you're looking for a cozy game to unwind with. Highly recommend!"
     }
   ],
   "weekly_deals": []
