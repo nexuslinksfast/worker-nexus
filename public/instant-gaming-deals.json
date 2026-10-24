@@ -1,16 +1,16 @@
 {
-  "last_update": "2026-10-23T21:09:45+00:00",
+  "last_update": "2026-10-24T03:50:19+00:00",
   "hero": [
     {
       "title": "Call of Duty: Modern Warfare 4",
-      "price": "$69.38",
+      "price": "$69.43",
       "discount": "-23%",
       "image": "https://gaming-cdn.com/img/products/16809/hcover/1920x620/16809.jpg?v=1792479050",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/"
     },
     {
       "title": "Final Fantasy Resonance",
-      "price": "$44.20",
+      "price": "$44.23",
       "discount": "-12%",
       "image": "https://gaming-cdn.com/img/products/22936/hcover/1920x620/22936.jpg?v=1792692344",
       "url": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/"
@@ -19,107 +19,107 @@
   "trending": [
     {
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$69.38",
+      "price": "$69.43",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": null
     },
     {
       "title": "Final Fantasy Resonance - PC (Steam)",
-      "price": "$44.20",
+      "price": "$44.23",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/",
       "release": null
     },
     {
       "title": "WARDOGS - PC (Steam)",
-      "price": "$33.45",
+      "price": "$33.48",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/21740-buy-wardogs-pc-steam/",
       "release": null
     },
     {
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
-      "price": "$52.59",
+      "price": "$52.63",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
       "release": null
     },
     {
       "title": "over the hill - PC (Steam)",
-      "price": "$14.54",
+      "price": "$14.55",
       "discount": "-42%",
-      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
       "release": null
     },
     {
       "title": "Star Wars: Galactic Racer - PC (Steam)",
-      "price": "$44.20",
+      "price": "$44.23",
       "discount": "-26%",
-      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/",
       "release": null
     },
     {
       "title": "EA Sports FC 27 - PC (EA App)",
-      "price": "$59.87",
+      "price": "$59.91",
       "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
       "release": null
     },
     {
-      "title": "Valheim - PC & Mac (Steam)",
-      "price": "$22.71",
-      "discount": "-24%",
-      "image": "https://gaming-cdn.com/images/products/7119/380x218/valheim-pc-mac-steam-cover.jpg?v=1792789200",
-      "url": "https://www.instant-gaming.com/en/7119-buy-valheim-pc-mac-steam/",
+      "title": "Enshrouded - PC (Steam)",
+      "price": "$37.06",
+      "discount": "-7%",
+      "image": "https://gaming-cdn.com/images/products/14129/380x218/enshrouded-pc-steam-cover.jpg?v=1792810800",
+      "url": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/",
       "release": null
     },
     {
-      "title": "Enshrouded - PC (Steam)",
-      "price": "$37.03",
-      "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/14129/380x218/enshrouded-pc-steam-cover.jpg?v=1792789200",
-      "url": "https://www.instant-gaming.com/en/14129-buy-enshrouded-pc-steam/",
+      "title": "Valheim - PC & Mac (Steam)",
+      "price": "$22.72",
+      "discount": "-24%",
+      "image": "https://gaming-cdn.com/images/products/7119/380x218/valheim-pc-mac-steam-cover.jpg?v=1792810800",
+      "url": "https://www.instant-gaming.com/en/7119-buy-valheim-pc-mac-steam/",
       "release": null
     }
   ],
   "preorders": [
     {
       "title": "Phantom Blade Zero - PC (Steam)",
-      "price": "$51.47",
+      "price": "$51.51",
       "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/",
       "release": "Pre-order\n                    \n\n                        In 5 days"
     },
     {
       "title": "Farming Simulator 25: Beans & Alpacas - PC & Mac (Steam)",
-      "price": "$20.13",
+      "price": "$20.15",
       "discount": "-33%",
-      "image": "https://gaming-cdn.com/images/products/23241/380x218/farming-simulator-25-beans-and-alpacas-pc-mac-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/23241/380x218/farming-simulator-25-beans-and-alpacas-pc-mac-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/23241-buy-farming-simulator-25-beans-and-alpacas-pc-mac-steam/",
       "release": "Pre-order\n                    \n\n                        In 3 days"
     },
     {
       "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
-      "price": "$64.90",
+      "price": "$64.95",
       "discount": "-28%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                         2 December 2026"
     },
     {
       "title": "Fable Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$78.11",
+      "price": "$78.16",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22994/380x218/fable-premium-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/22994/380x218/fable-premium-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/22994-buy-fable-premium-edition-xbox-series-x-s-pc-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        22 February 2027"
     }
@@ -127,9 +127,9 @@
   "bestsellers": [
     {
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$69.38",
+      "price": "$69.43",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": null
     },
@@ -137,79 +137,79 @@
       "title": "PlayStation Store gift card 10$",
       "price": "$9.28",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
     {
       "title": "Final Fantasy Resonance - PC (Steam)",
-      "price": "$44.20",
+      "price": "$44.23",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/",
       "release": null
     },
     {
       "title": "Minecraft: Java & Bedrock Edition - PC",
-      "price": "$18.34",
+      "price": "$18.36",
       "discount": "-45%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
     {
       "title": "Roblox - 1000 Robux",
-      "price": "$11.74",
+      "price": "$11.75",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     },
     {
       "title": "Final Fantasy Resonance Digital Deluxe Edition - PC (Steam)",
-      "price": "$53.15",
+      "price": "$53.19",
       "discount": "-11%",
-      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/23318/380x218/final-fantasy-resonance-digital-deluxe-edition-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/23318-buy-final-fantasy-resonance-digital-deluxe-edition-pc-steam/",
       "release": null
     },
     {
       "title": "EA Sports FC 27 - 5900 FC Points - XBOX One & XBOX Series X|S",
-      "price": "$44.20",
+      "price": "$44.23",
       "discount": "-21%",
-      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/23881/380x218/ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/23881-buy-ea-sports-fc-27-5900-fc-points-xbox-one-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
       "title": "Call of Duty: Modern Warfare 4 - Vault Edition - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$93.44",
+      "price": "$93.50",
       "discount": "-24%",
-      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/22745/380x218/call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/22745-buy-call-of-duty-modern-warfare-4-vault-edition-xbox-series-x-s-pc-microsoft-store/",
       "release": null
     },
     {
       "title": "WARDOGS - PC (Steam)",
-      "price": "$33.45",
+      "price": "$33.48",
       "discount": "-16%",
-      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/21740-buy-wardogs-pc-steam/",
       "release": null
     },
     {
       "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
-      "price": "$52.59",
+      "price": "$52.63",
       "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
       "release": null
     },
     {
       "title": "over the hill - PC (Steam)",
-      "price": "$14.54",
+      "price": "$14.55",
       "discount": "-42%",
-      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792789200",
+      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1792810800",
       "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
       "release": null
     }
@@ -217,7 +217,7 @@
   "reviews": [
     {
       "game": "Ace Combat 7: Skies Unknown - TOP GUN: Maverick Ultimate Edition",
-      "game_image": "https://gaming-cdn.com/images/products/11738/450x258/ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition-top-gun-maverick-ultimate-edition-pc-game-steam-cover.jpg?v=1792789200",
+      "game_image": "https://gaming-cdn.com/images/products/11738/450x258/ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition-top-gun-maverick-ultimate-edition-pc-game-steam-cover.jpg?v=1792810800",
       "game_url": "https://www.instant-gaming.com/en/11738-buy-ace-combat-7-skies-unknown-top-gun-maverick-ultimate-edition-top-gun-maverick-ultimate-edition-pc-game-steam/",
       "user": "gamer-1f0e34",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -226,7 +226,7 @@
     },
     {
       "game": "Dragon's Dogma 2: Dark Arisen Expansion",
-      "game_image": "https://gaming-cdn.com/images/products/24154/450x258/dragon-s-dogma-2-dark-arisen-expansion-pc-steam-cover.jpg?v=1792789200",
+      "game_image": "https://gaming-cdn.com/images/products/24154/450x258/dragon-s-dogma-2-dark-arisen-expansion-pc-steam-cover.jpg?v=1792810800",
       "game_url": "https://www.instant-gaming.com/en/24154-buy-dragon-s-dogma-2-dark-arisen-expansion-pc-steam/",
       "user": "gamer-0397ccc",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -235,7 +235,7 @@
     },
     {
       "game": "Wanderstop",
-      "game_image": "https://gaming-cdn.com/images/products/18803/450x258/wanderstop-pc-game-steam-cover.jpg?v=1792789200",
+      "game_image": "https://gaming-cdn.com/images/products/18803/450x258/wanderstop-pc-game-steam-cover.jpg?v=1792810800",
       "game_url": "https://www.instant-gaming.com/en/18803-buy-wanderstop-pc-game-steam/",
       "user": "UndeadUnicorn",
       "avatar": "https://gaming-cdn.com/images/avatars/19912939-1697378653.jpg",
@@ -244,7 +244,7 @@
     },
     {
       "game": "Minecraft: Java & Bedrock Edition",
-      "game_image": "https://gaming-cdn.com/images/products/442/450x258/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1792789200",
+      "game_image": "https://gaming-cdn.com/images/products/442/450x258/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1792810800",
       "game_url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "user": "LDPanda",
       "avatar": "https://gaming-cdn.com/images/avatars/32497597-1790259476.jpg",
