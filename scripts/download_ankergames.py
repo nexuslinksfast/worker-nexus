@@ -7,6 +7,7 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List
+import re
 
 from playwright.sync_api import sync_playwright
 
@@ -109,25 +110,34 @@ def main() -> int:
         all_games_map: Dict[str, Dict[str, str]] = {}
         clicks = 0
         consecutive_failures = 0
+        stuck_iterations = 0  # Control anti-bucle si el catálogo deja de crecer
 
-        log("[*] Iniciando paginación fluida (con limpieza constante de memoria DOM)...")
+        log("[*] Iniciando paginación fluida con control anti-bloqueo...")
 
         while True:
-            # 1. Extraer los juegos visibles actualmente en el DOM de la página
+            total_before = len(all_games_map)
+
+            # 1. Extraer los juegos y buscar el tamaño mediante expresiones regulares en el texto del bloque
             extracted = page.evaluate("""() => {
                 const wraps = document.querySelectorAll('div[data-game-id]');
                 const results = [];
 
                 wraps.forEach(wrap => {
                     const d = wrap.dataset;
-                    const article = wrap.querySelector('article[listing]');
                     let size = "Unknown";
                     let date = "";
 
+                    // Buscar el tamaño (ej: 71.5 GB o MB) directamente en el texto del contenedor
+                    const textContent = wrap.textContent || "";
+                    const sizeMatch = textContent.match(/(\\d+(?:\\.\\d+)?\\s*(?:GB|MB))/i);
+                    if (sizeMatch) {
+                        size = sizeMatch[1].trim();
+                    }
+
+                    const article = wrap.querySelector('article[listing]');
                     if (article) {
                         try {
                             const listingData = JSON.parse(article.getAttribute('listing'));
-                            size = listingData.runtime || "Unknown";
                             date = listingData.updated_at || listingData.created_at || "";
                         } catch(e) {}
                     }
@@ -145,14 +155,24 @@ def main() -> int:
                 return results;
             }""")
 
-            # Guardar juegos en nuestro mapa (evita duplicados automáticamente)
-            new_added = 0
+            # Guardar juegos en nuestro mapa
             for item in extracted:
                 if item["url"] not in all_games_map:
                     all_games_map[item["url"]] = item
-                    new_added += 1
 
-            # 2. Limpiar el DOM eliminando los contenedores procesados para mantener la velocidad
+            total_after = len(all_games_map)
+
+            # Comprobar si tras el ciclo el número de juegos aumentó
+            if total_after == total_before:
+                stuck_iterations += 1
+                log(f"    [⚠️] Alerta: No se encontraron juegos nuevos (Intento estancado {stuck_iterations}/3)")
+                if stuck_iterations >= 3:
+                    log("[*] El catálogo no ha aportado nuevos juegos tras varios intentos. Fin de la paginación.")
+                    break
+            else:
+                stuck_iterations = 0  # Reseteamos si sí creció
+
+            # 2. Limpiar el DOM eliminando los contenedores procesados
             page.evaluate("""() => {
                 const wraps = document.querySelectorAll('div[data-game-id]');
                 wraps.forEach(w => w.remove());
@@ -163,7 +183,7 @@ def main() -> int:
                 const btn = Array.from(document.querySelectorAll('button')).find(
                     b => b.getAttribute('wire:click') === 'loadMoreGames' || b.textContent.includes('Load More')
                 );
-                if (btn && !btn.disabled) {
+                if (btn && !btn.disabled && btn.offsetParent !== null) {
                     btn.click();
                     return true;
                 }
@@ -173,19 +193,18 @@ def main() -> int:
             if not clicked:
                 consecutive_failures += 1
                 if consecutive_failures >= 3:
-                    log("[*] No se encontró el botón de carga o se alcanzaron todos los juegos.")
+                    log("[*] El botón 'Load More' ya no está disponible o está deshabilitado.")
                     break
-                time.sleep(1.0)
+                time.sleep(1.5)
                 continue
 
             consecutive_failures = 0
             clicks += 1
 
             if clicks % 10 == 0 or clicks == 1:
-                log(f"[*] Clic #{clicks} realizado | Juegos acumulados hasta ahora: {len(all_games_map)}")
+                log(f"[*] Clic #{clicks} realizado | Juegos totales únicos hasta ahora: {len(all_games_map)}")
 
-            # Breve pausa para dar tiempo a Livewire a recibir el nuevo bloque
-            time.sleep(0.4)
+            time.sleep(1.0)
 
         browser.close()
 
@@ -194,27 +213,43 @@ def main() -> int:
             log("[x] No se encontró ningún juego en la lista.")
             return 1
 
-        log(f"[*] Total de {total_games} juegos extraídos con éxito. Generando JSON...")
+        log(f"[*] Total de {total_games} juegos extraídos en esta sesión. Fusionando con JSON anterior...")
 
-        downloads_list: List[Dict[str, Any]] = []
+        # --- CARGAR JUEGOS ANTERIORES PARA NO BORRAR NADA ---
+        existing_downloads_map = {}
+        if OUTPUT_FILE.exists():
+            try:
+                with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                    old_data = json.load(f)
+                    for d in old_data.get("downloads", []):
+                        if "uris" in d and d["uris"]:
+                            existing_downloads_map[d["uris"][0]] = d
+                log(f"[*] Se cargaron {len(existing_downloads_map)} juegos existentes del JSON previo.")
+            except Exception as e:
+                log(f"[!] No se pudo leer el JSON anterior, se creará uno nuevo: {e}")
+
+        # Construir y fusionar los nuevos datos
         for item in all_games_map.values():
-            downloads_list.append({
+            game_entry = {
                 "title": item["title"],
                 "fileSize": item["size"],
                 "uploadDate": parse_iso_date(item["date"]),
                 "uris": [item["url"]]
-            })
+            }
+            existing_downloads_map[item["url"]] = game_entry
+
+        final_downloads_list = list(existing_downloads_map.values())
 
         output_data = {
             "name": "AnkerGames",
-            "downloads": downloads_list,
+            "downloads": final_downloads_list,
         }
 
         OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(output_data, f, ensure_ascii=False, indent=2)
 
-        log(f"\n[✔] Completado: {len(downloads_list)} enlaces extraídos.")
+        log(f"\n[✔] Completado: {len(final_downloads_list)} enlaces totales en el JSON (Fusión exitosa).")
         log(f"[✔] Guardado en: {OUTPUT_FILE.resolve()}")
         return 0
 
