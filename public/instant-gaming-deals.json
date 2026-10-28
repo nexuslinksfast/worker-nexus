@@ -1,16 +1,16 @@
 {
-  "last_update": "2026-10-27T21:56:58+00:00",
+  "last_update": "2026-10-28T04:43:38+00:00",
   "hero": [
     {
       "title": "Phantom Blade Zero",
-      "price": "$51.40",
-      "discount": "-14%",
+      "price": "$51.25",
+      "discount": "-15%",
       "image": "https://gaming-cdn.com/img/products/14205/hcover/1920x620/14205.jpg?v=1793008927",
       "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/"
     },
     {
       "title": "Call of Duty: Modern Warfare 4",
-      "price": "$69.29",
+      "price": "$69.08",
       "discount": "-23%",
       "image": "https://gaming-cdn.com/img/products/16809/hcover/1920x620/16809.jpg?v=1792479050",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/"
@@ -19,123 +19,115 @@
   "trending": [
     {
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$69.29",
+      "price": "$69.08",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": null
     },
     {
       "title": "Final Fantasy Resonance - PC (Steam)",
-      "price": "$44.14",
+      "price": "$44",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/",
       "release": null
     },
     {
       "title": "Farming Simulator 25: Beans & Alpacas - PC & Mac (Steam)",
-      "price": "$20.11",
+      "price": "$20.05",
       "discount": "-33%",
-      "image": "https://gaming-cdn.com/images/products/23241/380x218/farming-simulator-25-beans-and-alpacas-pc-mac-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/23241/380x218/farming-simulator-25-beans-and-alpacas-pc-mac-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/23241-buy-farming-simulator-25-beans-and-alpacas-pc-mac-steam/",
       "release": null
     },
     {
+      "title": "Planet Zoo 2 - PC (Steam)",
+      "price": "$38.66",
+      "discount": "-23%",
+      "image": "https://gaming-cdn.com/images/products/21064/380x218/planet-zoo-2-pc-steam-cover.jpg?v=1793160000",
+      "url": "https://www.instant-gaming.com/en/21064-buy-planet-zoo-2-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "WARDOGS - PC (Steam)",
+      "price": "$33.31",
+      "discount": "-17%",
+      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1793160000",
+      "url": "https://www.instant-gaming.com/en/21740-buy-wardogs-pc-steam/",
+      "release": null
+    },
+    {
       "title": "over the hill - PC (Steam)",
-      "price": "$14.52",
+      "price": "$14.48",
       "discount": "-42%",
-      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
       "release": null
     },
     {
-      "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
-      "price": "$52.52",
-      "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1793134800",
-      "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
-      "release": null
-    },
-    {
-      "title": "EA Sports FC 27 - PC (EA App)",
-      "price": "$59.79",
-      "discount": "-15%",
-      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1793134800",
-      "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
-      "release": null
-    },
-    {
       "title": "No More Room In Hell 2 - PC (Steam)",
-      "price": "$13.40",
+      "price": "$13.36",
       "discount": "-55%",
-      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/12335/380x218/no-more-room-in-hell-2-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/12335-buy-no-more-room-in-hell-2-pc-steam/",
       "release": null
     },
     {
-      "title": "Star Wars: Galactic Racer - PC (Steam)",
-      "price": "$44.14",
-      "discount": "-26%",
-      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1793134800",
-      "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/",
+      "title": "EA Sports FC 27 - PC (EA App)",
+      "price": "$59.61",
+      "discount": "-15%",
+      "image": "https://gaming-cdn.com/images/products/21656/380x218/ea-sports-fc-27-pc-ea-app-cover.jpg?v=1793160000",
+      "url": "https://www.instant-gaming.com/en/21656-buy-ea-sports-fc-27-pc-ea-app/",
       "release": null
     },
     {
-      "title": "Superhero Simulator - PC (Steam)",
-      "price": "$1.33",
-      "discount": "-78%",
-      "image": "https://gaming-cdn.com/images/products/20476/380x218/superhero-simulator-pc-steam-cover.jpg?v=1793134800",
-      "url": "https://www.instant-gaming.com/en/20476-buy-superhero-simulator-pc-steam/",
+      "title": "Star Wars: Galactic Racer - PC (Steam)",
+      "price": "$44",
+      "discount": "-27%",
+      "image": "https://gaming-cdn.com/images/products/21378/380x218/star-wars-galactic-racer-pc-steam-cover.jpg?v=1793160000",
+      "url": "https://www.instant-gaming.com/en/21378-buy-star-wars-galactic-racer-pc-steam/",
       "release": null
     }
   ],
   "preorders": [
     {
       "title": "Phantom Blade Zero - PC (Steam)",
-      "price": "$51.40",
-      "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1793134800",
+      "price": "$51.25",
+      "discount": "-15%",
+      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/",
       "release": "Pre-order\n                    \n\n                        Tomorrow"
     },
     {
       "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
-      "price": "$64.82",
+      "price": "$64.62",
       "discount": "-28%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                         2 December 2026"
     },
     {
       "title": "Metro 2039 Deluxe Edition - PC (Steam)",
-      "price": "$80.46",
+      "price": "$80.22",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/24315/380x218/metro-2039-deluxe-edition-pc-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/24315/380x218/metro-2039-deluxe-edition-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/24315-buy-metro-2039-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                         3 February 2027"
     },
     {
       "title": "Fable Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$78",
+      "price": "$77.77",
       "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22994/380x218/fable-premium-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/22994/380x218/fable-premium-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/22994-buy-fable-premium-edition-xbox-series-x-s-pc-microsoft-store/",
       "release": "Pre-order\n                    \n\n                        22 February 2027"
     },
     {
-      "title": "Dragon Quest Monsters: The Withered World Deluxe Edition + Advanced access - PC (Steam)",
-      "price": "$82.70",
-      "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/23344/380x218/dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam-cover.jpg?v=1793134800",
-      "url": "https://www.instant-gaming.com/en/23344-buy-dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                         2 December 2026"
-    },
-    {
       "title": "Rise of the Merchants - PC & Mac (Steam)",
-      "price": "$21.78",
+      "price": "$21.72",
       "discount": "-22%",
-      "image": "https://gaming-cdn.com/images/products/24250/380x218/rise-of-the-merchants-pc-mac-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/24250/380x218/rise-of-the-merchants-pc-mac-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/24250-buy-rise-of-the-merchants-pc-mac-steam/",
       "release": "Pre-order\n                    \n\n                        Tomorrow"
     }
@@ -143,97 +135,106 @@
   "bestsellers": [
     {
       "title": "Phantom Blade Zero - PC (Steam)",
-      "price": "$51.40",
-      "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1793134800",
+      "price": "$51.25",
+      "discount": "-15%",
+      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/",
       "release": null
     },
     {
       "title": "PlayStation Store gift card 10$",
-      "price": "$9.27",
-      "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1793134800",
+      "price": "$9.24",
+      "discount": "-8%",
+      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
     {
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$69.29",
+      "price": "$69.08",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": null
     },
     {
       "title": "Roblox - 1000 Robux",
-      "price": "$11.72",
+      "price": "$11.69",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     },
     {
       "title": "Phantom Blade Zero Digital Deluxe Edition - PC (Steam)",
-      "price": "$60.34",
+      "price": "$60.16",
       "discount": "-14%",
-      "image": "https://gaming-cdn.com/images/products/23617/380x218/phantom-blade-zero-digital-deluxe-edition-pc-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/23617/380x218/phantom-blade-zero-digital-deluxe-edition-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/23617-buy-phantom-blade-zero-digital-deluxe-edition-pc-steam/",
       "release": null
     },
     {
       "title": "Final Fantasy Resonance - PC (Steam)",
-      "price": "$44.14",
+      "price": "$44",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/22936/380x218/final-fantasy-resonance-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/22936-buy-final-fantasy-resonance-pc-steam/",
       "release": null
     },
     {
       "title": "Minecraft: Java & Bedrock Edition - PC",
-      "price": "$18.99",
+      "price": "$18.93",
       "discount": "-43%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
     {
       "title": "PEAK - PC (Steam)",
-      "price": "$4.12",
-      "discount": "-48%",
-      "image": "https://gaming-cdn.com/images/products/19648/380x218/peak-pc-steam-cover.jpg?v=1793134800",
+      "price": "$4.11",
+      "discount": "-49%",
+      "image": "https://gaming-cdn.com/images/products/19648/380x218/peak-pc-steam-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/19648-buy-peak-pc-steam/",
       "release": null
     },
     {
-      "title": "over the hill - PC (Steam)",
-      "price": "$14.52",
-      "discount": "-42%",
-      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1793134800",
-      "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
-      "release": null
-    },
-    {
       "title": "Cyberpunk 2077: Ultimate Edition - PC (GOG.com)",
-      "price": "$33.30",
+      "price": "$32.97",
       "discount": "-67%",
-      "image": "https://gaming-cdn.com/images/products/14769/380x218/cyberpunk-2077-ultimate-edition-ultimate-edition-pc-game-gog-com-cover.jpg?v=1793134800",
+      "image": "https://gaming-cdn.com/images/products/14769/380x218/cyberpunk-2077-ultimate-edition-ultimate-edition-pc-game-gog-com-cover.jpg?v=1793160000",
       "url": "https://www.instant-gaming.com/en/14769-buy-cyberpunk-2077-ultimate-edition-ultimate-edition-pc-game-gog-com/",
       "release": null
     },
     {
-      "title": "Planet Zoo 2 Deluxe Edition - PC (Steam)",
-      "price": "$52.52",
-      "discount": "-19%",
-      "image": "https://gaming-cdn.com/images/products/24091/380x218/planet-zoo-2-deluxe-edition-pc-steam-cover.jpg?v=1793134800",
-      "url": "https://www.instant-gaming.com/en/24091-buy-planet-zoo-2-deluxe-edition-pc-steam/",
+      "title": "over the hill - PC (Steam)",
+      "price": "$14.48",
+      "discount": "-42%",
+      "image": "https://gaming-cdn.com/images/products/19403/380x218/over-the-hill-pc-steam-cover.jpg?v=1793160000",
+      "url": "https://www.instant-gaming.com/en/19403-buy-over-the-hill-pc-steam/",
+      "release": null
+    },
+    {
+      "title": "Planet Zoo 2 - PC (Steam)",
+      "price": "$38.66",
+      "discount": "-23%",
+      "image": "https://gaming-cdn.com/images/products/21064/380x218/planet-zoo-2-pc-steam-cover.jpg?v=1793160000",
+      "url": "https://www.instant-gaming.com/en/21064-buy-planet-zoo-2-pc-steam/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "Hell Clock",
+      "game_image": "https://gaming-cdn.com/images/products/19798/450x258/hell-clock-pc-steam-cover.jpg?v=1793160000",
+      "game_url": "https://www.instant-gaming.com/en/19798-buy-hell-clock-pc-steam/",
+      "user": "gamer-af9ba3d",
+      "avatar": "https://gaming-cdn.com/images/avatars/external/30527698/8056dec7e4bdc99f.jpg",
+      "sentiment": "like",
+      "content": "Um ótimo exemplo de como a indústria de games brasileira é forte e temos talentos incríveis para desenvolver tal obra como está.\n\nApenas diafrutem de um gameplay fluida com muita história envolvida."
+    },
+    {
       "game": "Bus Simulator 27",
-      "game_image": "https://gaming-cdn.com/images/products/19771/450x258/bus-simulator-27-pc-steam-cover.jpg?v=1793134800",
+      "game_image": "https://gaming-cdn.com/images/products/19771/450x258/bus-simulator-27-pc-steam-cover.jpg?v=1793160000",
       "game_url": "https://www.instant-gaming.com/en/19771-buy-bus-simulator-27-pc-steam/",
       "user": "gamer-830e6f",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -242,7 +243,7 @@
     },
     {
       "game": "Cthulhu: The Cosmic Abyss",
-      "game_image": "https://gaming-cdn.com/images/products/18834/450x258/cthulhu-the-cosmic-abyss-pc-steam-cover.jpg?v=1793134800",
+      "game_image": "https://gaming-cdn.com/images/products/18834/450x258/cthulhu-the-cosmic-abyss-pc-steam-cover.jpg?v=1793160000",
       "game_url": "https://www.instant-gaming.com/en/18834-buy-cthulhu-the-cosmic-abyss-pc-steam/",
       "user": "AstraDeCarcosa",
       "avatar": "https://gaming-cdn.com/images/avatars/20672401-1707647957.jpg",
@@ -251,21 +252,12 @@
     },
     {
       "game": "Call of Duty: Modern Warfare 4",
-      "game_image": "https://gaming-cdn.com/images/products/16809/450x258/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793134800",
+      "game_image": "https://gaming-cdn.com/images/products/16809/450x258/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1793160000",
       "game_url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "user": "Propaganda",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
       "sentiment": "dislike",
       "content": "DO NOT BUY THIS GAME! \n\nThis Is NOT Call of Duty.\n\n\n\nA bit of camping is fine. It has always been part of the game. But when 50% of the players spend the entire match sitting in a corner, waiting for someone to walk past, something is seriously wrong.\n\n\n\nAnd no, the movement is not a matter of getting used to it. It is a matter of how the game is being developed. Modern developers seem to have forgotten how to create simple, smooth and natural movement. Instead, everything feels unnecessarily complicated, clunky and mechanical. Sometimes it genuinely feels like you're playing with lag, even when your connection is fine.\n\n\n\nAnd then there's the hit registration. Absolutely embarrassing. You can literally watch the kill feed and see that eight shots from you straight to the chest seem to do less damage than two shots from your opponent hitting your legs. How are you supposed to take a competitive shooter seriously when gunfights feel like a complete lottery?\n\n\n\nThis game feels like pure consumerism, designed to keep people buying and grinding rather than delivering a genuinely fun and competitive experience. It no longer feels like the Call of Duty we grew up loving.\n\n\n\nI really miss the old days, when things were simple. Smooth movement, satisfying gunfights and skill actually making a difference. If you were good at the game, you could dominate, have great matches and genuinely enjoy yourself.\n\n\n\nOf course, there were campers and sweaty players back then too, but it didn't feel like every single match was the final of the World Championship.\n\n\n\nNowadays, even if you're good, every match feels like a tournament final. You have to sweat your ass off every single game against people who are too scared to move, clunky mechanics and gunfights where you can't even understand why you lost.\n\n\n\nCall of Duty should be about fun, fast-paced action and skill, not constant stress and frustration.\n\n\n\nUnfortunately, this doesn't feel like COD anymore. And the worst part is that it seems like the people developing the game have completely forgotten what made this franchise so great in the first place."
-    },
-    {
-      "game": "Days Gone",
-      "game_image": "https://gaming-cdn.com/images/products/6791/450x258/days-gone-pc-game-steam-cover.jpg?v=1793134800",
-      "game_url": "https://www.instant-gaming.com/en/6791-buy-days-gone-pc-game-steam/",
-      "user": "The Provokator",
-      "avatar": "https://gaming-cdn.com/images/avatars/11884263-1597424779.jpg",
-      "sentiment": "like",
-      "content": "This is arguably the game's greatest strength.\n\n\n\n- Hordes can consist of a massive number of zombies.\n\n\n\n- Once they spot you, they can pursue and surround you.\n\n\n\n- You have to carefully consider your movement and how you’ll make your escape.\n\n\n\n- Things get particularly interesting later on, once you have access to more weapons and options.\n\n\n\nMy advice: Don't feel like you have to take down every horde you encounter early on. Sometimes, it’s smarter to run away and return once you’re better equipped.\n\n\n\n2. ?️ The Motorcycle and the Survival Experience\n\n\n\nYour motorcycle is more than just a means of transport. You need to keep track of:\n\n\n\n- Fuel.\n\n\n\n- Damage and repairs.\n\n\n\n- Upgrades.\n\n\n\n- Performance enhancements.\n\n\n\nThis creates the genuine feeling that you are traveling through a dangerous world, rather than simply moving from one mission to the next.\n\n\n\n3. ? Atmosphere and Open World\n\n\n\nForests, abandoned structures, fog, rain, and shifting weather conditions do an excellent job of establishing a post-apocalyptic atmosphere.\n\n\n\nThe game truly shines when you’re riding through the woods as dusk falls, and you suddenly hear enemies lurking nearby."
     }
   ],
   "weekly_deals": []
