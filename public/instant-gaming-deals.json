@@ -1,17 +1,17 @@
 {
-  "last_update": "2026-11-24T22:04:24+00:00",
+  "last_update": "2026-11-25T07:38:37+00:00",
   "hero": [
     {
       "title": "",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/marketing/banners/406/homepage/en/1920x620/homepage-en.jpg?v=1795557841",
+      "image": "https://gaming-cdn.com/images/marketing/banners/406/homepage/en/1920x620/homepage-en.jpg?v=1795592305",
       "url": "https://www.instant-gaming.com/en/l/gta6"
     },
     {
       "title": "Grand Theft Auto VI",
-      "price": "$72.14",
-      "discount": "-17%",
+      "price": "$72.37",
+      "discount": "-18%",
       "image": "https://gaming-cdn.com/img/products/15505/hcover/1920x620/15505.jpg?v=1795202387",
       "url": "https://www.instant-gaming.com/en/15505-buy-grand-theft-auto-vi-xbox-series-x-s-microsoft-store/"
     }
@@ -19,73 +19,73 @@
   "trending": [
     {
       "title": "Grand Theft Auto VI - XBOX Series X|S",
-      "price": "$72.14",
-      "discount": "-17%",
-      "image": "https://gaming-cdn.com/images/products/15505/380x218/grand-theft-auto-vi-xbox-series-x-s-microsoft-store-cover.jpg?v=1795557600",
+      "price": "$72.37",
+      "discount": "-18%",
+      "image": "https://gaming-cdn.com/images/products/15505/380x218/grand-theft-auto-vi-xbox-series-x-s-microsoft-store-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/15505-buy-grand-theft-auto-vi-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
       "title": "Phantom Blade Zero - PC (Steam)",
-      "price": "$49.73",
+      "price": "$49.89",
       "discount": "-17%",
-      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/14205/380x218/phantom-blade-zero-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/14205-buy-phantom-blade-zero-pc-steam/",
       "release": null
     },
     {
       "title": "Call of Duty: Modern Warfare 4 - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$56.39",
+      "price": "$56.58",
       "discount": "-36%",
-      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/16809/380x218/call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/16809-buy-call-of-duty-modern-warfare-4-xbox-series-x-s-pc-microsoft-store/",
       "release": null
     },
     {
       "title": "Disney Dreamlight Valley: The Keepsake Sea - Deluxe Edition - PC (Steam)",
-      "price": "$32.78",
+      "price": "$32.89",
       "discount": "-34%",
-      "image": "https://gaming-cdn.com/images/products/24623/380x218/disney-dreamlight-valley-the-keepsake-sea-deluxe-edition-pc-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/24623/380x218/disney-dreamlight-valley-the-keepsake-sea-deluxe-edition-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/24623-buy-disney-dreamlight-valley-the-keepsake-sea-deluxe-edition-pc-steam/",
       "release": null
     },
     {
-      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim - PC (Steam)",
-      "price": "$11.47",
-      "discount": "-43%",
-      "image": "https://gaming-cdn.com/images/products/23573/380x218/probably-stolen-cyberpunk-shopkeeper-sim-pc-steam-cover.jpg?v=1795557600",
-      "url": "https://www.instant-gaming.com/en/23573-buy-probably-stolen-cyberpunk-shopkeeper-sim-pc-steam/",
-      "release": null
-    },
-    {
       "title": "Workers & Resources: Soviet Republic - Space Program - PC (Steam)",
-      "price": "$12.78",
+      "price": "$12.82",
       "discount": "-36%",
-      "image": "https://gaming-cdn.com/images/products/24636/380x218/workers-and-resources-soviet-republic-space-program-pc-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/24636/380x218/workers-and-resources-soviet-republic-space-program-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/24636-buy-workers-and-resources-soviet-republic-space-program-pc-steam/",
       "release": null
     },
     {
+      "title": "Probably Stolen - Cyberpunk Shopkeeper Sim - PC (Steam)",
+      "price": "$11.50",
+      "discount": "-42%",
+      "image": "https://gaming-cdn.com/images/products/23573/380x218/probably-stolen-cyberpunk-shopkeeper-sim-pc-steam-cover.jpg?v=1795590000",
+      "url": "https://www.instant-gaming.com/en/23573-buy-probably-stolen-cyberpunk-shopkeeper-sim-pc-steam/",
+      "release": null
+    },
+    {
       "title": "WARDOGS - PC (Steam)",
-      "price": "$32.67",
+      "price": "$32.78",
       "discount": "-18%",
-      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/21740/380x218/wardogs-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/21740-buy-wardogs-pc-steam/",
       "release": null
     },
     {
       "title": "Crimson Desert Enhanced: Charting the Unknown - PC & Mac (Steam)",
-      "price": "$21.63",
+      "price": "$21.70",
       "discount": "-13%",
-      "image": "https://gaming-cdn.com/images/products/23880/380x218/crimson-desert-enhanced-charting-the-unknown-pc-mac-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/23880/380x218/crimson-desert-enhanced-charting-the-unknown-pc-mac-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/23880-buy-crimson-desert-enhanced-charting-the-unknown-pc-mac-steam/",
       "release": null
     },
     {
       "title": "Casualties: Unknown - PC (Steam)",
-      "price": "$13.11",
+      "price": "$13.15",
       "discount": "-43%",
-      "image": "https://gaming-cdn.com/images/products/22436/380x218/casualties-unknown-pc-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/22436/380x218/casualties-unknown-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/22436-buy-casualties-unknown-pc-steam/",
       "release": null
     }
@@ -93,107 +93,107 @@
   "preorders": [
     {
       "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
-      "price": "$63.39",
-      "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1795557600",
+      "price": "$63.60",
+      "discount": "-29%",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 8 days"
+      "release": "Pre-order\n                    \n\n                        In 7 days"
     },
     {
       "title": "Dragon Quest Monsters: The Withered World Deluxe Edition + Advanced access - PC (Steam)",
-      "price": "$80.88",
+      "price": "$81.15",
       "discount": "-15%",
-      "image": "https://gaming-cdn.com/images/products/23344/380x218/dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/23344/380x218/dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/23344-buy-dragon-quest-monsters-the-withered-world-deluxe-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 8 days"
-    },
-    {
-      "title": "Fable Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
-      "price": "$76.29",
-      "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22994/380x218/fable-premium-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1795557600",
-      "url": "https://www.instant-gaming.com/en/22994-buy-fable-premium-edition-xbox-series-x-s-pc-microsoft-store/",
-      "release": "Pre-order\n                    \n\n                        22 February 2027"
+      "release": "Pre-order\n                    \n\n                        In 7 days"
     },
     {
       "title": "Metro 2039 Deluxe Edition - PC (Steam)",
-      "price": "$76.51",
+      "price": "$76.76",
       "discount": "-23%",
-      "image": "https://gaming-cdn.com/images/products/24315/380x218/metro-2039-deluxe-edition-pc-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/24315/380x218/metro-2039-deluxe-edition-pc-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/24315-buy-metro-2039-deluxe-edition-pc-steam/",
       "release": "Pre-order\n                    \n\n                         3 February 2027"
     },
     {
-      "title": "Hotel Architect - Poolside Paradise - PC (Steam)",
-      "price": "$7.09",
-      "discount": "-17%",
-      "image": "https://gaming-cdn.com/images/products/24559/380x218/hotel-architect-poolside-paradise-pc-steam-cover.jpg?v=1795557600",
-      "url": "https://www.instant-gaming.com/en/24559-buy-hotel-architect-poolside-paradise-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        Today"
+      "title": "Fable Premium Edition + Advanced access - PC & XBOX Series X|S (Microsoft Store)",
+      "price": "$76.54",
+      "discount": "-30%",
+      "image": "https://gaming-cdn.com/images/products/22994/380x218/fable-premium-edition-xbox-series-x-s-pc-microsoft-store-cover.jpg?v=1795590000",
+      "url": "https://www.instant-gaming.com/en/22994-buy-fable-premium-edition-xbox-series-x-s-pc-microsoft-store/",
+      "release": "Pre-order\n                    \n\n                        22 February 2027"
     }
   ],
   "bestsellers": [
     {
       "title": "PlayStation Store gift card 10$",
-      "price": "$9.28",
+      "price": "$9.31",
       "discount": "-7%",
-      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/4620/380x218/playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/4620-buy-playstation-store-gift-card-10-10-card-playstation-4-playstation-5-game-playstation-store-united-states/",
       "release": null
     },
     {
       "title": "Grand Theft Auto V Enhanced - PC (Rockstar)",
-      "price": "$10.70",
+      "price": "$10.74",
       "discount": "-64%",
-      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/4211/380x218/grand-theft-auto-v-enhanced-pc-rockstar-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/4211-buy-grand-theft-auto-v-enhanced-pc-rockstar/",
       "release": null
     },
     {
       "title": "Grand Theft Auto VI - XBOX Series X|S",
-      "price": "$72.14",
-      "discount": "-17%",
-      "image": "https://gaming-cdn.com/images/products/15505/380x218/grand-theft-auto-vi-xbox-series-x-s-microsoft-store-cover.jpg?v=1795557600",
+      "price": "$72.37",
+      "discount": "-18%",
+      "image": "https://gaming-cdn.com/images/products/15505/380x218/grand-theft-auto-vi-xbox-series-x-s-microsoft-store-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/15505-buy-grand-theft-auto-vi-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
       "title": "Grand Theft Auto VI Ultimate Edition - XBOX Series X|S",
-      "price": "$87.44",
+      "price": "$87.73",
       "discount": "-20%",
-      "image": "https://gaming-cdn.com/images/products/23073/380x218/grand-theft-auto-vi-ultimate-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/23073/380x218/grand-theft-auto-vi-ultimate-edition-xbox-series-x-s-microsoft-store-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/23073-buy-grand-theft-auto-vi-ultimate-edition-xbox-series-x-s-microsoft-store/",
       "release": null
     },
     {
       "title": "Red Dead Redemption 2: Ultimate Edition - PC (Rockstar)",
-      "price": "$19.01",
+      "price": "$19.07",
       "discount": "-81%",
-      "image": "https://gaming-cdn.com/images/products/5653/380x218/red-dead-redemption-2-ultimate-edition-ultimate-edition-pc-game-rockstar-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/5653/380x218/red-dead-redemption-2-ultimate-edition-ultimate-edition-pc-game-rockstar-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/5653-buy-red-dead-redemption-2-ultimate-edition-ultimate-edition-pc-game-rockstar/",
       "release": null
     },
     {
       "title": "Roblox - 1000 Robux",
-      "price": "$11.47",
+      "price": "$11.50",
       "discount": "-12%",
-      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/22952/380x218/roblox-1000-robux-pc-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/22952-buy-roblox-1000-robux-pc/",
       "release": null
     },
     {
       "title": "Red Dead Redemption 2 - PC (Rockstar)",
-      "price": "$14.20",
+      "price": "$14.25",
       "discount": "-78%",
-      "image": "https://gaming-cdn.com/images/products/5679/380x218/red-dead-redemption-2-pc-game-rockstar-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/5679/380x218/red-dead-redemption-2-pc-game-rockstar-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/5679-buy-red-dead-redemption-2-pc-game-rockstar/",
       "release": null
     },
     {
+      "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
+      "price": "$63.60",
+      "discount": "-29%",
+      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1795590000",
+      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
+      "release": "Pre-order\n                    \n\n                        In 7 days"
+    },
+    {
       "title": "Minecraft: Java & Bedrock Edition - PC",
-      "price": "$17.48",
+      "price": "$17.54",
       "discount": "-47%",
-      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/442/380x218/minecraft-java-and-bedrock-edition-pc-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/442-buy-minecraft-java-and-bedrock-edition-pc/",
       "release": null
     },
@@ -201,31 +201,41 @@
       "title": "BlazBlue: Cross Tag Battle Special Edition - PC (Steam)",
       "price": "",
       "discount": "",
-      "image": "https://gaming-cdn.com/images/products/8089/380x218/blazblue-cross-tag-battle-special-edition-special-edition-pc-game-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/8089/380x218/blazblue-cross-tag-battle-special-edition-special-edition-pc-game-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/8089-buy-blazblue-cross-tag-battle-special-edition-special-edition-pc-game-steam/",
       "release": null
-    },
-    {
-      "title": "Warhammer 40,000: Dawn of War IV Commander Edition + Advanced access - PC (Steam)",
-      "price": "$63.39",
-      "discount": "-30%",
-      "image": "https://gaming-cdn.com/images/products/22688/380x218/warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam-cover.jpg?v=1795557600",
-      "url": "https://www.instant-gaming.com/en/22688-buy-warhammer-40-000-dawn-of-war-iv-commander-edition-pc-steam/",
-      "release": "Pre-order\n                    \n\n                        In 8 days"
     },
     {
       "title": "Psychonauts 2 - PC & Mac (Steam)",
       "price": "$1.96",
       "discount": "-97%",
-      "image": "https://gaming-cdn.com/images/products/4798/380x218/psychonauts-2-pc-mac-game-steam-cover.jpg?v=1795557600",
+      "image": "https://gaming-cdn.com/images/products/4798/380x218/psychonauts-2-pc-mac-game-steam-cover.jpg?v=1795590000",
       "url": "https://www.instant-gaming.com/en/4798-buy-psychonauts-2-pc-mac-game-steam/",
       "release": null
     }
   ],
   "reviews": [
     {
+      "game": "Grand Theft Auto VI",
+      "game_image": "https://gaming-cdn.com/images/products/15505/450x258/grand-theft-auto-vi-xbox-series-x-s-microsoft-store-cover.jpg?v=1795590000",
+      "game_url": "https://www.instant-gaming.com/en/15505-buy-grand-theft-auto-vi-xbox-series-x-s-microsoft-store/",
+      "user": "gamer-f571304",
+      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
+      "sentiment": "dislike",
+      "content": "Over Hyped, the price drop is great but still over priced. The game gives watch dog 2 and cyber punk graphics, which is only expected from next Gen games. 2 to 6 forced major differences than the other games, which is lazy In my opinion after all those years. Finally the story, seemed like it was written by a reddit moderator, and don't get me started on all the bigot accents. Only a certain (KKK) group of people can listen to their voices for hours."
+    },
+    {
+      "game": "Superliminal",
+      "game_image": "https://gaming-cdn.com/images/products/6251/450x258/superliminal-pc-mac-game-steam-cover.jpg?v=1795590000",
+      "game_url": "https://www.instant-gaming.com/en/6251-buy-superliminal-pc-mac-game-steam/",
+      "user": "R4r4",
+      "avatar": "https://gaming-cdn.com/images/avatars/11695961-1653842280.jpg",
+      "sentiment": "dislike",
+      "content": "Super fun idea and messes with the brain! Too much in fact for those whom suffer from easy motion sickness. This WILL cause it early on, so if you wish to still play, take it in in very small doses. 2 people in our household got an upset head and stomach for the rest of the day after around 1 hour of gameplay."
+    },
+    {
       "game": "FATAL FURY: City of the Wolves Revenge Edition",
-      "game_image": "https://gaming-cdn.com/images/products/23633/450x258/fatal-fury-city-of-the-wolves-revenge-edition-pc-steam-cover.jpg?v=1795557600",
+      "game_image": "https://gaming-cdn.com/images/products/23633/450x258/fatal-fury-city-of-the-wolves-revenge-edition-pc-steam-cover.jpg?v=1795590000",
       "game_url": "https://www.instant-gaming.com/en/23633-buy-fatal-fury-city-of-the-wolves-revenge-edition-pc-steam/",
       "user": "gamer-5e6cd8f",
       "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
@@ -234,30 +244,12 @@
     },
     {
       "game": "Until Then",
-      "game_image": "https://gaming-cdn.com/images/products/15891/450x258/until-then-pc-steam-cover.jpg?v=1795557600",
+      "game_image": "https://gaming-cdn.com/images/products/15891/450x258/until-then-pc-steam-cover.jpg?v=1795590000",
       "game_url": "https://www.instant-gaming.com/en/15891-buy-until-then-pc-steam/",
       "user": "NyxHemera",
       "avatar": "https://gaming-cdn.com/images/avatars/31562928-1779908254.jpg",
       "sentiment": "like",
       "content": "Until Then is a beautifully crafted narrative adventure that stands out thanks to its exceptional storytelling and breathtaking artistic direction.\n\n\n\nSet in a world that feels both ordinary and quietly mysterious, the game follows the life of a teenager whose everyday routine gradually unravels into a deeply emotional and thought-provoking journey.\n\n\n\nWhat truly makes Until Then unforgettable is its masterful storytelling.\n\n\n\nEvery conversation, character interaction, and seemingly insignificant moment contributes to a rich, emotional narrative that explores themes of friendship, loss, identity, and the passage of time.\n\n\n\nThe writing is subtle and authentic, allowing players to form genuine connections with the characters while uncovering the story's many layers.\n\n\n\nThe game's art direction is equally remarkable. Its stunning pixel art blends nostalgic charm with modern visual techniques, creating vibrant environments filled with atmosphere and emotion.\n\n\n\nCombined with expressive animations, dynamic lighting, and a carefully crafted soundtrack, Until Then delivers an immersive experience that is as visually captivating as it is emotionally powerful.\n\n\n\nOverall, Until Then is much more than a story-driven game—it's a memorable emotional experience that showcases how outstanding storytelling and sublime artistic design can come together to create something truly special."
-    },
-    {
-      "game": "Silver Pines",
-      "game_image": "https://gaming-cdn.com/images/products/17460/450x258/silver-pines-pc-steam-cover.jpg?v=1795557600",
-      "game_url": "https://www.instant-gaming.com/en/17460-buy-silver-pines-pc-steam/",
-      "user": "Keibo",
-      "avatar": "https://gaming-cdn.com/images/avatars/4801525-1641982368.jpg",
-      "sentiment": "like",
-      "content": "Great spooky game, with an incredible atmosphere reminding me of Twin Peaks, Alan Wake and Silent Hill 2. \n\nThe story and the lore behind it are both a bit nebulous but the experience was still pretty fun, especially for someone not used to horror games. Gameplay reminds me of Resident Evil in some way. \n\n\n\nIf you like indie games, spooky games, mystery games or RE games, this might be for you!\n\n\n\n(& nominated in the TGA! Great job Wytch Elm)"
-    },
-    {
-      "game": "Grand Theft Auto VI",
-      "game_image": "https://gaming-cdn.com/images/products/15505/450x258/grand-theft-auto-vi-xbox-series-x-s-microsoft-store-cover.jpg?v=1795557600",
-      "game_url": "https://www.instant-gaming.com/en/15505-buy-grand-theft-auto-vi-xbox-series-x-s-microsoft-store/",
-      "user": "gamer-070ce5",
-      "avatar": "https://gaming-cdn.com/themes/igv2/images/avatar2.svg",
-      "sentiment": "dislike",
-      "content": "Crappy boring game. The gameplay is 90% buying groceries repair ur house and do boring stuff like go to a restaurant for real 30mins to do button clicking. The graphic is nothing new, we saw it on rdr2. They copied the physics for water, hair, body and for slme reason copied the ubisoft control and weight for vehicles. Its the biggest flop ever"
     }
   ],
   "weekly_deals": []
