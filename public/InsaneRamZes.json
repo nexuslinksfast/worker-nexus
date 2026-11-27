@@ -2,6 +2,14 @@
   "name": "InsaneRamZes",
   "downloads": [
     {
+      "title": "[Порт] Grand Theft Auto VI (RUS/ENG/MULTi12) [P]",
+      "fileSize": "208.63 GB",
+      "uploadDate": "2026-11-27T10:19:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:4d3466300cc9ab871549e0afcac2792bba6afb66&dn=%5B%D0%9F%D0%BE%D1%80%D1%82%5D%20Grand%20Theft%20Auto%20VI%20%28RUS/ENG/MULTi12%29%20%5BP%5D"
+      ]
+    },
+    {
       "title": "Crysis Remastered Trilogy (Crytek) (RUS|ENG|MULTi12) [DL|GOG]",
       "fileSize": "81.31 GB",
       "uploadDate": "2026-10-29T16:46:00.000Z",
@@ -218,14 +226,6 @@
       ]
     },
     {
-      "title": "Полная антология Unreal и Unreal Tournament (ENG) [L]",
-      "fileSize": "23.1 GB",
-      "uploadDate": "2023-10-06T00:48:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:0a4c71bcccc05fe88e9014e0fb89760d93eff906&dn=%D0%9F%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20Unreal%20%D0%B8%20Unreal%20Tournament%20%28ENG%29%20%5BL%5D"
-      ]
-    },
-    {
       "title": "S.T.A.L.K.E.R. Трилогия | S.T.A.L.K.E.R. Trilogy (STALKER) (GSC World Publishing) (RUS|ENG|UKR) [L]",
       "fileSize": "25.95 GB",
       "uploadDate": "2023-01-05T20:54:00.000Z",
@@ -346,11 +346,59 @@
       ]
     },
     {
-      "title": "[Порт] Grand Theft Auto VI (RUS/ENG/MULTi12) [P]",
-      "fileSize": "208.63 GB",
-      "uploadDate": "2026-11-27T00:07:00.000Z",
+      "title": "BioShock Infinite (RUS) [RePack] от R.G. Механики",
+      "fileSize": "17.01 GB",
+      "uploadDate": "2026-11-27T06:30:00.000Z",
       "uris": [
-        "magnet:?xt=urn:btih:4d3466300cc9ab871549e0afcac2792bba6afb66&dn=%5B%D0%9F%D0%BE%D1%80%D1%82%5D%20Grand%20Theft%20Auto%20VI%20%28RUS/ENG/MULTi12%29%20%5BP%5D"
+        "magnet:?xt=urn:btih:83fd63b4daa54200af3b46453eda3186f93cc934&dn=BioShock%20Infinite%20%28RUS%29%20%5BRePack%5D%20%D0%BE%D1%82%20R.G.%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8"
+      ]
+    },
+    {
+      "title": "Silent Hill f (KONAMI) (RUS|ENG|MULTi13) [DL|GOG]",
+      "fileSize": "43.34 GB",
+      "uploadDate": "2026-11-27T05:32:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:60201e20475e2068a91925e18dc3f156649dcc1b&dn=Silent%20Hill%20f%20%28KONAMI%29%20%28RUS%7CENG%7CMULTi13%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
+      "title": "Cult of the Lamb (Devolver Digital) (RUS/ENG/Multi10) [DL|GOG]",
+      "fileSize": "4.42 GB",
+      "uploadDate": "2026-11-27T05:16:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:4503c7857d977235847678c286cf82e6ac793009&dn=Cult%20of%20the%20Lamb%20%28Devolver%20Digital%29%20%28RUS/ENG/Multi10%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
+      "title": "Тунгуска: Посещение / Tunguska: The Visitation (Rotorist Workshop) (RUS/ENG/Multi9) [DL|GOG]",
+      "fileSize": "2.74 GB",
+      "uploadDate": "2026-11-27T05:05:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:42dd36f479b230b230f0ec529dcf6a24a877dbad&dn=%D0%A2%D1%83%D0%BD%D0%B3%D1%83%D1%81%D0%BA%D0%B0%3A%20%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20/%20Tunguska%3A%20The%20Visitation%20%28Rotorist%20Workshop%29%20%28RUS/ENG/Multi9%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
+      "title": "Moros Protocol (Super Rare Originals) (RUS|ENG|MULTi16) [DL|GOG]",
+      "fileSize": "2.14 GB",
+      "uploadDate": "2026-11-27T04:55:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:746e627d77eb2ed57a8e23f54b56453105b21d7e&dn=Moros%20Protocol%20%28Super%20Rare%20Originals%29%20%28RUS%7CENG%7CMULTi16%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
+      "title": "Shadows of Doubt (Fireshine Games) (RUS/ENG/Multi9) [DL|GOG]",
+      "fileSize": "1.68 GB",
+      "uploadDate": "2026-11-27T04:10:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:5c114f5f293e9ee5b6d952a6e40ac22e78a1da93&dn=Shadows%20of%20Doubt%20%28Fireshine%20Games%29%20%28RUS/ENG/Multi9%29%20%5BDL%7CGOG%5D"
+      ]
+    },
+    {
+      "title": "Wizordum (Apogee Entertainment) (ENG) [DL|GOG]",
+      "fileSize": "331 MB",
+      "uploadDate": "2026-11-27T03:56:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:b69dd1f6496e38612c50201ebd1a7f381369520a&dn=Wizordum%20%28Apogee%20Entertainment%29%20%28ENG%29%20%5BDL%7CGOG%5D"
       ]
     },
     {
@@ -399,6 +447,14 @@
       "uploadDate": "2026-11-25T14:18:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:dee09eb5ce0de074a2f8fd4ead1a7b5ecf3f01e9&dn=Call%20of%20Duty%3A%20Modern%20Warfare%20%28RUS/ENG/MULTI13%29%20%5BRepack%5D"
+      ]
+    },
+    {
+      "title": "Silver Pines (RUS/ENG/MULTi10) [P]",
+      "fileSize": "6.21 GB",
+      "uploadDate": "2026-11-25T13:42:00.000Z",
+      "uris": [
+        "magnet:?xt=urn:btih:fb8f1f3a03d5859e4067dc096e40ef98791c1ec6&dn=Silver%20Pines%20%28RUS/ENG/MULTi10%29%20%5BP%5D"
       ]
     },
     {
@@ -1978,14 +2034,6 @@
       ]
     },
     {
-      "title": "Тунгуска: Посещение / Tunguska: The Visitation (Rotorist Workshop) (RUS/ENG/Multi9) [DL|GOG]",
-      "fileSize": "2.74 GB",
-      "uploadDate": "2026-10-02T01:27:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:9ba8fcb9bc77248abd874f4e08050c9766c67460&dn=%D0%A2%D1%83%D0%BD%D0%B3%D1%83%D1%81%D0%BA%D0%B0%3A%20%D0%9F%D0%BE%D1%81%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%20/%20Tunguska%3A%20The%20Visitation%20%28Rotorist%20Workshop%29%20%28RUS/ENG/Multi9%29%20%5BDL%7CGOG%5D"
-      ]
-    },
-    {
       "title": "Forgive Me Father 2 (Fulqrum Publishing) (RUS|ENG|MULTi12) [DL|GOG]",
       "fileSize": "9.98 GB",
       "uploadDate": "2026-10-01T23:47:00.000Z",
@@ -2007,14 +2055,6 @@
       "uploadDate": "2026-10-01T10:49:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:94692bef0aeed2fd9ed985b88ec1ead86debf961&dn=The%20Muller-Powell%20Principle%3A%20Director%27s%20Cut%20%28RUS/ENG/MULTI8%29%20%5BRepack%5D"
-      ]
-    },
-    {
-      "title": "Wizordum (Apogee Entertainment) (ENG) [DL|GOG]",
-      "fileSize": "331 MB",
-      "uploadDate": "2026-10-01T02:22:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:f0b4bc5d1bbc21760a295b08560374aa0585e675&dn=Wizordum%20%28Apogee%20Entertainment%29%20%28ENG%29%20%5BDL%7CGOG%5D"
       ]
     },
     {
@@ -2626,14 +2666,6 @@
       ]
     },
     {
-      "title": "Cult of the Lamb (Devolver Digital) (RUS/ENG/Multi10) [DL|GOG]",
-      "fileSize": "4.41 GB",
-      "uploadDate": "2026-09-01T01:42:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:96a485e16200ecb6773b684dfd30d1ef7e0755ff&dn=Cult%20of%20the%20Lamb%20%28Devolver%20Digital%29%20%28RUS/ENG/Multi10%29%20%5BDL%7CGOG%5D"
-      ]
-    },
-    {
       "title": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version (ENG/MULTI6)[Repack]",
       "fileSize": "23.05 GB",
       "uploadDate": "2026-08-31T23:47:00.000Z",
@@ -2823,14 +2855,6 @@
       "uploadDate": "2026-08-21T12:26:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:77ddad20958106192c760460fc77461ee098663c&dn=The%20Thing%20That%20Happened%20%28ENG%7CMULTi6%29%20%5BP%5D"
-      ]
-    },
-    {
-      "title": "Shadows of Doubt (Fireshine Games) (RUS/ENG/Multi9) [DL|GOG]",
-      "fileSize": "1.32 GB",
-      "uploadDate": "2026-08-21T01:43:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:fea5fd68fc533a845ab968b902dced53d6db2419&dn=Shadows%20of%20Doubt%20%28Fireshine%20Games%29%20%28RUS/ENG/Multi9%29%20%5BDL%7CGOG%5D"
       ]
     },
     {
@@ -3327,14 +3351,6 @@
       "uploadDate": "2026-07-27T13:54:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:fa6c72114b012768e16dad200b718963fa1598b2&dn=%D0%A7%D0%B0%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20%D0%9C%D0%90%D0%A3%D0%A1%20/%20MOUSE%3A%20P.I.%20For%20Hire%20%28RUS/ENG/MULTi14%29%20%5BP%5D"
-      ]
-    },
-    {
-      "title": "Moros Protocol (Super Rare Originals) (RUS|ENG|MULTi16) [DL|GOG]",
-      "fileSize": "2.14 GB",
-      "uploadDate": "2026-07-27T11:52:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:7fbaefedce208171d08368e1b9d38eb3c91df49d&dn=Moros%20Protocol%20%28Super%20Rare%20Originals%29%20%28RUS%7CENG%7CMULTi16%29%20%5BDL%7CGOG%5D"
       ]
     },
     {
@@ -4847,14 +4863,6 @@
       "uploadDate": "2026-04-14T23:34:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:8aa021d549c73644876cf84a354cb7e4bb27ac3f&dn=Call%20of%20Duty%3A%20Black%20Ops%202%20-%20PlutoT6%20Client%20%28RUS%29%20%5BP%5D"
-      ]
-    },
-    {
-      "title": "Silent Hill f (KONAMI) (RUS|ENG|MULTi13) [DL|GOG]",
-      "fileSize": "42.4 GB",
-      "uploadDate": "2026-04-13T18:50:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:9e1364344941b0030f6b88dddd06b22a28267fd1&dn=Silent%20Hill%20f%20%28KONAMI%29%20%28RUS%7CENG%7CMULTi13%29%20%5BDL%7CGOG%5D"
       ]
     },
     {
@@ -10501,14 +10509,6 @@
       "uploadDate": "2024-11-18T18:37:00.000Z",
       "uris": [
         "magnet:?xt=urn:btih:06aa99c90f02f04fdeb285189acf8f9bc9fae432&dn=Kvark%20%28RUS/ENG/MULTI7%29%20%5BRepack%5D"
-      ]
-    },
-    {
-      "title": "BioShock Infinite (RUS) [RePack] от R.G. Механики",
-      "fileSize": "17.01 GB",
-      "uploadDate": "2024-11-18T16:39:00.000Z",
-      "uris": [
-        "magnet:?xt=urn:btih:83fd63b4daa54200af3b46453eda3186f93cc934&dn=BioShock%20Infinite%20%28RUS%29%20%5BRePack%5D%20%D0%BE%D1%82%20R.G.%20%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B8"
       ]
     },
     {
